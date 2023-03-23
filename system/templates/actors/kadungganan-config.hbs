@@ -1,0 +1,320 @@
+{{log "HANDLEBARS DATA"}}
+{{log this}}
+<form class="{{cssClass}} flexcol" autocomplete="off">
+  {{! Sheet Header }}
+  <header class="sheet-header flexrow">
+    <img class="profile" src="{{document.img}}" title="{{document.name}}" data-edit="img" />
+    <h1 class="title flex3">
+      <input
+        name="name"
+        type="text"
+        value="{{document.name}}"
+        placeholder="{{localize 'GUBATBANWA.KadunggananNamePlaceholder'}}"
+      />
+    </h1>
+
+    {{! Legend }}
+    <fieldset>
+      <legend>{{localize "GUBATBANWA.Recognition"}}</legend>
+
+      {{! Legend }}
+      <div class="form-group" data-name="system.legend">
+        <label>{{localize "GUBATBANWA.Legend"}}</label>
+        {{numberInput document.system.legend name="system.legend" min=0 max=8 step=1}}
+      </div>
+
+      {{! Arc }}
+      <div class="form-group" data-name="system.arc">
+        <label>{{localize "GUBATBANWA.Arc"}}</label>
+        <input type="number" value="{{document.system.arc}}" disabled />
+      </div>
+    </fieldset>
+
+    {{! Legend }}
+    <fieldset>
+      <legend>{{localize "GUBATBANWA.Recognition"}}</legend>
+
+      {{! Honor }}
+      <div class="form-group" data-name="system.honor">
+        <label>{{localize "GUBATBANWA.Honor"}}</label>
+        {{numberInput document.system.honor name="system.honor" min=-1 max=8 step=1}}
+      </div>
+
+      {{! Thunderbolt Tokens }}
+      <div class="form-group" data-name="system.thunderboltToken">
+        <label>{{localize "GUBATBANWA.ThunderboltTokenLabel"}}</label>
+        {{numberInput document.system.thunderboltTokens name="system.thunderboltTokens" min=0 step=1}}
+      </div>
+    </fieldset>
+  </header>
+
+  {{! Body }}
+  <section class="sheet-body">
+    {{! Character Sheet Navigation }}
+    <nav class="sheet-navigation tabs" data-group="primary">
+      <a class="item" data-tab="war-drama"><i class="fa-solid fa-compass"></i> {{localize "GUBATBANWA.WarDrama"}}</a>
+      <a class="item" data-tab="violence"><i class="fa-solid fa-bolt"></i> {{localize "GUBATBANWA.Violence"}}</a>
+      <!--            <a class="item" data-tab="inventory">{{ localize "GUBATBANWA.Inventory" }}</a>-->
+    </nav>
+
+    <section class="tabs-container">
+      <div class="tab war-drama" data-group="primary" data-tab="war-drama">
+        <div class="flexrow">
+          {{! alignments }}
+          <fieldset class="flexrow alignments flex3">
+            <legend>{{localize "GUBATBANWA.Alignments.Label"}}</legend>
+            {{! HP }}
+            <fieldset>
+              <legend>{{localize "GUBATBANWA.Identity"}}</legend>
+
+              {{! Current }}
+              <div class="form-group identity flexcol" data-name="system.pronouns">
+                <label>{{localize "GUBATBANWA.Pronouns"}}</label>
+                <input
+                  name="system.pronouns"
+                  type="text"
+                  value="{{document.system.pronouns}}"
+                  placeholder="{{localize 'GUBATBANWA.KadunggananPronounsPlaceholder'}}"
+                />
+              </div>
+
+              <hr />
+
+              {{! Max }}
+              <div class="form-group identity flexcol" data-name="system.hp.max">
+                <label>{{localize "GUBATBANWA.Folk"}}</label>
+                <input
+                  name="system.folk"
+                  type="text"
+                  value="{{document.system.folk}}"
+                  placeholder="{{localize 'GUBATBANWA.KadunggananFolkPlaceholder'}}"
+                />
+              </div>
+            </fieldset>
+
+            {{! Fire }}
+            <div class="form-group alignment flexcol" data-name="fire">
+              <label>{{localize "GUBATBANWA.Alignments.Fire"}}</label>
+              {{numberInput document.system.alignments.fire name="system.alignments.fire" step=1 min=2 max=6}}
+              <a data-action="roll-alignment"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Water }}
+            <div class="form-group alignment flexcol" data-name="water">
+              <label>{{localize "GUBATBANWA.Alignments.Water"}}</label>
+              {{numberInput document.system.alignments.water name="system.alignments.water" step=1 min=2 max=6}}
+              <a data-action="roll-alignment"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Metal }}
+            <div class="form-group alignment flexcol" data-name="metal">
+              <label>{{localize "GUBATBANWA.Alignments.Metal"}}</label>
+              {{numberInput document.system.alignments.metal name="system.alignments.metal" step=1 min=2 max=6}}
+              <a data-action="roll-alignment"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Air }}
+            <div class="form-group alignment flexcol" data-name="air">
+              <label>{{localize "GUBATBANWA.Alignments.Air"}}</label>
+              {{numberInput document.system.alignments.air name="system.alignments.air" step=1 min=2 max=6}}
+              <a data-action="roll-alignment"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Earth }}
+            <div class="form-group alignment flexcol" data-name="earth">
+              <label>{{localize "GUBATBANWA.Alignments.Earth"}}</label>
+              {{numberInput document.system.alignments.earth name="system.alignments.earth" step=1 min=2 max=6}}
+              <a data-action="roll-alignment"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+          </fieldset>
+        </div>
+
+        <div class="flexrow backgrounds flex3">
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Culture"}}</label>
+            {{editor
+              cultureHTML
+              target="system.culture"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Subculture"}}</label>
+            {{editor
+              subcultureHTML
+              target="system.subculture"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Lineage"}}</label>
+            {{editor
+              lineageHTML
+              target="system.lineage"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.SocialStanding"}}</label>
+            {{editor
+              socialStandingHTML
+              target="system.socialStanding"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Conviction"}}</label>
+            {{editor
+              convictionHTML
+              target="system.conviction"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Conjecture"}}</label>
+            {{editor
+              conjectureHTML
+              target="system.conjecture"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Debts"}}</label>
+            {{editor
+              debtsHTML
+              target="system.debts"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Complications"}}</label>
+            {{editor
+              complicationsHTML
+              target="system.complications"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Items"}}</label>
+            {{editor
+              itemsHTML
+              target="system.items"
+              button=true
+              editable=editable
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+        </div>
+      </div>
+
+      <div class="tab violence" data-group="primary" data-tab="violence">
+        <div class="flexrow">
+          {{! Martial Abilities }}
+          <fieldset class="flexrow abilities flex3">
+            <legend>{{localize "GUBATBANWA.Abilities.Label"}}</legend>
+
+            {{! HP }}
+            <fieldset>
+              <legend>{{localize "GUBATBANWA.HP.Label"}}</legend>
+
+              {{! Current }}
+              <div class="form-group" data-name="system.hp.current">
+                <label>{{localize "GUBATBANWA.HP.Current"}}</label>
+                {{numberInput
+                  document.system.hp.current
+                  name="system.hp.current"
+                  min=0
+                  max=document.system.hp.max
+                  step=1
+                }}
+              </div>
+
+              {{! Max }}
+              <div class="form-group" data-name="system.hp.max">
+                <label>{{localize "GUBATBANWA.HP.Max"}}</label>
+                <input type="number" value="{{system.hp.max}}" disabled />
+              </div>
+
+              {{! Progress Bar }}
+              <div class="form-group">
+                <progress
+                  class="health"
+                  value="{{document.system.hp.current}}"
+                  max="{{document.system.hp.max}}"
+                ></progress>
+              </div>
+
+              <hr />
+
+              {{! Block }}
+              <div class="form-group" data-name="system.hp.block">
+                <label>{{localize "GUBATBANWA.HP.Block"}}</label>
+                {{numberInput document.system.hp.block name="system.hp.block" min=0 step=1}}
+              </div>
+            </fieldset>
+
+            {{! Bravery }}
+            <div class="form-group ability flexcol" data-name="bravery">
+              <label>{{localize "GUBATBANWA.Abilities.Bravery"}}</label>
+              {{numberInput document.system.abilities.bravery name="system.abilities.bravery" step=1 min=3 max=7}}
+              <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Faith }}
+            <div class="form-group ability flexcol" data-name="faith">
+              <label>{{localize "GUBATBANWA.Abilities.Faith"}}</label>
+              {{numberInput document.system.abilities.faith name="system.abilities.faith" step=1 min=3 max=7}}
+              <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Posture }}
+            <div class="form-group ability flexcol" data-name="posture">
+              <label>{{localize "GUBATBANWA.Abilities.Posture"}}</label>
+              {{numberInput document.system.abilities.posture name="system.abilities.posture" step=1 min=3 max=7}}
+              <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Resistance }}
+            <div class="form-group ability flexcol" data-name="resistance">
+              <label>{{localize "GUBATBANWA.Abilities.Resistance"}}</label>
+              {{numberInput document.system.abilities.resistance name="system.abilities.resistance" step=1 min=3 max=7}}
+              <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+
+            {{! Speed }}
+            <div class="form-group ability flexcol" data-name="speed">
+              <label>{{localize "GUBATBANWA.Abilities.Speed"}}</label>
+              {{numberInput document.system.abilities.speed name="system.abilities.speed" step=1 min=3 max=7}}
+              <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+            </div>
+          </fieldset>
+        </div>
+      </div>
+    </section>
+  </section>
+</form>

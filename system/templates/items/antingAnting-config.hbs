@@ -1,0 +1,30 @@
+<form class="{{cssClass}} flexcol" autocomplete="off">
+
+  {{! Sheet Header }}
+  <header class="sheet-header flexrow">
+    <img class="profile" src="{{document.img}}" title="{{document.name}}" data-edit="img" />
+    <h1 class="title flex3">
+      <input name="name" type="text" value="{{document.name}}" placeholder="{{localize 'GUBATBANWA.AntingAnting'}}" />
+    </h1>
+  </header>
+
+  {{! Description Tab }}
+  <section class="sheet-body">
+    {{! Description }}
+    <div class="form-group stacked" data-name="system.description">
+      <label>{{localize "Description"}}</label>
+      {{editor
+        descriptionHTML
+        target="system.description"
+        button=true
+        editable=editable
+        engine="prosemirror"
+        collaborate=false
+      }}
+    </div>
+  </section>
+  {{! Save Changes }}
+  <footer>
+    <button type="submit">{{localize "Save"}}</button>
+  </footer>
+</form>

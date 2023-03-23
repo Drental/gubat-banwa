@@ -1,0 +1,82 @@
+<form class="{{cssClass}} flexcol" autocomplete="off">
+
+  {{! Sheet Header }}
+  <header class="sheet-header flexrow">
+    <img class="profile" src="{{document.img}}" title="{{document.name}}" data-edit="img" />
+    <h1 class="title flex3">
+      <input name="name" type="text" value="{{document.name}}" placeholder="{{localize 'GUBATBANWA.Discipline'}}" />
+    </h1>
+    <fieldset>
+      <legend>{{localize "GUBATBANWA.Style.Label"}}</legend>
+      <select name="system.style">
+        {{selectOptions STYLE_TYPES selected=document.system.style}}
+      </select>
+    </fieldset>
+  </header>
+
+  {{! Description Tab }}
+  <section class="sheet-body">
+    {{! generic stats and info}}
+    <fieldset class="flexcol details flex3">
+      <legend>{{localize "GUBATBANWA.Details"}}</legend>
+      <div class="form-group detail flexcol" data-name="system.hp">
+        <label>{{localize "GUBATBANWA.HP.Label"}}</label>
+        {{numberInput document.system.hp name="system.hp" min=0 step=2}}
+      </div>
+      <div class="form-group detail flexcol" data-name="system.weapon">
+        <label>{{localize "GUBATBANWA.Weapon"}}</label>
+        <input
+          name="system.weapon"
+          type="text"
+          value="{{document.system.weapon}}"
+          placeholder="{{localize 'GUBATBANWA.Weapon'}}"
+        />
+      </div>
+      <div class="form-group detail flexcol" data-name="system.armor">
+        <label>{{localize "GUBATBANWA.Armor"}}</label>
+        <input
+          name="system.armor"
+          type="text"
+          value="{{document.system.armor}}"
+          placeholder="{{localize 'GUBATBANWA.Armor'}}"
+        />
+      </div>
+    </fieldset>
+    {{! Description }}
+    <div class="form-group stacked" data-name="system.description">
+      <label>{{localize "Description"}}</label>
+      {{editor
+        descriptionHTML
+        target="system.description"
+        button=true
+        editable=editable
+        engine="prosemirror"
+        collaborate=false
+      }}
+    </div>
+
+    {{! Violences }}
+    <div class="form-group stacked" data-name="system.violences">
+      <label>{{localize "Violences"}}</label>
+      {{editor
+        violencesHTML
+        target="system.violences"
+        button=true
+        editable=editable
+        engine="prosemirror"
+        collaborate=false
+      }}
+    </div>
+
+    {{! Traits }}
+    <div class="form-group stacked" data-name="system.traits">
+      <label>{{localize "Traits"}}</label>
+      {{editor traitsHTML target="system.traits" button=true editable=editable engine="prosemirror" collaborate=false}}
+    </div>
+
+  </section>
+  {{! Save Changes }}
+  <footer>
+    <button type="submit">{{localize "Save"}}</button>
+  </footer>
+</form>

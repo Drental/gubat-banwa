@@ -1,0 +1,32 @@
+{
+  "id": "gubat-banwa",
+  "title": "Gubat Banwa",
+  "description": "A fanmade system to support the rules of Gubat Banwa in FoundryVTT.",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11,
+    "maximum": 11
+  },
+  "authors": [
+    {
+      "name": "Gunnar Busch",
+      "discord": "Drental#7146"
+    }
+  ],
+  "scripts": [],
+  "esmodules": ["system/gubat-banwa.mjs"],
+  "styles": ["css/gubat-banwa.css"],
+  "license": "LICENSE",
+  "readme": "README.md",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}

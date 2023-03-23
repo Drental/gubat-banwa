@@ -1,0 +1,73 @@
+{
+  "GUBATBANWA": {
+    "Abilities": {
+      "Bravery": "Bravery",
+      "Faith": "Faith",
+      "Label": "Martial Abilities",
+      "Posture": "Posture",
+      "Resistance": "Resistance",
+      "Speed": "Speed"
+    },
+    "Alignments": {
+      "Air": "Air",
+      "Earth": "Earth",
+      "Fire": "Fire",
+      "Label": "Alignments",
+      "Metal": "Metal",
+      "Water": "Water"
+    },
+    "AntingAnting": "Anting Anting",
+    "Arc": "Arc",
+    "Armor": "Armor",
+    "Cast": {
+      "CrocodilesTeeth": "Cast the Crocodile's Teeth",
+      "Violent": "Violent Cast"
+    },
+    "Complications": "Complications",
+    "Conjecture": "Conjecture",
+    "Conviction": "Conviction",
+    "Culture": "Culture",
+    "Debts": "Debts",
+    "Details": "Details",
+    "Discipline": "Discipline",
+    "Folk": "Folk",
+    "Honor": "Honor",
+    "HP": {
+      "Block": "Block",
+      "Current": "Current",
+      "Label": "HP",
+      "Max": "Max"
+    },
+    "Identity": "Identity",
+    "Info": "Info",
+    "Items": "Items",
+    "KadunggananFolkPlaceholder": "Folk",
+    "KadunggananNamePlaceholder": "Kadungganan Name",
+    "KadunggananPronounsPlaceholder": "they/them",
+    "Legend": "Legend",
+    "Lineage": "Lineage",
+    "Moxie": {
+      "Confident": "Confident",
+      "Daring": "Daring",
+      "Hesitant": "Hesitant",
+      "Label": "Moxie"
+    },
+    "Pronouns": "Pronouns",
+    "Recognition": "Recognition",
+    "SocialStanding": "Social Standing",
+    "Style": {
+      "Label": "Style",
+      "Medium": "Medium",
+      "Raider": "Raider",
+      "Sentinel": "Sentinel",
+      "Sharpshooter": "Sharpshooter",
+      "Witch": "Witch"
+    },
+    "Subculture": "Subculture",
+    "Technique": "Technique",
+    "ThunderboltTokenLabel": "TB",
+    "Violence": "Violence",
+    "WarDrama": "War Drama",
+    "Weapon": "Weapon"
+  }
+}

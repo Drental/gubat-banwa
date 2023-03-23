@@ -1,0 +1,19 @@
+{
+  "Actor": {
+    "types": ["kadungganan"],
+    "pc": {
+      "abilities": {},
+      "alignments": {},
+      "antingAnting": [],
+      "consumables": [],
+      "hp": {},
+      "techniques": []
+    }
+  },
+  "Item": {
+    "types": ["discipline", "technique", "antingAnting"],
+    "antingAnting": {},
+    "discipline": {},
+    "technique": {}
+  }
+}

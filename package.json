@@ -1,0 +1,20 @@
+{
+  "name": "gubat-banwa",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "postcss postcss/gubat-banwa.css --use autoprefixer --use postcss-nesting --use postcss-import -o css/gubat-banwa.css -m",
+    "lint": "eslint --ext .mjs ./",
+    "lint:fix": "eslint --ext .mjs ./ --fix",
+    "watch": "postcss postcss/gubat-banwa.css --use autoprefixer --use postcss-nesting --use postcss-import -o css/gubat-banwa.css -m -w"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.36.0",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "postcss-import": "^15.1.0",
+    "postcss-nesting": "^11.2.1"
+  }
+}
