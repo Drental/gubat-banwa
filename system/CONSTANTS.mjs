@@ -10,6 +10,18 @@ function log(...args) {
 }
 
 /**
+ * The supported alignment types.
+ * @type {{label: string}}
+ */
+const ALIGNMENT_TYPES = {
+  fire: { label: "Fire" },
+  water: { label: "Water" },
+  metal: { label: "Metal" },
+  air: { label: "Air" },
+  earth: { label: "Earth" }
+};
+
+/**
  * The supported style types.
  * @type {{label: string}}
  */
@@ -26,6 +38,7 @@ export const SYSTEM = {
   name: SYSTEM_NAME,
   log,
   isDebugging,
+  ALIGNMENT_TYPES,
   STYLE_TYPES,
   DISCIPLINE_DOCUMENTS: new Collection(),
   TECHNIQUE_DOCUMENTS: new Collection(),

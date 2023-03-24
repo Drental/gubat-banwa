@@ -1,5 +1,3 @@
-{{log "HANDLEBARS DATA"}}
-{{log this}}
 <form class="{{cssClass}} flexcol" autocomplete="off">
   {{! Sheet Header }}
   <header class="sheet-header flexrow">
@@ -50,6 +48,36 @@
 
   {{! Body }}
   <section class="sheet-body">
+
+    {{! Builder Choices}}
+    <fieldset class="flexrow flex3">
+      <legend>{{localize "GUBATBANWA.CharacterChoices"}}</legend>
+      <div class="form-group stacked">
+        <label>{{localize "GUBATBANWA.Sword"}}</label>
+        <select name="system.sword" class="center">
+          {{selectOptions ALIGNMENT_TYPES selected=document.system.sword}}
+        </select>
+      </div>
+      <div class="form-group stacked">
+        <label>{{localize "GUBATBANWA.Crown"}}</label>
+        <select name="system.crown" class="center">
+          {{selectOptions ALIGNMENT_TYPES selected=document.system.crown}}
+        </select>
+      </div>
+      <div class="form-group stacked">
+        <label>{{localize "GUBATBANWA.Mask"}}</label>
+        <select name="system.mask" class="center">
+          {{selectOptions ALIGNMENT_TYPES selected=document.system.mask}}
+        </select>
+      </div>
+      <div class="form-group stacked">
+        <label>{{localize "GUBATBANWA.Discipline"}}</label>
+        <select name="system.discipline" class="center">
+          {{selectOptions DISCIPLINE_TYPES selected=document.system.disciplineId}}
+        </select>
+      </div>
+    </fieldset>
+
     {{! Character Sheet Navigation }}
     <nav class="sheet-navigation tabs" data-group="primary">
       <a class="item" data-tab="war-drama"><i class="fa-solid fa-compass"></i> {{localize "GUBATBANWA.WarDrama"}}</a>

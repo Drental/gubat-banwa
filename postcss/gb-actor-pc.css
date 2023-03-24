@@ -53,6 +53,9 @@
     margin: 5px auto;
     transition: all 0.25s ease-in-out;
   }
+  .center {
+    text-align: center;
+  }
 
   .health {
     &::-moz-progress-bar {

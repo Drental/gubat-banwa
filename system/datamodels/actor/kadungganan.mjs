@@ -8,9 +8,12 @@ export default class KadunggananTypeDataModel extends foundry.abstract.DataModel
   static defineSchema() {
     const fields = foundry.data.fields;
     return {
-      // progression and Thunderbolt Tokens
+      // progression and character choices
       legend: new fields.NumberField({ min: 0, initial: 0, max: 8, integer: true }),
       thunderboltTokens: new fields.NumberField({ min: 0, initial: 1, integer: true }),
+      crown: new fields.StringField({ initial: "fire", choices: CONFIG.SYSTEM.ALIGNMENT_TYPES }),
+      mask: new fields.StringField({ initial: "fire", choices: CONFIG.SYSTEM.ALIGNMENT_TYPES }),
+      sword: new fields.StringField({ initial: "fire", choices: CONFIG.SYSTEM.ALIGNMENT_TYPES }),
 
       // War Drama related fields
       // Fields with Mechanical importance

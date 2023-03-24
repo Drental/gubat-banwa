@@ -1,10 +1,11 @@
+import { SYSTEM_ID } from "../../CONSTANTS.mjs";
 import ActorDocumentSheet from "./actor-config.mjs";
 
 export default class KadunggananConfig extends ActorDocumentSheet {
   /** @override */
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
-      classes: ["gubat-banwa", "sheet", "actor", "kadungganan"],
+      classes: [SYSTEM_ID, "sheet", "actor", "kadungganan"],
       tabs: [{ navSelector: ".tabs", contentSelector: ".tabs-container", initial: "war-drama" }],
       // infoTabs: [{ navSelector: ".info-tabs", contentSelector: ".info-tabs-container", initial: "culture" }],
       closeOnSubmit: false,
@@ -21,6 +22,7 @@ export default class KadunggananConfig extends ActorDocumentSheet {
     context.DISCIPLINE_TYPES = await this.getForeignDocumentOptions("Item", "discipline");
     context.TECHNIQUE_TYPES = await this.getForeignDocumentOptions("Item", "technique");
     context.ANTINGANTING_TYPES = await this.getForeignDocumentOptions("Item", "antingAnting");
+    context.ALIGNMENT_TYPES = this.getOptionsList(CONFIG.SYSTEM.ALIGNMENT_TYPES);
 
     context.cultureHTML = await TextEditor.enrichHTML(this.object.system.culture, {
       async: true,
