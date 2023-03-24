@@ -17,6 +17,18 @@
   "scripts": [],
   "esmodules": ["system/gubat-banwa.mjs"],
   "styles": ["css/gubat-banwa.css"],
+
+  "packs": [
+    {
+      "name": "disciplines",
+      "label": "Disciplines",
+      "system": "gubat-banwa",
+      "path": "packs/disciplines.db",
+      "type": "Item",
+      "private": true,
+      "flags": {}
+    }
+  ],
   "license": "LICENSE",
   "readme": "README.md",
   "languages": [
