@@ -21,7 +21,8 @@
     "Armor": "Armor",
     "Cast": {
       "CrocodilesTeeth": "Cast the Crocodile's Teeth",
-      "Violent": "Violent Cast"
+      "Violent": "Violent Cast",
+      "Label": "Cast"
     },
     "Complications": "Complications",
     "Conjecture": "Conjecture",

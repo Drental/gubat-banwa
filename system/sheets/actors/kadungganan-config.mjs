@@ -67,6 +67,7 @@ export default class KadunggananConfig extends ActorDocumentSheet {
   activateListeners(html) {
     super.activateListeners(html);
     html.find("a[data-action='roll-alignment']").on("click", this._onRollAlignment.bind(this));
+    html.find("a[data-action='roll-ability']").on("click", this._onRollAbility.bind(this));
 
     html.find('[data-action="delete"]').click(this._onDeleteDatasetItem.bind(this));
     html.find('input[name="system.hp.current"]').on("input", (event) => this._onProgressValueInputChange(event));
@@ -169,6 +170,52 @@ export default class KadunggananConfig extends ActorDocumentSheet {
                 )}] - 2d8cs>=6[${game.i18n.localize("GUBATBANWA.Moxie.Label")}]`
               ).toMessage({
                 flavor: "Casting the Crocodile's Teeth:"
+              });
+              expandRoll(result);
+            },
+            icon: '<i class="fa-solid fa-dice"></i>'
+          }
+        }
+      },
+      { width: 450 }
+    ).render(true);
+  }
+
+  /* -------------------------------------------- */
+
+  /**
+   * Cast the crocodile's Teeth.
+   * @param {Event} event
+   * @private
+   */
+  _onRollAbility(event) {
+    const expandRoll = foundry.utils.debounce((result) => {
+      const message = document.querySelector(`[data-message-id="${result.id}"] .dice-tooltip`);
+      message.classList.add("expanded");
+      message.scrollIntoView();
+    }, 50);
+    const ability = event.target.closest("[data-name]").dataset.name;
+    if (ability === "speed") {
+      return;
+    }
+    new Dialog(
+      {
+        title: game.i18n.localize("GUBATBANWA.Cast.Violent"),
+        content:
+          '<label>Adjust Violence Cast die count: </label><input type="number" value="0" step="1" id="adjustment">',
+        buttons: {
+          roll: {
+            label: game.i18n.localize("GUBATBANWA.Cast.Label"),
+            callback: async (html) => {
+              const abilityTeeth = this.document.system.abilities[ability];
+              const teeth = abilityTeeth + Number(html.find("#adjustment")[0].value);
+              const teethSize = ["bravery", "faith"].includes(ability) ? 10 : 8;
+              const result = await new Roll(
+                `${teeth}d${teethSize}cs>=6[${game.i18n.localize(
+                  `GUBATBANWA.Abilities.${ability.charAt(0).toUpperCase() + ability.slice(1)}`
+                )}]`
+              ).toMessage({
+                flavor: "Violence Cast:"
               });
               expandRoll(result);
             },
