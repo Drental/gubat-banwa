@@ -57,6 +57,20 @@ export default class GubatBanwaActor extends Actor {
 
     this.prepareArc();
     await this.prepareForeignDocumentData();
+    this.prepareAlignment();
+    this.prepareAbility();
+  }
+
+  /* -------------------------------------------- */
+
+  prepareAlignment() {
+    // this.system.arc = Math.floor(this.system.legend / 3) + 1;
+  }
+
+  /* -------------------------------------------- */
+
+  prepareAbility() {
+    // this.system.arc = Math.floor(this.system.legend / 3) + 1;
   }
 
   /* -------------------------------------------- */
