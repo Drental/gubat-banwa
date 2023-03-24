@@ -42,7 +42,7 @@ export default class KadunggananTypeDataModel extends foundry.abstract.DataModel
       // Mechanical data
       hp: new fields.SchemaField({
         max: new fields.NumberField({ min: 0, initial: 0, integer: true }),
-        current: new fields.NumberField({ initial: 0, integer: true }),
+        value: new fields.NumberField({ min: 0, initial: 0, integer: true }),
         block: new fields.NumberField({ min: 0, initial: 0, integer: true })
       }),
       abilities: new fields.SchemaField({

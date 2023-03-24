@@ -44,7 +44,7 @@
     </fieldset>
     {{! Description }}
     <div class="form-group stacked" data-name="system.description">
-      <label>{{localize "Description"}}</label>
+      <label>{{localize "GUBATBANWA.Description"}}</label>
       {{editor
         descriptionHTML
         target="system.description"
@@ -55,9 +55,15 @@
       }}
     </div>
 
+    {{! Traits }}
+    <div class="form-group stacked" data-name="system.traits">
+      <label>{{localize "GUBATBANWA.Traits"}}</label>
+      {{editor traitsHTML target="system.traits" button=true editable=editable engine="prosemirror" collaborate=false}}
+    </div>
+
     {{! Violences }}
     <div class="form-group stacked" data-name="system.violences">
-      <label>{{localize "Violences"}}</label>
+      <label>{{localize "GUBATBANWA.Violences"}}</label>
       {{editor
         violencesHTML
         target="system.violences"
@@ -66,12 +72,6 @@
         engine="prosemirror"
         collaborate=false
       }}
-    </div>
-
-    {{! Traits }}
-    <div class="form-group stacked" data-name="system.traits">
-      <label>{{localize "Traits"}}</label>
-      {{editor traitsHTML target="system.traits" button=true editable=editable engine="prosemirror" collaborate=false}}
     </div>
 
   </section>

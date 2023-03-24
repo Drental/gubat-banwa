@@ -1,4 +1,6 @@
-<form class="{{cssClass}} flexcol" autocomplete="off">
+{{log "HANDLEBARS DATA"}}
+{{log this}}
+<form class="{{cssClass}} flexcol {{document.system.discipline.system.style}}" autocomplete="off">
   {{! Sheet Header }}
   <header class="sheet-header flexrow">
     <img class="profile" src="{{document.img}}" title="{{document.name}}" data-edit="img" />
@@ -52,24 +54,32 @@
     {{! Builder Choices}}
     <fieldset class="flexrow flex3">
       <legend>{{localize "GUBATBANWA.CharacterChoices"}}</legend>
+
+      {{! Sword }}
       <div class="form-group stacked">
         <label>{{localize "GUBATBANWA.Sword"}}</label>
         <select name="system.sword" class="center">
           {{selectOptions ALIGNMENT_TYPES selected=document.system.sword}}
         </select>
       </div>
+
+      {{! Crown }}
       <div class="form-group stacked">
         <label>{{localize "GUBATBANWA.Crown"}}</label>
         <select name="system.crown" class="center">
           {{selectOptions ALIGNMENT_TYPES selected=document.system.crown}}
         </select>
       </div>
+
+      {{! Mask }}
       <div class="form-group stacked">
         <label>{{localize "GUBATBANWA.Mask"}}</label>
         <select name="system.mask" class="center">
           {{selectOptions ALIGNMENT_TYPES selected=document.system.mask}}
         </select>
       </div>
+
+      {{! Discipline }}
       <div class="form-group stacked">
         <label>{{localize "GUBATBANWA.Discipline"}}</label>
         <select name="system.discipline" class="center">
@@ -91,11 +101,11 @@
           {{! alignments }}
           <fieldset class="flexrow alignments flex3">
             <legend>{{localize "GUBATBANWA.Alignments.Label"}}</legend>
-            {{! HP }}
+            {{! Identity }}
             <fieldset>
               <legend>{{localize "GUBATBANWA.Identity"}}</legend>
 
-              {{! Current }}
+              {{! Pronouns }}
               <div class="form-group identity flexcol" data-name="system.pronouns">
                 <label>{{localize "GUBATBANWA.Pronouns"}}</label>
                 <input
@@ -108,8 +118,8 @@
 
               <hr />
 
-              {{! Max }}
-              <div class="form-group identity flexcol" data-name="system.hp.max">
+              {{! Folk }}
+              <div class="form-group identity flexcol" data-name="system.folk">
                 <label>{{localize "GUBATBANWA.Folk"}}</label>
                 <input
                   name="system.folk"
@@ -270,29 +280,23 @@
             <fieldset>
               <legend>{{localize "GUBATBANWA.HP.Label"}}</legend>
 
-              {{! Current }}
-              <div class="form-group" data-name="system.hp.current">
-                <label>{{localize "GUBATBANWA.HP.Current"}}</label>
-                {{numberInput
-                  document.system.hp.current
-                  name="system.hp.current"
-                  min=0
-                  max=document.system.hp.max
-                  step=1
-                }}
-              </div>
-
               {{! Max }}
               <div class="form-group" data-name="system.hp.max">
                 <label>{{localize "GUBATBANWA.HP.Max"}}</label>
-                <input type="number" value="{{system.hp.max}}" disabled />
+                <input type="number" value="{{document.system.hp.max}}" disabled />
+              </div>
+
+              {{! Current }}
+              <div class="form-group" data-name="system.hp.value">
+                <label>{{localize "GUBATBANWA.HP.Value"}}</label>
+                {{numberInput document.system.hp.value name="system.hp.value" min=0 max=document.system.hp.max step=1}}
               </div>
 
               {{! Progress Bar }}
               <div class="form-group">
                 <progress
                   class="health"
-                  value="{{document.system.hp.current}}"
+                  value="{{document.system.hp.value}}"
                   max="{{document.system.hp.max}}"
                 ></progress>
               </div>
@@ -341,6 +345,30 @@
               <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
             </div>
           </fieldset>
+        </div>
+        <div class="flexrow backgrounds flex3">
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Traits"}}</label>
+            {{editor
+              traitsHTML
+              target="system.discipline.system.traits"
+              button=false
+              editable=false
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
+          <div class="background">
+            <label>{{localize "GUBATBANWA.Violences"}}</label>
+            {{editor
+              violencesHTML
+              target="system.discipline.system.violences"
+              button=false
+              editable=false
+              engine="prosemirror"
+              collaborate=false
+            }}
+          </div>
         </div>
       </div>
     </section>

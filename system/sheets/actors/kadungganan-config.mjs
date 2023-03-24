@@ -60,6 +60,14 @@ export default class KadunggananConfig extends ActorDocumentSheet {
       async: true,
       secrets: this.object.isOwner
     });
+    context.traitsHTML = await TextEditor.enrichHTML(this.object.system.discipline?.system?.traits, {
+      async: true,
+      secrets: this.object.isOwner
+    });
+    context.violencesHTML = await TextEditor.enrichHTML(this.object.system.discipline?.system?.violences, {
+      async: true,
+      secrets: this.object.isOwner
+    });
     return context;
   }
 
@@ -72,7 +80,7 @@ export default class KadunggananConfig extends ActorDocumentSheet {
     html.find("a[data-action='roll-ability']").on("click", this._onRollAbility.bind(this));
 
     html.find('[data-action="delete"]').click(this._onDeleteDatasetItem.bind(this));
-    html.find('input[name="system.hp.current"]').on("input", (event) => this._onProgressValueInputChange(event));
+    html.find('input[name="system.hp.value"]').on("input", (event) => this._onProgressValueInputChange(event));
     html.find("a.content-link").click(this._onClickContentLink.bind(this));
   }
 

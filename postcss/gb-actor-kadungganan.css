@@ -268,4 +268,7 @@
       font-weight: bold;
     }
   }
+  .form-group.stacked {
+    padding: 0 2px;
+  }
 }

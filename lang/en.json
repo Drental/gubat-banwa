@@ -31,13 +31,14 @@
     "Crown": "Crown",
     "Culture": "Culture",
     "Debts": "Debts",
+    "Description": "Description",
     "Details": "Details",
     "Discipline": "Discipline",
     "Folk": "Folk",
     "Honor": "Honor",
     "HP": {
       "Block": "Block",
-      "Current": "Current",
+      "Value": "Current",
       "Label": "HP",
       "Max": "Max"
     },
@@ -71,7 +72,9 @@
     "Sword": "Sword",
     "Technique": "Technique",
     "ThunderboltTokenLabel": "TB",
+    "Traits": "Traits",
     "Violence": "Violence",
+    "Violences": "Violences",
     "WarDrama": "War Drama",
     "Weapon": "Weapon"
   }

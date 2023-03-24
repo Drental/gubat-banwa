@@ -73,5 +73,7 @@ export default class GubatBanwaActor extends Actor {
     }
     this.system.disciplineId = this._source.system.discipline;
     this.system.discipline = CONFIG.SYSTEM.DISCIPLINE_DOCUMENTS.get(this._source.system.discipline);
+
+    this.system.hp.max = this.system.discipline?.system?.hp;
   }
 }
