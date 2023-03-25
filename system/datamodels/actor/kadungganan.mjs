@@ -18,11 +18,21 @@ export default class KadunggananTypeDataModel extends foundry.abstract.DataModel
       // War Drama related fields
       // Fields with Mechanical importance
       alignments: new fields.SchemaField({
-        fire: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true }),
-        water: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true }),
-        metal: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true }),
-        air: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true }),
-        earth: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true })
+        fire: new fields.SchemaField({
+          value: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true })
+        }),
+        water: new fields.SchemaField({
+          value: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true })
+        }),
+        metal: new fields.SchemaField({
+          value: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true })
+        }),
+        air: new fields.SchemaField({
+          value: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true })
+        }),
+        earth: new fields.SchemaField({
+          value: new fields.NumberField({ min: 2, max: 6, initial: 2, integer: true })
+        })
       }),
       honor: new fields.NumberField({ min: -1, initial: 1, max: 8, integer: true }),
       // Character background and descriptions
@@ -46,11 +56,21 @@ export default class KadunggananTypeDataModel extends foundry.abstract.DataModel
         block: new fields.NumberField({ min: 0, initial: 0, integer: true })
       }),
       abilities: new fields.SchemaField({
-        bravery: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true }),
-        faith: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true }),
-        posture: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true }),
-        resistance: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true }),
-        speed: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true })
+        bravery: new fields.SchemaField({
+          value: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true })
+        }),
+        faith: new fields.SchemaField({
+          value: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true })
+        }),
+        posture: new fields.SchemaField({
+          value: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true })
+        }),
+        resistance: new fields.SchemaField({
+          value: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true })
+        }),
+        speed: new fields.SchemaField({
+          value: new fields.NumberField({ min: 3, max: 7, initial: 3, integer: true })
+        })
       }),
       discipline: new fields.ForeignDocumentField(GubatBanwaItem, {
         required: false,

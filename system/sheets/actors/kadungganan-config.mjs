@@ -121,33 +121,19 @@ export default class KadunggananConfig extends ActorDocumentSheet {
    * @private
    */
   _onRollAlignment(event) {
-    const expandRoll = foundry.utils.debounce((result) => {
-      const message = document.querySelector(`[data-message-id="${result.id}"] .dice-tooltip`);
-      message.classList.add("expanded");
-      message.scrollIntoView();
-    }, 50);
-
     new Dialog(
       {
         title: game.i18n.localize("GUBATBANWA.Cast.CrocodilesTeeth"),
-        content: `<select id="moxie">
+        content: `<div class="form-group"><label>Bonus dice from Culture: </label><select id="moxie">
           ${[0, 1, 2, 3].map((j) => `<option value="${j}">+${j}d</option>`).join("")}
-        </select>`,
+        </select></div>`,
         buttons: {
           roll: {
             label: game.i18n.localize("GUBATBANWA.Moxie.Daring"),
             callback: async (html) => {
               const alignment = event.target.closest("[data-name]").dataset.name;
-              const alignmentTeeth = this.document.system.alignments[alignment];
-              const teeth = alignmentTeeth + Number(html.find("#moxie")[0].value);
-              const result = await new Roll(
-                `${teeth}d10cs>=6[${game.i18n.localize(
-                  `GUBATBANWA.Alignments.${alignment.charAt(0).toUpperCase() + alignment.slice(1)}`
-                )}] - 3d8cs>=6[${game.i18n.localize("GUBATBANWA.Moxie.Label")}]`
-              ).toMessage({
-                flavor: "Casting the Crocodile's Teeth:"
-              });
-              expandRoll(result);
+              const adjustment = Number(html.find("#moxie")[0].value);
+              this.document.system.alignments[alignment].roll({ adjustment, moxie: 3 });
             },
             icon: '<i class="fa-solid fa-dice"></i>'
           },
@@ -155,16 +141,8 @@ export default class KadunggananConfig extends ActorDocumentSheet {
             label: game.i18n.localize("GUBATBANWA.Moxie.Hesitant"),
             callback: async (html) => {
               const alignment = event.target.closest("[data-name]").dataset.name;
-              const alignmentTeeth = this.document.system.alignments[alignment];
-              const teeth = alignmentTeeth + Number(html.find("#moxie")[0].value);
-              const result = await new Roll(
-                `${teeth}d10cs>=6[${game.i18n.localize(
-                  `GUBATBANWA.Alignments.${alignment.charAt(0).toUpperCase() + alignment.slice(1)}`
-                )}] - 4d8cs>=6[${game.i18n.localize("GUBATBANWA.Moxie.Label")}]`
-              ).toMessage({
-                flavor: "Casting the Crocodile's Teeth:"
-              });
-              expandRoll(result);
+              const adjustment = Number(html.find("#moxie")[0].value);
+              this.document.system.alignments[alignment].roll({ adjustment, moxie: 4 });
             },
             icon: '<i class="fa-solid fa-dice"></i>'
           },
@@ -172,16 +150,8 @@ export default class KadunggananConfig extends ActorDocumentSheet {
             label: game.i18n.localize("GUBATBANWA.Moxie.Confident"),
             callback: async (html) => {
               const alignment = event.target.closest("[data-name]").dataset.name;
-              const alignmentTeeth = this.document.system.alignments[alignment];
-              const teeth = alignmentTeeth + Number(html.find("#moxie")[0].value);
-              const result = await new Roll(
-                `${teeth}d10cs>=6[${game.i18n.localize(
-                  `GUBATBANWA.Alignments.${alignment.charAt(0).toUpperCase() + alignment.slice(1)}`
-                )}] - 2d8cs>=6[${game.i18n.localize("GUBATBANWA.Moxie.Label")}]`
-              ).toMessage({
-                flavor: "Casting the Crocodile's Teeth:"
-              });
-              expandRoll(result);
+              const adjustment = Number(html.find("#moxie")[0].value);
+              this.document.system.alignments[alignment].roll({ adjustment, moxie: 2 });
             },
             icon: '<i class="fa-solid fa-dice"></i>'
           }
@@ -199,11 +169,6 @@ export default class KadunggananConfig extends ActorDocumentSheet {
    * @private
    */
   _onRollAbility(event) {
-    const expandRoll = foundry.utils.debounce((result) => {
-      const message = document.querySelector(`[data-message-id="${result.id}"] .dice-tooltip`);
-      message.classList.add("expanded");
-      message.scrollIntoView();
-    }, 50);
     const ability = event.target.closest("[data-name]").dataset.name;
     if (ability === "speed") {
       return;
@@ -212,22 +177,15 @@ export default class KadunggananConfig extends ActorDocumentSheet {
       {
         title: game.i18n.localize("GUBATBANWA.Cast.Violent"),
         content:
-          '<label>Adjust Violence Cast die count: </label><input type="number" value="0" step="1" id="adjustment">',
+          '<div class="form-group"><label>Adjust Violence Cast die count: </label><input type="number" value="0" step="1" id="adjustment"></div><div class="form-group"><label>Adjust Violence Cast threshold: </label><input type="number" value="6" step="1" id="threshold"></div><div class="form-group"><label>Adjust Violence Cast critical threshold: </label><input type="number" value="10" step="1" id="critThreshold"></div>',
         buttons: {
           roll: {
             label: game.i18n.localize("GUBATBANWA.Cast.Label"),
             callback: async (html) => {
-              const abilityTeeth = this.document.system.abilities[ability];
-              const teeth = abilityTeeth + Number(html.find("#adjustment")[0].value);
-              const teethSize = ["bravery", "faith"].includes(ability) ? 10 : 8;
-              const result = await new Roll(
-                `${teeth}d${teethSize}cs>=6[${game.i18n.localize(
-                  `GUBATBANWA.Abilities.${ability.charAt(0).toUpperCase() + ability.slice(1)}`
-                )}]`
-              ).toMessage({
-                flavor: "Violence Cast:"
-              });
-              expandRoll(result);
+              const adjustment = Number(html.find("#adjustment")[0].value);
+              const threshold = Number(html.find("#threshold")[0].value);
+              const critThreshold = Number(html.find("#critThreshold")[0].value);
+              this.document.system.abilities[ability].roll({ adjustment, threshold, critThreshold });
             },
             icon: '<i class="fa-solid fa-dice"></i>'
           }

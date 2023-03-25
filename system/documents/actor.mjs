@@ -64,13 +64,50 @@ export default class GubatBanwaActor extends Actor {
   /* -------------------------------------------- */
 
   prepareAlignment() {
-    // this.system.arc = Math.floor(this.system.legend / 3) + 1;
+    for (const alignmentKey of Object.keys(this.system.alignments)) {
+      const alignment = this.system.alignments[alignmentKey];
+      alignment.name = `${game.i18n.localize(
+        `GUBATBANWA.Alignments.${alignmentKey.charAt(0).toUpperCase() + alignmentKey.slice(1)}`
+      )}`;
+      alignment.roll = async ({ moxie, adjustment }) => {
+        const teeth = alignment.value + adjustment;
+        const result = await new Roll(
+          `${teeth}d10cs>=6[${alignment.name}] - ${moxie}d8cs>=6[${game.i18n.localize("GUBATBANWA.Moxie.Label")}]`
+        ).evaluate();
+        result._total = result._total + result.terms[0].results.filter((r) => r.result === 10).length;
+        for (const die of result.terms[0].results.filter((r) => r.result === 10)) {
+          die.count = 2;
+        }
+        await result.toMessage({
+          flavor: "Casting the Crocodile's Teeth:"
+        });
+      };
+    }
   }
 
   /* -------------------------------------------- */
 
   prepareAbility() {
-    // this.system.arc = Math.floor(this.system.legend / 3) + 1;
+    for (const abilityKey of Object.keys(this.system.abilities)) {
+      const ability = this.system.abilities[abilityKey];
+      ability.name = `${game.i18n.localize(
+        `GUBATBANWA.Abilities.${abilityKey.charAt(0).toUpperCase() + abilityKey.slice(1)}`
+      )}`;
+      ability.roll = async ({ adjustment, threshold, critThreshold }) => {
+        threshold = threshold ? threshold : 6;
+        critThreshold = critThreshold ? critThreshold : 10;
+        const teeth = ability.value + adjustment;
+        const teethSize = ["bravery", "faith"].includes(abilityKey) ? 10 : 8;
+        const result = await new Roll(`${teeth}d${teethSize}cs>=${threshold}[${ability.name}]`).evaluate();
+        result._total = result._total + result.terms[0].results.filter((r) => r.result >= critThreshold).length;
+        for (const die of result.terms[0].results.filter((r) => r.result >= critThreshold)) {
+          die.count = 2;
+        }
+        await result.toMessage({
+          flavor: "Violence Cast:"
+        });
+      };
+    }
   }
 
   /* -------------------------------------------- */
