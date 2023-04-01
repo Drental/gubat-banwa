@@ -1,42 +1,21 @@
 .gubat-banwa.actor.kadungganan {
-  .important-info {
-    flex: none;
-    padding: 10px 10px;
-    margin: 10px -8px;
-    background: rgba(214, 150, 0, 0.8);
-    color: #fff;
-    text-align: center;
-    box-shadow: inset #707070 0px 0px 5px 0px;
+  --style-color: #333;
+  .sentinel {
+    --style-color: #212e52;
   }
-  .important-info :is(a.content-link) {
-    background: #333;
-    color: var(--color-text-light-highlight);
-    border: 1px solid var(--color-border-dark);
+  .raider {
+    --style-color: #ed1a43;
   }
-  .important-info :is(a.content-link i) {
-    color: var(--color-text-light-highlight);
-    border: 1px solid var(--color-border-dark);
+  .sharpshooter {
+    --style-color: #f26821;
+  }
+  .witch {
+    --style-color: #2e1034;
+  }
+  .medium {
+    --style-color: #00a86b;
   }
 
-  .important-info a[data-action="important-info"] {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    font-size: 30px;
-    text-shadow: 1px 1px 3px #a88125;
-    transition: text-shadow 0.1s ease-in-out;
-  }
-  .important-info a[data-action="important-info"]:hover {
-    text-shadow: 0px 0px 4px #4c3601;
-  }
-  .important-info a[data-action="important-info"] i {
-    margin: 0 10px;
-    font-size: 25px;
-  }
-  .important-info a[data-action="important-info"] i.fa-angle-down {
-    font-size: 20px;
-  }
   .collapsible {
     overflow: hidden;
     max-width: 550px;
@@ -77,23 +56,12 @@
   & fieldset {
     border-width: 2px;
     border-style: solid;
-    border-color: #333;
+    border-color: var(--style-color);
     background: #fff;
   }
   & legend {
     font-weight: bold;
     padding: 0px 5px;
-  }
-
-  .tag {
-    cursor: pointer;
-
-    &.innate {
-      background: #2f5388;
-    }
-    &.manual {
-      background: #7f5b0d;
-    }
   }
 
   .alignment input {
@@ -107,7 +75,7 @@
     display: flex;
     flex-direction: column;
     margin: 5px;
-    border: 3px solid #333;
+    border: 3px solid var(--style-color);
     border-radius: 4px;
   }
   .backgrounds .background {
@@ -115,7 +83,7 @@
     display: flex;
     flex-direction: column;
     margin: 5px;
-    border: 3px solid #333;
+    border: 3px solid var(--style-color);
     border-radius: 4px;
   }
 
@@ -130,7 +98,7 @@
     display: flex;
     flex-direction: column;
     margin: 5px;
-    border: 3px solid #333;
+    border: 3px solid var(--style-color);
     border-radius: 4px;
   }
 
@@ -163,7 +131,7 @@
     font-size: var(--font-size-14);
     line-height: 19px;
     text-decoration: none;
-    background: #333;
+    background: var(--style-color);
     color: var(--color-text-light-highlight);
     margin: 0 0 5px 2px;
     align-items: center;
@@ -206,7 +174,7 @@
   }
 
   & label {
-    background: #333;
+    background: var(--style-color);
     color: #fff;
     text-align: center;
     width: 100%;
