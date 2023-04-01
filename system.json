@@ -17,13 +17,30 @@
   "scripts": [],
   "esmodules": ["system/gubat-banwa.mjs"],
   "styles": ["css/gubat-banwa.css"],
-
   "packs": [
     {
       "name": "disciplines",
       "label": "Disciplines",
       "system": "gubat-banwa",
       "path": "packs/disciplines.db",
+      "type": "Item",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "techniques",
+      "label": "Techniques",
+      "system": "gubat-banwa",
+      "path": "packs/techniques.db",
+      "type": "Item",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "antinganting",
+      "label": "Anting Anting",
+      "system": "gubat-banwa",
+      "path": "packs/antinganting.db",
       "type": "Item",
       "private": true,
       "flags": {}
