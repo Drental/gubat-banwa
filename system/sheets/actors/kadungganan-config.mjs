@@ -7,7 +7,6 @@ export default class KadunggananConfig extends ActorDocumentSheet {
     return foundry.utils.mergeObject(super.defaultOptions, {
       classes: [SYSTEM_ID, "sheet", "actor", "kadungganan"],
       tabs: [{ navSelector: ".tabs", contentSelector: ".tabs-container", initial: "war-drama" }],
-      // infoTabs: [{ navSelector: ".info-tabs", contentSelector: ".info-tabs-container", initial: "culture" }],
       closeOnSubmit: false,
       submitOnChange: true,
       submitOnClose: true
@@ -79,7 +78,6 @@ export default class KadunggananConfig extends ActorDocumentSheet {
     html.find("a[data-action='roll-alignment']").on("click", this._onRollAlignment.bind(this));
     html.find("a[data-action='roll-ability']").on("click", this._onRollAbility.bind(this));
 
-    html.find('[data-action="delete"]').click(this._onDeleteDatasetItem.bind(this));
     html.find('input[name="system.hp.value"]').on("input", (event) => this._onProgressValueInputChange(event));
     html.find("a.content-link").click(this._onClickContentLink.bind(this));
   }
