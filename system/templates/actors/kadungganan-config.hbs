@@ -1,5 +1,3 @@
-{{log "HANDLEBARS DATA"}}
-{{log this}}
 <form class="{{cssClass}} flexcol {{document.system.discipline.system.style}}" autocomplete="off">
   {{! Sheet Header }}
   <header class="sheet-header flexrow">
@@ -92,44 +90,45 @@
     <nav class="sheet-navigation tabs" data-group="primary">
       <a class="item" data-tab="war-drama"><i class="fa-solid fa-compass"></i> {{localize "GUBATBANWA.WarDrama"}}</a>
       <a class="item" data-tab="violence"><i class="fa-solid fa-bolt"></i> {{localize "GUBATBANWA.Violence"}}</a>
-      <!--            <a class="item" data-tab="inventory">{{ localize "GUBATBANWA.Inventory" }}</a>-->
+      <a class="item" data-tab="loadout"><i class="fa-solid fa-hand-fist"></i> {{localize "GUBATBANWA.Loadout"}}</a>
     </nav>
 
     <section class="tabs-container">
+      {{! War Drama }}
       <div class="tab war-drama" data-group="primary" data-tab="war-drama">
         <div class="flexrow">
+          {{! Identity }}
+          <fieldset>
+            <legend>{{localize "GUBATBANWA.Identity"}}</legend>
+
+            {{! Pronouns }}
+            <div class="form-group identity flexcol" data-name="system.pronouns">
+              <label>{{localize "GUBATBANWA.Pronouns"}}</label>
+              <input
+                name="system.pronouns"
+                type="text"
+                value="{{document.system.pronouns}}"
+                placeholder="{{localize 'GUBATBANWA.KadunggananPronounsPlaceholder'}}"
+              />
+            </div>
+
+            <hr />
+
+            {{! Folk }}
+            <div class="form-group identity flexcol" data-name="system.folk">
+              <label>{{localize "GUBATBANWA.Folk"}}</label>
+              <input
+                name="system.folk"
+                type="text"
+                value="{{document.system.folk}}"
+                placeholder="{{localize 'GUBATBANWA.KadunggananFolkPlaceholder'}}"
+              />
+            </div>
+          </fieldset>
+
           {{! alignments }}
           <fieldset class="flexrow alignments flex3">
             <legend>{{localize "GUBATBANWA.Alignments.Label"}}</legend>
-            {{! Identity }}
-            <fieldset>
-              <legend>{{localize "GUBATBANWA.Identity"}}</legend>
-
-              {{! Pronouns }}
-              <div class="form-group identity flexcol" data-name="system.pronouns">
-                <label>{{localize "GUBATBANWA.Pronouns"}}</label>
-                <input
-                  name="system.pronouns"
-                  type="text"
-                  value="{{document.system.pronouns}}"
-                  placeholder="{{localize 'GUBATBANWA.KadunggananPronounsPlaceholder'}}"
-                />
-              </div>
-
-              <hr />
-
-              {{! Folk }}
-              <div class="form-group identity flexcol" data-name="system.folk">
-                <label>{{localize "GUBATBANWA.Folk"}}</label>
-                <input
-                  name="system.folk"
-                  type="text"
-                  value="{{document.system.folk}}"
-                  placeholder="{{localize 'GUBATBANWA.KadunggananFolkPlaceholder'}}"
-                />
-              </div>
-            </fieldset>
-
             {{! Fire }}
             <div class="form-group alignment flexcol" data-name="fire">
               <label>{{localize "GUBATBANWA.Alignments.Fire"}}</label>
@@ -294,46 +293,43 @@
         </div>
       </div>
 
+      {{! Violence Tab }}
       <div class="tab violence" data-group="primary" data-tab="violence">
         <div class="flexrow">
+
+          {{! HP }}
+          <fieldset>
+            <legend>{{localize "GUBATBANWA.HP.Label"}}</legend>
+
+            {{! Max }}
+            <div class="form-group" data-name="system.hp.max">
+              <label>{{localize "GUBATBANWA.HP.Max"}}</label>
+              <input type="number" value="{{document.system.hp.max}}" disabled />
+            </div>
+
+            {{! Current }}
+            <div class="form-group" data-name="system.hp.value">
+              <label>{{localize "GUBATBANWA.HP.Value"}}</label>
+              {{numberInput document.system.hp.value name="system.hp.value" min=0 max=document.system.hp.max step=1}}
+            </div>
+
+            {{! Progress Bar }}
+            <div class="form-group">
+              <progress class="health" value="{{document.system.hp.value}}" max="{{document.system.hp.max}}"></progress>
+            </div>
+
+            <hr />
+
+            {{! Block }}
+            <div class="form-group" data-name="system.hp.block">
+              <label>{{localize "GUBATBANWA.HP.Block"}}</label>
+              {{numberInput document.system.hp.block name="system.hp.block" min=0 step=1}}
+            </div>
+          </fieldset>
+
           {{! Martial Abilities }}
           <fieldset class="flexrow abilities flex3">
             <legend>{{localize "GUBATBANWA.Abilities.Label"}}</legend>
-
-            {{! HP }}
-            <fieldset>
-              <legend>{{localize "GUBATBANWA.HP.Label"}}</legend>
-
-              {{! Max }}
-              <div class="form-group" data-name="system.hp.max">
-                <label>{{localize "GUBATBANWA.HP.Max"}}</label>
-                <input type="number" value="{{document.system.hp.max}}" disabled />
-              </div>
-
-              {{! Current }}
-              <div class="form-group" data-name="system.hp.value">
-                <label>{{localize "GUBATBANWA.HP.Value"}}</label>
-                {{numberInput document.system.hp.value name="system.hp.value" min=0 max=document.system.hp.max step=1}}
-              </div>
-
-              {{! Progress Bar }}
-              <div class="form-group">
-                <progress
-                  class="health"
-                  value="{{document.system.hp.value}}"
-                  max="{{document.system.hp.max}}"
-                ></progress>
-              </div>
-
-              <hr />
-
-              {{! Block }}
-              <div class="form-group" data-name="system.hp.block">
-                <label>{{localize "GUBATBANWA.HP.Block"}}</label>
-                {{numberInput document.system.hp.block name="system.hp.block" min=0 step=1}}
-              </div>
-            </fieldset>
-
             {{! Bravery }}
             <div class="form-group ability flexcol" data-name="bravery">
               <label>{{localize "GUBATBANWA.Abilities.Bravery"}}</label>
@@ -424,6 +420,23 @@
             }}
           </div>
         </div>
+      </div>
+
+      {{! Techniques and Anting Anting Tab }}
+      <div class="tab loadout" data-group="primary" data-tab="loadout">
+        <fieldset class="flexcol flex3">
+          {{#each document.system.techniques as |technique idx|}}
+            {{! single Technique group }}
+            <div class="form-group stacked">
+              <label>{{localize "GUBATBANWA.Technique"}}
+                <input type="checkbox" data-dtype="Boolean" {{checked technique.active}} />
+              </label>
+              <select class="center">
+                {{selectOptions ../TECHNIQUE_TYPES selected=technique.uuid}}
+              </select>
+            </div>
+          {{/each}}
+        </fieldset>
       </div>
     </section>
   </section>

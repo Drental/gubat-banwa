@@ -77,8 +77,19 @@ export default class KadunggananTypeDataModel extends foundry.abstract.DataModel
         type: "discipline",
         idOnly: true
       }),
-      techniques: new fields.SetField(
-        new fields.ForeignDocumentField(GubatBanwaItem, { required: true, type: "technique", idOnly: true })
+      techniques: new fields.ArrayField(
+        new fields.SchemaField({
+          uuid: new fields.ForeignDocumentField(GubatBanwaItem, {
+            required: false,
+            type: "technique",
+            idOnly: true
+          }),
+          active: new fields.BooleanField({
+            required: true,
+            nullable: false,
+            initial: false
+          })
+        })
       ),
       antingAnting: new fields.SetField(
         new fields.ForeignDocumentField(GubatBanwaItem, { required: true, type: "antingAnting", idOnly: true })
