@@ -1,0 +1,32 @@
+{
+  "name": "Kawal",
+  "type": "discipline",
+  "_id": "XmmC1iQzMCljgAqS",
+  "img": "icons/weapons/polearms/pike-flared-brown.webp",
+  "system": {
+    "style": "sentinel",
+    "techniques": [],
+    "hp": 20,
+    "weapon": "Treasured Spears, large barongs, giant panabas, kalasag, taming",
+    "armor": "War Hats, Buffalo Cuirasses, Bamboo Legplates, Plated Tassets",
+    "description": "<p><strong>Masters of the Eight Direction Guardian, Disciplines of the Lakapati, Protectors of the World, not Kings</strong></p><p>Kawal are faithful shields and defenders of their communities. They are the greatest paragons among the Kadungganan: they exemplify all the virtues of a Kadungganan and then more, protecting their fellow Kadungganan by attracting the attention of the enemy and stopping them in their tracks.</p><p>Clad in a mix of metal chainmail and kalabaw hide armor, kalabaw horn breastplate, and hardwood shields, the Kawal is an indomitable force in the battlefield, controlling the battlefield with superior movement, tactics, weaponmastery, and their force of will.</p><p>Kawal only get their prestigious name after undergoing a grueling training process, which weeds out those that cannot handle the pressures and responsibilities of a kawal. Using techniques that synthesize native forms as well as learned arts from Madaki and Naksuwarga, the Kawal excels in keeping their allies safe while staying alive. Rajahnate Datu employ techniques of the Kawal, and more often than not they do it so that they can keep their people safe.</p><p>Akai have deployed their own contingent of Satariya, which use giant ceremonial blades instead of spears to guard their allies. Apumbukid is known to train entire settlements in this art as well, the most well known one being Saginda in Pumirang, where they’re trained by ancient guardian spirits in deep underground coral river caves.</p><p>In the ancient of days, the Guardians of the Eight Directions (Ang Diwatasin Walong Tudlo) came together and taught their Art to mortals, because they had foreseen that they would need their help to defend the world. Thus was the Eight Direction Guardian Art born, which practices and perfects the manifestation of the Lakapati, the combined form of the Eight Guardian Gods. Imawasura the Guardian Lord of the Southeast, of Pagodas and Fortunes and Jades, wields a spear is as long as ten thousand palms of Rayasaiwa (whose palm measures fifteen universes), and is named Tudlo, and this spear has become the symbol for all Kawal. It is said that Imawasura was the one that affixed the eight directions.</p><p>\"A kawal must know that they are the wall, and for the wall to be effective, the swords must crash against it,” says Apumbukid Datu Daya.</p><p>If you choose to take up the mantle of the Kawal, say who you pledge your allegiance to and why, and why your faith in them has led you to making sure that they will never be harmed.</p><p>The Shield is a symbol of strength. In the Sword Isles, it is not common to stay and fight for your settlement when being raided. However, in the event of a revenge raid, where the warriors will try to slay your datu as a ritual offering to their own ancestors, only the shield can stay the tide. Either they die, or the raiders fail.</p><p>Ask why you give your life to them. Is loyalty your virtue or your sin? Why do you break the sky for someone who might not do the same for you?</p>",
+    "traits": "<p><strong>Perfect Lokapala Shield</strong></p><p><em>You meditate and perfect the movements of the eight perfect guardians. Guard all those around you. You meditate upon the guardian deities of nature and perfect the guardian art that they have taught.</em></p><p>You have the Lokapala Aura that extends to every square within burst 1 of you. Your Lokapala Aura gives you the following benefits:</p><ul><li><p>Any enemy that enters your lokapala aura has their movement immediately ended and they cannot leave your aura until the end of their Fulmination.</p></li><li><p>When you suffer an attack from an enemy within your Lokapala Aura, gain +1 Defend against that attack.</p></li><li><p>If an enemy in your Aura Moves out of the Aura or makes an attack that does not include you as a target, you may inflict violence on them, 1/Fulmination.</p></li></ul><p><strong>Gajasangkra’s Meditation</strong></p><p><em>Gajasangkra is the Guardian Lord of the Northwest, which is the land of constant monsoons and whirlpools. If she doesn’t guard that place with her thousand hands, the seas will drain into wine and milk, killing all Folk in Gubat Banwa. And so she keeps the sea from overflowing, and so does she suffer the corroding chaos of wine.</em></p><p>When you are forcibly moved,roll a [[/r 1d10cs&gt;=7]]Chance Die. On a 7+, you ignore that forced movement.</p>",
+    "violences": "<p><strong>Shield Bash</strong> [1]: <em>Slam with a shield.</em> Make a Melee Earth Bravery Attack vs 1 adjacent Fighter, push 1 [+1 per 7+ on the attack teeth], then <strong>Rush 1</strong> per square pushed.</p><p><strong>Skewer</strong> [1]: <em>Impale with a longspear.</em> Make an <strong>Area Metal Bravery Attack</strong> vs all enemies in Line 2.</p><p><strong>Shield Charge</strong> [1]: <em>Raise your shield and charge forward.</em> <strong>Rush 3</strong> in a straight line. If you move into any enemy’s square, push them 1 + number of <strong>rush</strong> left.Then gain <strong>1 Defend</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "20y6Rayw7QMgA0qv": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.294",
+    "createdTime": 1679778854431,
+    "modifiedTime": 1680294831696,
+    "lastModifiedBy": "20y6Rayw7QMgA0qv"
+  }
+}

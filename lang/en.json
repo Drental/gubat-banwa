@@ -17,6 +17,7 @@
       "Water": "Water"
     },
     "AntingAnting": "Anting Anting",
+    "AntingAntings": "Anting Antings",
     "Arc": "Arc",
     "Armor": "Armor",
     "Cast": {
@@ -31,9 +32,11 @@
     "Crown": "Crown",
     "Culture": "Culture",
     "Debts": "Debts",
+    "Delete": "Delete",
     "Description": "Description",
     "Details": "Details",
     "Discipline": "Discipline",
+    "Equipped": "Equipped",
     "Folk": "Folk",
     "Honor": "Honor",
     "HP": {
@@ -58,6 +61,7 @@
       "Hesitant": "Hesitant",
       "Label": "Moxie"
     },
+    "New": "New",
     "Pronouns": "Pronouns",
     "Recognition": "Recognition",
     "SocialStanding": "Social Standing",
@@ -72,6 +76,7 @@
     "Subculture": "Subculture",
     "Sword": "Sword",
     "Technique": "Technique",
+    "Techniques": "Techniques",
     "ThunderboltTokenLabel": "TB",
     "Traits": "Traits",
     "Violence": "Violence",

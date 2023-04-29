@@ -425,17 +425,51 @@
       {{! Techniques and Anting Anting Tab }}
       <div class="tab loadout" data-group="primary" data-tab="loadout">
         <fieldset class="flexcol flex3">
+          <legend>{{localize 'GUBATBANWA.Techniques'}}</legend>
           {{#each document.system.techniques as |technique idx|}}
             {{! single Technique group }}
-            <div class="form-group stacked">
-              <label>{{localize "GUBATBANWA.Technique"}}
-                <input type="checkbox" data-dtype="Boolean" {{checked technique.active}} />
+            <div class="form-group stacked" data-technique="">
+              <label class="technique">
+                <input
+                  type="checkbox"
+                  data-dtype="Boolean"
+                  {{checked technique.active}}
+                  title="{{localize 'GUBATBANWA.Equipped'}}"
+                />
+                {{localize "GUBATBANWA.Technique"}}
+                <a class="delete" data-action="delete-technique" data-index="{{idx}}"><i class="fa-solid fa-trash"></i>
+                  {{localize "GUBATBANWA.Delete"}}</a>
               </label>
               <select class="center">
                 {{selectOptions ../TECHNIQUE_TYPES selected=technique.uuid}}
               </select>
             </div>
           {{/each}}
+          <a class="add" data-action="add-technique"><i class="fa-solid fa-plus"></i> {{localize "GUBATBANWA.New"}}</a>
+        </fieldset>
+
+        <fieldset class="flexcol flex3">
+          <legend>{{localize 'GUBATBANWA.AntingAntings'}}</legend>
+          {{#each document.system.antingAntings as |antinganting idx|}}
+            {{! single Technique group }}
+            <div class="form-group stacked" data-technique="">
+              <label class="antinganting">
+                <input
+                  type="checkbox"
+                  data-dtype="Boolean"
+                  {{checked antinganting.active}}
+                  title="{{localize 'GUBATBANWA.Equipped'}}"
+                />
+                {{localize "GUBATBANWA.AntingAnting"}}
+                <a class="delete" data-action="delete-antinganting" data-index="{{idx}}"><i class="fa-solid fa-trash"></i>
+                  {{localize "GUBATBANWA.Delete"}}</a>
+              </label>
+              <select class="center">
+                {{selectOptions ../ANTINGANTING_TYPES selected=technique.uuid}}
+              </select>
+            </div>
+          {{/each}}
+          <a class="add" data-action="add-antinganting"><i class="fa-solid fa-plus"></i> {{localize "GUBATBANWA.New"}}</a>
         </fieldset>
       </div>
     </section>

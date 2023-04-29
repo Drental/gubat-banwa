@@ -73,10 +73,30 @@ export default class KadunggananConfig extends ActorDocumentSheet {
   /* -------------------------------------------- */
 
   /** @override */
+  submit(form) {
+    const techniques = [];
+    for (const techniqueForm of this.form.querySelectorAll("[data-technique]")) {
+      techniques.push({
+        uuid: techniqueForm.querySelector("select").value,
+        active: !!techniqueForm.querySelector("input").checked
+      });
+    }
+
+    this.document.update({ "system.techniques": techniques });
+    return super.submit(form);
+  }
+
+  /* -------------------------------------------- */
+
+  /** @override */
   activateListeners(html) {
     super.activateListeners(html);
     html.find("a[data-action='roll-alignment']").on("click", this._onRollAlignment.bind(this));
     html.find("a[data-action='roll-ability']").on("click", this._onRollAbility.bind(this));
+    html.find("a[data-action='delete-technique']").on("click", this._onDeleteTechnique.bind(this));
+    html.find("a[data-action='add-technique']").on("click", this._onAddTechnique.bind(this));
+    html.find("a[data-action='delete-antinganting']").on("click", this._onDeleteAntingAnting.bind(this));
+    html.find("a[data-action='add-antinganting']").on("click", this._onAddAntingAnting.bind(this));
 
     html.find('input[name="system.hp.value"]').on("input", (event) => this._onProgressValueInputChange(event));
     html.find("a.content-link").click(this._onClickContentLink.bind(this));
@@ -191,5 +211,37 @@ export default class KadunggananConfig extends ActorDocumentSheet {
       },
       { width: 450 }
     ).render(true);
+  }
+
+  _onAddTechnique(event) {
+    const techniques = this.document.system.techniques || [];
+    techniques.push({
+      uuid: "",
+      active: false
+    });
+    this.document.update({ "system.techniques": this.document.system.techniques });
+  }
+
+  _onDeleteTechnique(event) {
+    const techniques = this.document.system.techniques || [];
+    const index = event.target.closest("[data-index]").dataset.index;
+    techniques.splice(index, 1);
+    this.document.update({ "system.techniques": this.document.system.techniques });
+  }
+
+  _onAddAntingAnting(event) {
+    const antingAntings = this.document.system.antingAntings || [];
+    antingAntings.push({
+      uuid: "",
+      active: false
+    });
+    this.document.update({ "system.antingAntings": this.document.system.antingAntings });
+  }
+
+  _onDeleteAntingAnting(event) {
+    const antingAntings = this.document.system.antingAntings || [];
+    const index = event.target.closest("[data-index]").dataset.index;
+    antingAntings.splice(index, 1);
+    this.document.update({ "system.antingAntings": this.document.system.antingAntings });
   }
 }

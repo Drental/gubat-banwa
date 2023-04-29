@@ -1,0 +1,29 @@
+{
+  "name": "Healer's Diadem",
+  "type": "antingAnting",
+  "img": "icons/equipment/head/crown-horns-brown.webp",
+  "system": {
+    "description": "<p>A holy diadem made of palm leaf and gold. Effect: When you heal an ally, heal them an extra +1. Healer’s Set (1/3): At end of your Fulmination,if you inflicted no Hits, heal 2.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "20y6Rayw7QMgA0qv": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.E8ahJQQP8TRa7jtl"
+    }
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.294",
+    "createdTime": 1679614454652,
+    "modifiedTime": 1680290153514,
+    "lastModifiedBy": "20y6Rayw7QMgA0qv"
+  },
+  "_id": "MFXKrrFklngzgb00",
+  "sort": 0
+}

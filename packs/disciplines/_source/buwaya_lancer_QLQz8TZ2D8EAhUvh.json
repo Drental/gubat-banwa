@@ -1,0 +1,32 @@
+{
+  "name": "Buwaya Lancer",
+  "type": "discipline",
+  "_id": "QLQz8TZ2D8EAhUvh",
+  "img": "icons/creatures/reptiles/lizard-iguana-green.webp",
+  "system": {
+    "style": "sentinel",
+    "techniques": [],
+    "hp": 20,
+    "weapon": "Tridents, harpoons, fishing rods, shields",
+    "armor": "Tattoos, Cotton-padded armor, silk jackets",
+    "description": "<p><strong>Lords of the Seas, Friends of the Revered, Unstoppable Juggernauts of Rivers</strong></p><p>Buwaya Lancers are crocodile guardsmen, often considered a threat upon the entirety ofThe Sword Isles. Borne from the need to travel quickly across both water and land, an ancient warrior tamed one of the first buwaya, which is the native term for crocodile. It has since become the name for buwaya that are bred to become mounts: tall, long-legged crocodiles that are fast and have a huge amount of stamina.</p><p>Buwaya Lancer arose during the end of the Seventh Moon Era. To escape capture from powerful Put’wan cataphracts, which rode upon great six-legged steeds, the great Laksamana Tuhon Langkasingbangis and his reduced war band of a measly 12 managed to escape by speaking to a buwaya and the buwaya accepting his oath, remembering that ancient warrior that tamed the first buwaya. Thus, twelve buwaya managed to ride down the river and boarded their biray to escape to the distant land of Sonyoh. There they honed their ability in buwaya taming, creating saddles and tasselled bardings, made of gold and mother-of-pearl and bamboo and more. Rajahnate Buwaya are painted in a same manner the warriors were, although not tattooed. In this way their bond becomes tighter, stronger.</p><p>The Buwaya Lancer have since become one of the most wellknown Disciplines across The Sword Isles. It has become a stable cavalry, one used extensively by Rajahnate polities that could afford it, and the Akai Sultanate to combat the cavalry of the other polities.</p><p>Buwaya Lancer were called thus because they were made to break the enemy’s frontline. In The Sword Isles archipelago warfare, this would not be the end of an enemy’s formation, as war was waged not through formations but through force of will. However, the ability to break the ranks through Buwaya Lancer is a very effective tactic that has huge effects upon the moralization of warfare. Buwaya Lancers are usually trained to use spears (bangkaw) or tridents (salapang), but other kinds of weapons are just as viable. Therefore, Buwaya Lancers are much wanted in Kadungganan parties, as they are made to crush the frontline and stay there, using crocodile and military armament to crush the opposition.</p><p>Even in land, the crocodile beast can gallop, quick and unstoppable. The Crocodile is one of the most wellrespected beasts: they are very often considered to be avatars of the ancestors themselves, and are treated like Grandfathers—that is, with utmost care and respect. They are the great masters of both sea and land, protectors of the places where water and earth meet.</p><p>If you become a Buwaya Lancer, ask yourself why you ride upon the greatest of spirits only to bring violence. You are one with a beast known both for death and for the ancestors. You say you protect, so why do you let your buwaya rip that man’s head off? Why do you stab while atop your enslaved holy power? Why do you think you are as great as the gods themselves?</p>",
+    "traits": "<p><strong>Crocodile Rider</strong></p><p><em>As a Buwaya Lancer, you might be mounted upon a crocodile, or some other similar draconic creature, though you can choose to not have a mount at all, and simply channel the spirit of a crocodile.</em></p><p>1/Fulmination, when a fighter leaves a square adjacent to you, you may inflict violence on them for free. Additionally, when fighters collide with you, you do not suffer Hits.</p><p><strong>River God</strong></p><p><em>Crocodiles are hardy and they are not hampered at all by water and hard to cross terrain. Even more, their tails work as powerful weapons. When used in tandem with spears, buwaya lancers are a force to be reckoned with.</em></p><p>When you Stride, choose 1 adjacent fighter. You may pull them with you, maintaining adjacency as you stride.</p><p><strong>Snapping Dragon</strong></p><p><em>Even in land, the crocodile beast can gallop, quick and unstoppable. The Crocodile is one of the most well-respected beasts: they are very often considered to be avatars of the ancestors themselves, and are treated like Grandfathers—that is, with utmost care and respect. They are the great masters of both sea and land, protectors of the places where water and earth meet.</em></p><p>When you Pull any fighter to a square adjacent of you, inflict 1 Hit, 1/Fulmination.</p>",
+    "violences": "<p><strong>Spearing Dragon</strong> [1]: <em>Strike with a trident or other polearm.</em> Make a Melee Water Bravery Attack vs 1 fighter in range 3, then pull 1.</p><p><strong>Barreling Dragon</strong> [1]: <em>Barrel forward with a sudden burst of speed.</em> <strong>Rush half your Speed.</strong> If you <strong>move through</strong> fighter or object, inflict 1 Hit on the target, and inflict <strong>Push 1</strong> on them.</p><p><strong>Fishing Rod</strong> [1]: <em>Pull out a fishing rod, wrap it around a target, and then sling them to the side.</em> Choose a fighter in range 3 and slide them up to 2 squares.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "20y6Rayw7QMgA0qv": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.294",
+    "createdTime": 1679701391673,
+    "modifiedTime": 1680344207312,
+    "lastModifiedBy": "20y6Rayw7QMgA0qv"
+  }
+}

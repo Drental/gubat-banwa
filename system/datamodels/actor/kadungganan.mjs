@@ -91,8 +91,19 @@ export default class KadunggananTypeDataModel extends foundry.abstract.DataModel
           })
         })
       ),
-      antingAnting: new fields.SetField(
-        new fields.ForeignDocumentField(GubatBanwaItem, { required: true, type: "antingAnting", idOnly: true })
+      antingAntings: new fields.ArrayField(
+        new fields.SchemaField({
+          uuid: new fields.ForeignDocumentField(GubatBanwaItem, {
+            required: false,
+            type: "antingAnting",
+            idOnly: true
+          }),
+          active: new fields.BooleanField({
+            required: true,
+            nullable: false,
+            initial: false
+          })
+        })
       ),
       consumables: new fields.SetField(
         new fields.ForeignDocumentField(GubatBanwaItem, { required: true, type: "consumable", idOnly: true })
