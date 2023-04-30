@@ -1,4 +1,4 @@
-.gubat-banwa.actor.kadungganan {
+.gubat-banwa.actor.enemy {
   --style-color: #333;
   .sentinel {
     --style-color: #212e52;
@@ -64,20 +64,6 @@
     padding: 0px 5px;
   }
 
-  .alignment input {
-    text-align: center;
-  }
-  .alignment img {
-    margin: 10px 0 0 0;
-    border: none;
-  }
-  .alignments .alignment {
-    display: flex;
-    flex-direction: column;
-    margin: 5px;
-    border: 3px solid var(--style-color);
-    border-radius: 4px;
-  }
   .backgrounds .background {
     flex-basis: 40%;
     display: flex;
@@ -100,26 +86,6 @@
     margin: 5px;
     border: 3px solid var(--style-color);
     border-radius: 4px;
-  }
-
-  .identity {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    width: 100%;
-  }
-
-  .character label {
-    max-width: fit-content;
-    padding: 0 10px;
-    margin: 5px 0;
-  }
-
-  .character-builder {
-    flex: 0;
-    height: 38px;
-    align-self: center;
-    font-size: large;
   }
 
   & label {
@@ -152,56 +118,7 @@
     padding: 5px;
   }
 
-  .tabs {
-    margin: 15px 2px 0;
-
-    & a.item {
-      width: 100%;
-      padding: 10px 0;
-      border-bottom: 2px solid #000;
-    }
-    & a.item.active {
-      background: #fff;
-      color: #000;
-      border: 2px solid #000;
-      border-bottom: 0px;
-      text-shadow: none;
-      font-weight: bold;
-    }
-  }
-
-  .tabs-container {
-    & fieldset {
-      background: #fff;
-    }
-  }
-
-  .info-tabs {
-    margin: 15px 2px 0;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-around;
-
-    & a.item {
-      width: 100%;
-      padding: 10px 0;
-      border-bottom: 2px solid #000;
-    }
-    & a.item.active {
-      background: #fff;
-      color: #000;
-      border: 2px solid #000;
-      border-bottom: 0px;
-      text-shadow: none;
-      font-weight: bold;
-    }
-  }
   .form-group.stacked {
     padding: 0 2px;
-  }
-
-  .add {
-    text-align: right;
   }
 }

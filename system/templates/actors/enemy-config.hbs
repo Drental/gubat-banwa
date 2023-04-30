@@ -25,7 +25,7 @@
   <section class="sheet-body">
 
     {{! Violence Tab }}
-    <div class="tab violence" data-group="primary" data-tab="violence">
+    <div class="violence">
       <div class="flexrow">
 
         {{! HP }}
@@ -35,7 +35,7 @@
           {{! Max }}
           <div class="form-group" data-name="system.hp.max">
             <label>{{localize "GUBATBANWA.HP.Max"}}</label>
-            <input type="number" value="{{document.system.hp.max}}" disabled />
+            {{numberInput document.system.hp.max name="system.hp.max" min=0 step=1}}
           </div>
 
           {{! Current }}

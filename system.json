@@ -19,12 +19,21 @@
   "styles": ["css/gubat-banwa.css"],
   "packs": [
     {
+      "name": "enemies",
+      "label": "Enemies",
+      "system": "gubat-banwa",
+      "path": "packs/enemies.db",
+      "type": "Actor",
+      "visibility": true,
+      "flags": {}
+    },
+    {
       "name": "disciplines",
       "label": "Disciplines",
       "system": "gubat-banwa",
       "path": "packs/disciplines.db",
       "type": "Item",
-      "private": true,
+      "visibility": true,
       "flags": {}
     },
     {
@@ -33,7 +42,7 @@
       "system": "gubat-banwa",
       "path": "packs/techniques.db",
       "type": "Item",
-      "private": true,
+      "visibility": true,
       "flags": {}
     },
     {
@@ -42,7 +51,7 @@
       "system": "gubat-banwa",
       "path": "packs/antinganting.db",
       "type": "Item",
-      "private": true,
+      "visibility": true,
       "flags": {}
     }
   ],

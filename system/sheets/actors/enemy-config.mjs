@@ -18,15 +18,16 @@ export default class EnemyConfig extends ActorDocumentSheet {
   async getData() {
     const context = await super.getData();
 
-    context.traitsHTML = await TextEditor.enrichHTML(this.object.system.culture, {
+    context.STYLE_TYPES = this.getOptionsList(CONFIG.SYSTEM.STYLE_TYPES);
+    context.traitsHTML = await TextEditor.enrichHTML(this.object.system.traits, {
       async: true,
       secrets: this.object.isOwner
     });
-    context.violencesHTML = await TextEditor.enrichHTML(this.object.system.subculture, {
+    context.violencesHTML = await TextEditor.enrichHTML(this.object.system.violences, {
       async: true,
       secrets: this.object.isOwner
     });
-    context.gambitsHTML = await TextEditor.enrichHTML(this.object.system.lineage, {
+    context.gambitsHTML = await TextEditor.enrichHTML(this.object.system.gambits, {
       async: true,
       secrets: this.object.isOwner
     });
