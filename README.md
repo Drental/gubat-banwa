@@ -4,11 +4,12 @@ Gubat Banwa is a Martial Arts Tactics and War Drama TTRPG system. A fiction firs
 
 - No Character Creation
 - 0 Cultures
-- 0 Disciplines
+- 2 Disciplines
+- 1 Techniques
 - 0 Divination Tables
 - 0 Enemies
 - 0 Status Effects
-- 0 Anting-Antings
+- 1 Anting-Antings
 
 **If you have feedback on the content of Gubat Banwa, please join the official Discord for the System:** [The Longhouse](https://discord.gg/s6gSsPm5BN)
 
