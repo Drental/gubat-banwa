@@ -17,6 +17,8 @@ export default class GubatBanwaActor extends Actor {
     switch (this.type) {
       case "kadungganan":
         return this._prepareKadungagananDerivedData();
+      case "enemy":
+        return this._prepareEnemyDerivedData();
     }
   }
 
@@ -58,6 +60,12 @@ export default class GubatBanwaActor extends Actor {
     this.prepareArc();
     await this.prepareForeignDocumentData();
     this.prepareAlignment();
+    this.prepareAbility();
+  }
+
+  async _prepareEnemyDerivedData() {
+    console.log("Gubat Banwa | Preparing Enemy Derived Data");
+
     this.prepareAbility();
   }
 

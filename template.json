@@ -1,13 +1,17 @@
 {
   "Actor": {
-    "types": ["kadungganan"],
-    "pc": {
+    "types": ["kadungganan", "enemy"],
+    "kadungganan": {
       "abilities": {},
       "alignments": {},
       "antingAnting": [],
       "consumables": [],
       "hp": {},
       "techniques": []
+    },
+    "enemy": {
+      "alignments": {},
+      "hp": {}
     }
   },
   "Item": {

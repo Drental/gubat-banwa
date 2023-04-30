@@ -1,0 +1,156 @@
+<form class="{{cssClass}} flexcol {{document.system.style}}" autocomplete="off">
+  {{! Sheet Header }}
+  <header class="sheet-header flexrow">
+    <img class="profile" src="{{document.img}}" title="{{document.name}}" data-edit="img" />
+    <h1 class="title flex3">
+      <input
+        name="name"
+        type="text"
+        value="{{document.name}}"
+        placeholder="{{localize 'GUBATBANWA.KadunggananNamePlaceholder'}}"
+      />
+    </h1>
+
+    {{! Style }}
+    <fieldset>
+      <legend>{{localize "GUBATBANWA.Style.Label"}}</legend>
+      <select name="system.style">
+        {{selectOptions STYLE_TYPES selected=document.system.style}}
+      </select>
+    </fieldset>
+
+  </header>
+
+  {{! Body }}
+  <section class="sheet-body">
+
+    {{! Violence Tab }}
+    <div class="tab violence" data-group="primary" data-tab="violence">
+      <div class="flexrow">
+
+        {{! HP }}
+        <fieldset>
+          <legend>{{localize "GUBATBANWA.HP.Label"}}</legend>
+
+          {{! Max }}
+          <div class="form-group" data-name="system.hp.max">
+            <label>{{localize "GUBATBANWA.HP.Max"}}</label>
+            <input type="number" value="{{document.system.hp.max}}" disabled />
+          </div>
+
+          {{! Current }}
+          <div class="form-group" data-name="system.hp.value">
+            <label>{{localize "GUBATBANWA.HP.Value"}}</label>
+            {{numberInput document.system.hp.value name="system.hp.value" min=0 max=document.system.hp.max step=1}}
+          </div>
+
+          {{! Progress Bar }}
+          <div class="form-group">
+            <progress class="health" value="{{document.system.hp.value}}" max="{{document.system.hp.max}}"></progress>
+          </div>
+
+          <hr />
+
+          {{! Block }}
+          <div class="form-group" data-name="system.hp.block">
+            <label>{{localize "GUBATBANWA.HP.Block"}}</label>
+            {{numberInput document.system.hp.block name="system.hp.block" min=0 step=1}}
+          </div>
+        </fieldset>
+
+        {{! Martial Abilities }}
+        <fieldset class="flexrow abilities flex3">
+          <legend>{{localize "GUBATBANWA.Abilities.Label"}}</legend>
+          {{! Bravery }}
+          <div class="form-group ability flexcol" data-name="bravery">
+            <label>{{localize "GUBATBANWA.Abilities.Bravery"}}</label>
+            {{numberInput
+              document.system.abilities.bravery.value
+              name="system.abilities.bravery.value"
+              step=1
+              min=3
+              max=7
+            }}
+            <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+          </div>
+
+          {{! Faith }}
+          <div class="form-group ability flexcol" data-name="faith">
+            <label>{{localize "GUBATBANWA.Abilities.Faith"}}</label>
+            {{numberInput document.system.abilities.faith.value name="system.abilities.faith.value" step=1 min=3 max=7}}
+            <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+          </div>
+
+          {{! Posture }}
+          <div class="form-group ability flexcol" data-name="posture">
+            <label>{{localize "GUBATBANWA.Abilities.Posture"}}</label>
+            {{numberInput
+              document.system.abilities.posture.value
+              name="system.abilities.posture.value"
+              step=1
+              min=3
+              max=7
+            }}
+            <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+          </div>
+
+          {{! Resistance }}
+          <div class="form-group ability flexcol" data-name="resistance">
+            <label>{{localize "GUBATBANWA.Abilities.Resistance"}}</label>
+            {{numberInput
+              document.system.abilities.resistance.value
+              name="system.abilities.resistance.value"
+              step=1
+              min=3
+              max=7
+            }}
+            <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+          </div>
+
+          {{! Speed }}
+          <div class="form-group ability flexcol" data-name="speed">
+            <label>{{localize "GUBATBANWA.Abilities.Speed"}}</label>
+            {{numberInput document.system.abilities.speed.value name="system.abilities.speed.value" step=1 min=3 max=7}}
+            <a data-action="roll-ability"><img src="icons/dice/d10black.svg" /></a>
+          </div>
+        </fieldset>
+      </div>
+      <div class="flexrow backgrounds flex3">
+        <div class="background">
+          <label>{{localize "GUBATBANWA.Traits"}}</label>
+          {{editor
+            traitsHTML
+            target="system.traits"
+            button=true
+            editable=editable
+            engine="prosemirror"
+            collaborate=false
+          }}
+        </div>
+        <div class="background">
+          <label>{{localize "GUBATBANWA.Violences"}}</label>
+          {{editor
+            violencesHTML
+            target="system.violences"
+            button=true
+            editable=editable
+            engine="prosemirror"
+            collaborate=false
+          }}
+        </div>
+        <div class="background">
+          <label>{{localize "GUBATBANWA.Gambits"}}</label>
+          {{editor
+            gambitsHTML
+            target="system.gambits"
+            button=true
+            editable=editable
+            engine="prosemirror"
+            collaborate=false
+          }}
+        </div>
+      </div>
+    </div>
+
+  </section>
+</form>
