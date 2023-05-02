@@ -1,12 +1,12 @@
-import {SYSTEM_ID} from "../../CONSTANTS.mjs";
+import { SYSTEM_ID } from "../../CONSTANTS.mjs";
 import GubatBanwaSheet from "../gubat-banwa-sheet.mjs";
 
 export default class ItemDocumentSheet extends GubatBanwaSheet {
-
   /** @override */
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       classes: [SYSTEM_ID, "sheet", "item"],
+      closeOnSubmit: false,
       width: 520,
       height: 480
     });

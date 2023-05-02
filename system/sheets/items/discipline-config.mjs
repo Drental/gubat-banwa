@@ -6,6 +6,7 @@ export default class DisciplineConfig extends ItemDocumentSheet {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       classes: [SYSTEM_ID, "sheet", "item", "discipline"],
+      closeOnSubmit: false,
       width: 725,
       height: 650
     });

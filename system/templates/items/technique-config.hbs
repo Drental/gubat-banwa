@@ -10,6 +10,18 @@
 
   {{! Description Tab }}
   <section class="sheet-body">
+    {{! generic stats and info}}
+    <fieldset class="flexcol details flex3">
+      <legend>{{localize "GUBATBANWA.Details"}}</legend>
+      {{! Discipline }}
+      <div class="form-group detail flexcol" data-name="system.discipline">
+        <label>{{localize "GUBATBANWA.Discipline"}}</label>
+        <select name="system.discipline" class="center">
+          {{selectOptions DISCIPLINE_TYPES selected=document.system.discipline}}
+        </select>
+      </div>
+    </fieldset>
+
     {{! Description }}
     <div class="form-group stacked" data-name="system.description">
       <label>{{localize "Description"}}</label>
@@ -23,8 +35,4 @@
       }}
     </div>
   </section>
-  {{! Save Changes }}
-  <footer>
-    <button type="submit">{{localize "Save"}}</button>
-  </footer>
 </form>

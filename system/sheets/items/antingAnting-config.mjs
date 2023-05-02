@@ -6,6 +6,7 @@ export default class AntingAntingConfig extends ItemDocumentSheet {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       classes: [SYSTEM_ID, "sheet", "item", "technique"],
+      closeOnSubmit: false,
       width: 650,
       height: 400
     });
