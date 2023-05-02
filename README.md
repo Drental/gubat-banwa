@@ -4,7 +4,7 @@ Gubat Banwa is a Martial Arts Tactics and War Drama TTRPG system. A fiction firs
 
 - Character Creation
 - 2 Disciplines
-- 1 Techniques
+- 6 Techniques
 - 0 Divination Tables
 - 0 Enemies
 - 0 Status Effects
