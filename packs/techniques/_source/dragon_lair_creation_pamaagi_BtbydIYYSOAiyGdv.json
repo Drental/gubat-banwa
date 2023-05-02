@@ -1,0 +1,17 @@
+{
+  "name": "Dragon Lair Creation Pamaagi",
+  "type": "technique",
+  "_id": "BtbydIYYSOAiyGdv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>1. The Buwaya brings with it hell.</p><p>2. And with a bellow, it brings others with it.</p><p>- Makara Exalt Sutla 128</p><p>Crocodiles are venerated like ancestor gods in the isles, and to have one fight with you is a sign of respect and prestige. They are sometimes seen as psychopomps, and that is exactly what you will be doing: bringing your enemies to hell.</p></blockquote><p><strong>Spend 1 Beat</strong> to rise up and then crash down: bring all squares in burst 1 down by 1 <strong>Elevation</strong>. (Example: +2 Elevation becomes +1 Elevation, 0 Elevation becomes -1 Elevation). All enemies in the burst suffer <strong>Unbalance (1)</strong>. You cannot bring a square past -2 Elevation this way.</p><p><strong>Gaping Gluttony</strong>: +1 Beat to increase the burst to Burst 2.</p><p><strong>Vaunted Hall</strong>: +1 Beat to Rush 2 and then place a chasm in the square that you were on before the Rush.</p>",
+    "discipline": "QLQz8TZ2D8EAhUvh"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

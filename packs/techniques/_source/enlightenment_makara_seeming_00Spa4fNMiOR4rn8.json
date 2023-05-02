@@ -1,0 +1,17 @@
+{
+  "name": "Enlightenment Makara Seeming",
+  "type": "technique",
+  "_id": "00Spa4fNMiOR4rn8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Makara are the gods of the crocodiles of the Isles, the great vessels of ancient heroes and demigods who waged war to seize wealth. Makara are said to be the first of the crocodiles, and are the original dragons: their spiritual pairing created the three draconic forms that many gods take on: Naga, the Flying Water Guardian Spirits. Pythons, the Deep Earth and Tree Serpent. And finally, the Crocodile, the Sea and Soil Dragon. It is said that a Makara encircles the entire cosmos, all of Kalibutan, and in the end times when violence has consumed like a bleeding, threading flame, it will consume all of reality.</p></blockquote><p><strong>Toughness</strong>: Raise your base HP by 2.</p><p><strong>Spend 1 Beat at Strike 3+</strong> to turn your mount into a makara, legendary dragon-crocodile. Gain the Following Benefits for the rest of Violence: <strong>+1 BRV, +1 FTH, +2 SPD, +2 POS, Stability</strong>, and <strong>Regen</strong>. Finally, you ignore all terrain and elevation, and become <strong>Size 2</strong>.</p>",
+    "discipline": "QLQz8TZ2D8EAhUvh"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

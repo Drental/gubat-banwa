@@ -1,0 +1,17 @@
+{
+  "name": "Death Roll Style",
+  "type": "technique",
+  "_id": "fS4bnQV6cyhJrK27",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p style=\"text-align: center\">“Usa: Who will find you when you are in fragments?</p><p style=\"text-align: center\">Duha: Do you not quiver at the sight?</p><p style=\"text-align: center\">Tulo: This is the divine butchering, the ancestors ripping the world.</p><p style=\"text-align: center\">Upat: Do you understand? You are not meant to see this.</p><p style=\"text-align: center\">Lima: Rejoice, then. Rejoice. Here, you shall taste bliss. Only in Sulad will you achieve enlightenment.”</p><p style=\"text-align: center\">- Pagoda Tree Sage Sutla 44</p></blockquote><p><strong>Prereq</strong>: Makara Meditation</p><p><strong>Spend 1 Beat</strong> to bite and roll against a helpless target: make a Melee Water Bravery Attack vs 1 close fighter; if the target has <strong>Slow, Stop, Unbalance</strong>, or <strong>Seize</strong>, the attack gains <strong>Overwhelming</strong>.</p><p><strong>Maws of Hell</strong>: +1 Beat to make the attack <strong>Bravery + Faith</strong> instead.</p><p><strong>Divine Consumption</strong>: +1 Beat when you make the attack to make it so after the Attack, heal 1 per Hit on the attack, after Defends.</p>",
+    "discipline": "QLQz8TZ2D8EAhUvh"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

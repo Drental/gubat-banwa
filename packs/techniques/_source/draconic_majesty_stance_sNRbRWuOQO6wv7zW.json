@@ -1,0 +1,17 @@
+{
+  "name": "Draconic Majesty Stance",
+  "type": "technique",
+  "_id": "sNRbRWuOQO6wv7zW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>1. Woe, woe be to those that would dare defy the Buwaya!</p><p>2. That ancient god of the rivers, that dragon of the lake.</p><p>3. Woe, and calamity. - Daknunuk Sutla 98</p></blockquote><p><strong>Spend 1 Beat</strong> to exude brilliant draconic majesty. Take on the <strong>Draconic Majesty Stance</strong> until the end of your next Fulmination. While in this stance, every fighter that ends their Fulmination within burst 3 of you is pulled 1.</p><p><strong>Immense Water Dragon:</strong> +1 Beat to inflict <strong>Provoke (1)</strong> on all enemies in burst 2 when you enter into the stance.</p><p><strong>Immovable Sea Lord:</strong> +1 Beat to gain <strong>Stability</strong> while you’re in the stance.</p>",
+    "discipline": "QLQz8TZ2D8EAhUvh"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

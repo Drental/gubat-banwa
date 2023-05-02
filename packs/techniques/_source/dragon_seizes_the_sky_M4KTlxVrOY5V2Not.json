@@ -1,29 +1,17 @@
 {
   "name": "Dragon Seizes The Sky",
   "type": "technique",
+  "_id": "M4KTlxVrOY5V2Not",
   "img": "icons/creatures/claws/claw-talons-yellow-red.webp",
   "system": {
-    "description": "<blockquote><p>Your muscles and strength is unparalleled. You can wrestle with the Gods in the Sky. Crowns shall slip from heads unworthy. Your spear shall impale the gods upon high, and all shall bow down at your feet. This tenacity and boldness helped Ramasa keep their strength even after the advent of the Issohappans.</p></blockquote><p><strong>Spend 1 Beat</strong> to <strong>rush</strong> 1 and then seize an adjacent fighter. While seized, they cannot leave your adjacency. If you move, they are forcibly moved, as long as they keep adjacency. They must spend 2 Beats to break free of the seize, or you can let go of them for at any point for free.<br><strong>Dragon Seizes The Moon:</strong> Spend +1 Beat to Rush 3 instead.<br><strong>Crocodile Jaws:</strong> Spend +1 Beat to inflict 1 <strong>True Hit</strong> when you seize the target.</p>"
+    "description": "<blockquote><p>Your muscles and strength is unparalleled. You can wrestle with the Gods in the Sky. Crowns shall slip from heads unworthy. Your spear shall impale the gods upon high, and all shall bow down at your feet. This tenacity and boldness helped Ramasa keep their strength even after the advent of the Issohappans.</p></blockquote><p><strong>Spend 1 Beat</strong> to <strong>rush</strong> 1 and then seize an adjacent fighter. While seized, they cannot leave your adjacency. If you move, they are forcibly moved, as long as they keep adjacency. They must spend 2 Beats to break free of the seize, or you can let go of them for at any point for free.<br><strong>Dragon Seizes The Moon:</strong> Spend +1 Beat to Rush 3 instead.<br><strong>Crocodile Jaws:</strong> Spend +1 Beat to inflict 1 <strong>True Hit</strong> when you seize the target.</p>",
+    "discipline": "QLQz8TZ2D8EAhUvh"
   },
   "effects": [],
   "folder": null,
+  "sort": 0,
   "ownership": {
-    "default": 0,
-    "20y6Rayw7QMgA0qv": 3
+    "default": 0
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.ujsKLFA0AduvtLQK"
-    }
-  },
-  "_stats": {
-    "systemId": "gubat-banwa",
-    "systemVersion": "This is auto replaced",
-    "coreVersion": "11.294",
-    "createdTime": 1679603231141,
-    "modifiedTime": 1680290147907,
-    "lastModifiedBy": "20y6Rayw7QMgA0qv"
-  },
-  "_id": "M4KTlxVrOY5V2Not",
-  "sort": 0
+  "flags": {}
 }

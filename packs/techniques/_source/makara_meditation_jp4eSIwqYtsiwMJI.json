@@ -1,0 +1,17 @@
+{
+  "name": "Makara Meditation",
+  "type": "technique",
+  "_id": "jp4eSIwqYtsiwMJI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>An ancestral god in your hands. You summon your holy reverence, and your buwaya strikes down, tapping the springs beneath the earth. Waters erupt up, the waters of the deep. This was a technique crafted by Laksamana Tuhon Langkasingbangis himself to engrave a new river to stop the chase of ancient Put’wan Cataphracts. The river still exists, known as Tuhonsuba, and has since become a tributary to Inagos. The diwata that have arisen from it are in constant war with the diwata of Inagos.</p></blockquote><p><strong>Prereq</strong>: Dragon Seizes The Sky, Draconic Majesty Stance, Dragon Lair Creation Pamaagi</p><p><strong>Spend 1 Beat</strong> to strike the earth and bring up the waters of the deep: choose a square in range 3 and turn that into water terrain.</p><p><strong>Makara Slithering River:</strong> +1 Beat to choose a Path 6 from yourself instead, turning that into water terrain and inflicting <strong>1 Hit</strong> to every enemy in the line.</p><p><strong>Makara Imposition:</strong> +1 Beat to give gvery enemy on every square that turn into water terrain <strong>Water Vulnerability (3)</strong>.</p>",
+    "discipline": "QLQz8TZ2D8EAhUvh"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
