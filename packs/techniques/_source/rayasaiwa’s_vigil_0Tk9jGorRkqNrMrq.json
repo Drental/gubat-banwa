@@ -1,0 +1,17 @@
+{
+  "name": "Rayasaiwa’s Vigil",
+  "type": "technique",
+  "_id": "0Tk9jGorRkqNrMrq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "discipline": "XmmC1iQzMCljgAqS",
+    "description": "<blockquote><p>Rayasaiwa is the Guardian Lord of the Center, and is also said to be the Supreme and sometimes the Absolute, He Who Holds All In His Palm. It is said that Gubat Banwa’s Cosmos, Kalibutan, balances upon the tip of his trident, Kadaut Rishud.</p></blockquote><p><strong>Prereq:</strong> Kitasamba’s Shield</p><p><strong>Spend 1 Beat</strong> to gain a <strong>Vigil Token</strong>. When an adjacent ally suffers an attack, spend the Token to swap places with the ally and then suffer the attack.</p><p><strong>Eye of Rayasaiwa:</strong> +1 Beat to gain a <strong>Rayasaiwa Token</strong> instead. When an ally in range 3 suffers an attack, discard the Token to rush 3 and swap places with the ally, and then you and the ally gains <strong>Block 2</strong>. You then suffer the attack.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

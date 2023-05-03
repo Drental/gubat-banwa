@@ -1,0 +1,17 @@
+{
+  "name": "Kitasamba’s Shield",
+  "type": "technique",
+  "_id": "Epnt2lLyzwgYrZnx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "discipline": "XmmC1iQzMCljgAqS",
+    "description": "<blockquote><p>\"Ever ready. That is what kawal must be. Now bring your weapons up. We have a datu to save.\" - War Leader Katuna, as he goes on to save a hostaged datu from a rival banwa. Kitasamba is the Guardian Lord of the Northeast, who guards those that have been untouched and are pure. His symbol is a newly blossomed passion flower, but his weapon is that of a hibiscus spiked shield.</p></blockquote><p><strong>Spend 1 Beat</strong> to raise your guard and take on the <strong>Guardian Stance</strong> until you make an attack. While in this Stance, all 8s on your Defense Teeth generates 2 Defends.</p><p><strong>Charging Guardian God</strong>: +1 Beat to make it so that you may <strong>Rush 1</strong> per 8 on Defense Teeth, after the attack.</p><p><strong>Gnashing Dharmapala</strong>: +1 Beat to upgrade the stance: you can now convert every 1-3 on an attacker’s Attack Teeth against you into Hits against them while in the stance.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

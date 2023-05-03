@@ -1,0 +1,17 @@
+{
+  "name": "Enlightenment Rudrakasha’s Vow",
+  "type": "technique",
+  "_id": "fBEO7QEWemaDLpCe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "discipline": "XmmC1iQzMCljgAqS",
+    "description": "<blockquote><p>You call out: “You! I challenge you. Face me or face the wrath of Jamiyun Kulisa!” Kawal are masters of the battlefield. With a single command, they invoke the rite of violence: the Bulu, a duel in the midst of battle. One that they will surely win. A bulu is a duel to the death, after all.</p><p>Rudrakasha is the Guardian Lord of the Southwest Corner, where the land is barren and eventually becomes a white void, the horizon between Sky and Sea. They guard this impossibility, but with their single eye (which is the Eye of the Hurricane) they can see all, and they can strike at any warrior from afar, gaining their ire, becoming their fate, with his bow and arrow, known only as Kalma, or Destiny</p></blockquote><p><strong>Increased Vitality:</strong> Gain Block 1 at the start of your Fulmination.</p><p><strong>At Strike 3+, for 1 Beat</strong>, choose 1 fighter in range 3 to declare a <strong>bulu</strong> with. You and the target of your Bulu cannot be targeted or damaged by any attacks, nor can you suffer any hits or effects that do not come from each other’s attacks and effects. You and the target of the Bulu can only treat each other as valid targets. However, <strong>you gain +1 to all Martial Abilities</strong> while in the Bulu.If you or the target falls to 0 HP, the Bulu ends.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
