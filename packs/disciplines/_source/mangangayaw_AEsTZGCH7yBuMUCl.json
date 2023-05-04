@@ -1,0 +1,24 @@
+{
+  "name": "Mangangayaw",
+  "type": "discipline",
+  "_id": "AEsTZGCH7yBuMUCl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "raider",
+    "techniques": [],
+    "hp": 16,
+    "weapon": "",
+    "armor": "",
+    "description": "<p>Demon Sword Raiders of the Endless Seas, Bane of Empires, Seizer of Heaven’s Thunderclaps, Peerless Blademasters of Sea and Sky</p><p>Mangangayaw (Mah-nga-nga-ya-o) burn through the sea upon boats that slice the waves. They raid shoreline settlements with impunity, usually forcing those living within to travel further inland to avoid them. Mangangayaw are stylish and fearless adrenaline junkies that strike quick and hard, relentlessly, until the enemy breaks, or until they get what they want.</p><p>While raiding is the main form of warring in The Sword Isles, mangangayaw are those that are specialized in the art of Raiding. In the art of catching enemies with their shields down, in the midst of the night, and looting what they need. Mangangayaw might kill, but their main goal is resources: bahandi property wealth (like brass gongs, porcelain jars, and the like) and debtors.</p><p>Through this they get richer, stealing shoreline settlement’s riches and porcelain and tradeware to sell from their own villages and towns. Mangangayaw are usually not mercenaries: they usually follow their own datu, and in truth do usually raid with their datu during raiding season, to collect money and wealth from enemy states.</p><p>Mangangayaw are not only feared within the Gatusan, but also among the shorelines of the Akai Sultanate and the Virbanwan Lakanate, although the Akai Sultanate are peerless raiders on their own.</p><p>They have mastered boat technology and sea navigation to a point that they raid upon the far southern shores of Baik Hu and terrorize the shore settlements of the Malirawat Empire.</p><p>Demons, kin-eaters, ogres, they are called, for they are unceasing in the face of adversity. Like a storm approaching that cannot be Stop, only avoided, the kayaw raiders come. Kayaw is the root word for sea raid in most of their tongues, shared among settlements in hushed and whispered tones, too afraid to speak it out loud lest they call their ire.</p><p>Mangangayaw are wont to wear light armor--and truly enough usually none at all--depending on their skinscarred tattoos to defend them in the midst of the sea. The bravest of them all have tattoos that scrawl up to their faces, making them look like demons. Mangangayaw are brothers with Pinatikan in this regard, and in truth, many Pinatikan are also Kayaw raiders, and vice versa.</p><p>If you take up the path of the Raid, ask yourself why and for what reason: glory? Power?Wealth? You’re losing that reason. Why do you enjoy the killing?</p>",
+    "traits": "<p><strong>Bloodlust</strong></p><p><em>A mangangayaw must always be showing off, or else they die. No, really: if a sea raider slows down, they will be consumed by the waves of war. And so they must keep moving, so that they are above water. Mangangayaw are born into violence. They are the purest manifestations of strength, vigor, and ferocity. Their swords are always ready, nothing can ever catch them off guard. They are the peerless warriors of the Sword Isles. All will fall to their blades.</em></p><p><strong>Whenever you make a melee attack, gain a Bloodlust Level</strong>. Bloodlust is a measure of your battle hype. Bloodlust Levels can only go up to 5. When you make a Melee Attack, you can spend all your Bloodlust Levels to add that many Hits to the Attack. As long as you have Bloodlust, you may <strong>rush 2</strong> before and after every attack.</p><p>Additionally for every 2 Levels of Bloodlust, you gain +1 to your SPD.</p><p><strong>Counterstrikes</strong></p><p><em>A common teaching when fighting against premier mangangayaw is this: never get too close to them. This is how the mangangayaw sea raiders rule the waters.</em></p><p>1/Fulmination, when a fighter makes a melee attack against you, you may eschew rolling POS to roll your BRV value instead as Defense Teeth. 6+ on this roll does not cancel Hits but rather, inflicts Hits on the attacker.</p>",
+    "violences": "<p><strong>Multistrike</strong> [1]: <em>You unleash a thousand lightning strikes in a moment</em>. Make a Melee Water Bravery Attack vs 1 adjacent fighter.</p><p><strong>Open Up</strong> [1]: <em>Perform a quick vacuuming movement, lead them to their death</em>. Pull 1 fighter in burst 2. If the fighter is already adjacent, inflict <strong>Eviscerate</strong> (1) instead.</p><p><strong>Thundering Stomp</strong> [1]: <em>You surge forward and stomp, breaking defenses</em>. Rush 1 and then inflict <strong>POS Down</strong> (1) on an adjacent fighter.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!AEsTZGCH7yBuMUCl"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Bleeding Steel Monsoon",
+  "type": "technique",
+  "_id": "3ngIhItSEjSorWns",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "discipline": "AEsTZGCH7yBuMUCl",
+    "description": "<blockquote><p>You move like a whirlpool in the midst of the sea, burgeoning and breaking and crashing and alluring ships into their depths. But you are steel, and you become like an unstoppable whirling wind of sharpness and blades.</p></blockquote><p><strong>Spend 1 Beat</strong> to raid! Choose 1 fighter that you can see, then <strong>Stride</strong>. You must end the movement at least 2+ squares away from where you started, and you gain <strong>Eviscerate (1)</strong>.Then, if within range, you may <strong>inflict violence</strong> on the chosen fighter. End your Fulmination afterwards.</p><p><strong>Churning Blood</strong>: +1 Beat to gain <strong>BRV Up</strong> (1) instead of <strong>Eviscerate</strong>.</p><p><strong>Vibrant Beat</strong>: +1 Beat to be able to <strong>Rush 1</strong> after the attack.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!3ngIhItSEjSorWns"
+}

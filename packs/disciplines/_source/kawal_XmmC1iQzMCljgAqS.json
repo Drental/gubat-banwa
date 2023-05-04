@@ -17,16 +17,8 @@
   "folder": null,
   "sort": 0,
   "ownership": {
-    "default": 0,
-    "20y6Rayw7QMgA0qv": 3
+    "default": 0
   },
   "flags": {},
-  "_stats": {
-    "systemId": "gubat-banwa",
-    "systemVersion": "This is auto replaced",
-    "coreVersion": "11.294",
-    "createdTime": 1679778854431,
-    "modifiedTime": 1680294831696,
-    "lastModifiedBy": "20y6Rayw7QMgA0qv"
-  }
+  "_key": "!items!XmmC1iQzMCljgAqS"
 }

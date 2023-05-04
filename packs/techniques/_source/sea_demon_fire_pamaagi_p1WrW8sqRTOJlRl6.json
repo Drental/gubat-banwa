@@ -1,0 +1,17 @@
+{
+  "name": "Sea Demon Fire Pamaagi",
+  "type": "technique",
+  "_id": "p1WrW8sqRTOJlRl6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>There are lights of the Moon Goddess that alight upon the sea when fishermen and raiders sail through the night. These are called Kalayo Sa Dagat, “Fire of the Sea”. Mangangayaw Kulili Sa Katana befriended a demon and imbued her weapon with it, creating a Technique that allowed Mangangayaw to emblaze their weapons with flames.</p></blockquote><p><strong>Prereq</strong>: Bleeding Steel Monsoon</p><p><strong>Spend 1 Beat</strong> to light your blade aflame: take on the <strong>Demon Flame Stance</strong> until the end of your next Fulmination. While in Demon Flame Stance, when you roll a <strong>10</strong> on your Attack Teeth, roll another <strong>Attack Tooth</strong>.</p><p><strong>Speed of Fire</strong>: +1 Beat when you take the Stance to gain <strong>SPD Up</strong> while in the Stance.</p><p><strong>Godflame Stance</strong>: +1 Beat when you take the Stance to also inflict <strong>Fray 1</strong> per <strong>Hit</strong> after Defends.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!p1WrW8sqRTOJlRl6"
+}
