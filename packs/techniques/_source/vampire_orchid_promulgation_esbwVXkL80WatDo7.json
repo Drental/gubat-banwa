@@ -1,0 +1,29 @@
+{
+  "name": "Vampire Orchid Promulgation",
+  "type": "technique",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p><span class=\"fontstyle0\">The Mandurugo is the vampire orchid, which drains blood from one’s veins and applies it as spiritual healing upon others. It is exceedingly rare, and is popular for healing datu by sacrificing slaves.</span></p></blockquote><p><span class=\"fontstyle0\"><strong>Prereq:</strong> </span><span class=\"fontstyle2\">Gumamela Diwa Method </span></p><p><span class=\"fontstyle0\"><strong>Spend 1 Beat</strong> </span><span class=\"fontstyle2\">to inflict an </span><span class=\"fontstyle0\"><strong>Orchid</strong> </span><span class=\"fontstyle2\">upon a fighter in range 2. You can stack up to 3 Orchids at a time, and Orchids stay indefinitely. When a fighter with Orchids is attacked, consume any number of Orchids on the fighter to heal 1 the attacker per Orchid consumed.</span></p><p><span class=\"fontstyle0\"><strong>Busilak Tayabak: +1 Beat</strong> </span><span class=\"fontstyle2\">to inflict an Orchid on all enemies in range 3 burst 1.</span></p><p><span class=\"fontstyle0\"><strong>Unkind Flower: +1 Beat</strong> </span><span class=\"fontstyle2\">to make it so you inflict Vampire Orchids instead. An enemy that starts their Fulmination with a Vampire Orchid suffers 1 Hit.</span></p>",
+    "discipline": "HkyQiwPHz3qKIDce"
+  },
+  "effects": [],
+  "folder": "YOK1XHQu60w0cOZP",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.296",
+    "createdTime": 1683566330452,
+    "modifiedTime": 1683569370101,
+    "lastModifiedBy": "hn69JT1aelLHgq4s"
+  },
+  "_id": "esbwVXkL80WatDo7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hn69JT1aelLHgq4s": 3
+  },
+  "_key": "!items!esbwVXkL80WatDo7"
+}

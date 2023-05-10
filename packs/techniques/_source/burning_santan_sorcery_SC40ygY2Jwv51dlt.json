@@ -1,0 +1,29 @@
+{
+  "name": "Burning Santan Sorcery",
+  "type": "technique",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Gather motes of crimson santan, crush them, and pray to let the vengeful dead burn the thickets. A mentala that summons a thicket of thick and hard to move through foliage. It is wrapped in phantom flame.</p></blockquote><p><strong>Prereq:</strong> Vampire Orchid Promulgation</p><p><strong>Spend 1 Beat</strong> to burn a place: choose a square in range 4. A Burst 1 <strong>Fireflower Field</strong> erupts from it until the end of your next Fulmination: any enemy that starts their Fulmination in the Field suffers <strong>Fray 1</strong> and <strong>Eviscerate (1)</strong>. When the Fireflower Field disappears, all squares within the Field become Fire Terrain.</p><p><strong>Blossoming Sampaguita: +1 Beat</strong> to increase the Field to Burst 2.</p><p><strong>Divine Flower Aflame: +1 Beat</strong> to inflict <strong>Fray 3</strong> on each enemy in the burst when you put down the field.</p>",
+    "discipline": "HkyQiwPHz3qKIDce"
+  },
+  "effects": [],
+  "folder": "YOK1XHQu60w0cOZP",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.296",
+    "createdTime": 1683566646527,
+    "modifiedTime": 1683569370101,
+    "lastModifiedBy": "hn69JT1aelLHgq4s"
+  },
+  "_id": "SC40ygY2Jwv51dlt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hn69JT1aelLHgq4s": 3
+  },
+  "_key": "!items!SC40ygY2Jwv51dlt"
+}

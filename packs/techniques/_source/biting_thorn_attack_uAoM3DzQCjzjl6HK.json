@@ -1,0 +1,29 @@
+{
+  "name": "Biting Thorn Attack",
+  "type": "technique",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p><span class=\"fontstyle0\">Kinahalas-un is an ancient balyan who learned the secrets of ancient necromancy and decay. She crafted a thorn, which has since become a primary offensive technique of all Flower Necromancers, who practice it and then learn to apply it as covetously and as hidden as possible, woven between sung incantations and empty hand forms.</span></p></blockquote><p><span class=\"fontstyle0\"><strong>Spend </strong></span><span class=\"fontstyle2\"><strong>1 Beat</strong> </span><span class=\"fontstyle0\">to launch a thorn: Ranged Earth Faith Attack vs 1 fighter in range 4, inflict </span><span class=\"fontstyle2\"><strong>Bleed 1</strong>.</span></p><p><span class=\"fontstyle2\"><strong>Blood Drain: +1 Beat</strong> to </span><span class=\"fontstyle0\">heal 1 per target inflicted Bleed upon.</span></p><p><span class=\"fontstyle2\"><strong>Bloomed Spider Lily: +1 Beat</strong> to m</span><span class=\"fontstyle0\">ake this an </span><span class=\"fontstyle2\">area attack </span><span class=\"fontstyle0\">that targets </span><span class=\"fontstyle2\"><strong>all chosen fighters in burst 2</strong>.</span></p>",
+    "discipline": "HkyQiwPHz3qKIDce"
+  },
+  "effects": [],
+  "folder": "YOK1XHQu60w0cOZP",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.296",
+    "createdTime": 1683564973333,
+    "modifiedTime": 1683569370101,
+    "lastModifiedBy": "hn69JT1aelLHgq4s"
+  },
+  "_id": "uAoM3DzQCjzjl6HK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hn69JT1aelLHgq4s": 3
+  },
+  "_key": "!items!uAoM3DzQCjzjl6HK"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Flower Balyan",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "witch",
+    "techniques": [],
+    "hp": 12,
+    "description": "<p><span class=\"fontstyle0\"><strong>Channelers and Priests of the Sampaguita: the Jasmine of Death and the Ancestors, Speakers of the Departed, Ministers of Blessed Flower Corpses</strong></span></p><p><span class=\"fontstyle2\">Flower Balyan channel the little and large gods of death.<br>Flower Balyan are a specialized martial clan of balyan that have focused on speaking with the recently killed. More and more necromancers havebeen born during the beginning of the Seventh Star Era due to the rapid rise in violence, and subsequently, death. The wandering kalag of those recently departed all cry the same thing: Where is the justice? When will it end?</span></p><p><span class=\"fontstyle2\">Flower Balyan are usually, but not strictly, those alabay when they were younger, or shaman apprentices. Through this they learn the foremost important necromancy ritual: the ritual of pag-uli. Through this, they may be able to resurrect a person if their kalag is close enough. If not, then they would perform the rituals to send off the kalag to their final resting place. Flower Balyan are a step forward. They took this advantage during the rise of killing through violence, which has caused many kalag to not be sent properly to the afterlife.</span></p><p><span class=\"fontstyle2\">Flower Balyan use the iconic sampaguita flower--the flower one would smell if a beloved one’s ghost who has passed away is near you--to promise a better end: they will grant them peace, but only if they do one final request for them. Once the kalag or soul has agreed, they will be bound to a sampaguita. Once that kalag has been used, the sampaguita must be planted to the ground, wherein it withers and then dies, finishing the elaborate pag-uli ritual.</span></p><p><span class=\"fontstyle2\">Flower Balyan use the kalag bound to their sampaguita to perform things usually thought of as blasphemous: they animate bones and flesh (not of tawo, however),they grant life to their allies, and they sap away at enemies’ vitality.</span></p><p><span class=\"fontstyle2\">Balyan see them in a negative light. Thus, Flower Balyan are much rarer than the usual balyan. In a very real sense, Flower Balyan are simply warriorpriestesses who have absorbed the teachings of death and used it to gain an edge. This kind of thinking is something Ba-e obviously loves, and they patronized and hired Flower Balyan alongside balyan in their polities. Only the most traditionalist of balyan sneer at them. Unfortuantely, that is still the majority. Dealing in matters of death is anathema to them, is too close to the sorceries of the Asuwang. Despite this, Flower Balyan follow the tenets of Dalankalag to the bitter end, the spiritual Path of the Soul.</span></p><p><span class=\"fontstyle2\">If you become a sampaguita necromancer, you bring with you at all times your cord of sampaguita. Why do you carry it? Is it atonement? You lay to rest those that are dead, but can you ever give your own soul respite?</span></p>",
+    "violences": "<p><span class=\"fontstyle0\"><strong>Rose Thorn</strong> [1]: </span><span class=\"fontstyle2\">Let fly a petal that buries into an enemy. </span><span class=\"fontstyle3\">Inflict Fray 1 on a target in range 5.</span></p><p><span class=\"fontstyle0\"><strong>Jade Vine Whip</strong> [1]: </span><span class=\"fontstyle2\">Throw a jade vine and whip an enemy about. </span><span class=\"fontstyle3\">Slide 3 a target in range 4.</span></p><p><span class=\"fontstyle0\"><strong>Floral Blade</strong> [1]: </span><span class=\"fontstyle2\">Cut with a weapon made of petals. </span><span class=\"fontstyle3\">Area Earth Faith Attack vs all chosen targets in path 5, inflicting </span><span class=\"fontstyle0\"><strong>Eviscerate (2)</strong>.</span></p>",
+    "traits": "<h3>Flower Garden</h3><p><em>Flower Balyan very often cultivate gardens of their own, either in their own houses or perhaps in their own settlements. These gardens are pieces of wonder, though their most striking part will always be a corpse flower in the middle of it all. Flower Balyan are fond of sampaguita, or jasmines, as they are the flowers of the dead. They cultivate the gardens because it is very often taught that to take a life, you must bring something else to life. You have captured wandering souls that wish to offer their ghostly consciousnesses for a virtuous cause. They are always 5. You know each of their names. You fight with them, and they manifest as beings clad in flower and soil.</em></p><p>When you start violence, place a <strong>Flower Ghost in a square adjacent to you</strong>. You can put down another Flower Ghost for 1 Beat. You only have 1 of each Ghost type per Violence. You cannot have more than 3 at a time. Each Flower Ghost is a Size 1 Summon.</p><p>You can make any number of your Ghosts <strong>rush 3</strong> for 1 Beat.</p><p><strong>Sampaguita Ghost:</strong> The Sampaguita Ghost is Hindering Terrain.</p><p><strong>Lotus Soul:</strong> Leaving adjacency of the Lotus Soul costs +1 Speed.</p><p><strong>Hibiscus Goblin:</strong> At the start of your Fulmination, the Goblin may rush 2 and inflict <strong>Unbalance (1)</strong> on an adjacent enemy.</p><p><strong>Jade Vine Serpent:</strong> Every end of Fulmination, the serpent leaps and inflicts <strong>SPD Down (1)</strong> on an enemy in range 2.</p><p><strong>Waling-Waling Brute</strong>: The brute is considered <strong>blocking terrain</strong>.</p><h3>Plant Blossoms</h3><p><em>Flower Necromancers carry with them flowers inlaid with sorcerous script. When fired, they burn and execute a variety of magical effects. These sorcerous scripts are also very often found written in palm leaf strips, which Flower Necromancers very often rip or tear to perform a variety of effects.</em></p><p>When you inflict any number of Hits on a fighter, you may plant a flower within them. Any single fighter can have up to 3 flowers on them. When a fighter with a flower attacks, make any number of flowers on them blossom, canceling a Hit per blossom. Flowers wither away after a blossom.</p>",
+    "weapon": "Mudras, ritual knives, gunong, kris, prayer strips, sampaguita wreaths, flower thorns, laurels",
+    "armor": "Ritual vestments, raiments, shawls, robes, sashes, malong, tapis, sarong"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.296",
+    "createdTime": 1683561311607,
+    "modifiedTime": 1683569362566,
+    "lastModifiedBy": "hn69JT1aelLHgq4s"
+  },
+  "_id": "HkyQiwPHz3qKIDce",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hn69JT1aelLHgq4s": 3
+  },
+  "_key": "!items!HkyQiwPHz3qKIDce"
+}

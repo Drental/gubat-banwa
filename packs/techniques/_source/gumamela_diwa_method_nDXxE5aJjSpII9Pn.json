@@ -1,0 +1,29 @@
+{
+  "name": "Gumamela Diwa Method",
+  "type": "technique",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p><span class=\"fontstyle0\">A gumamela is a hibiscus native to the isles. It is so named after Gumeng and Mela, a mortal man and his diwata lover. The diwata lover killed him in a moment of grief, realizing that Mela cannot live with Gumeng forever. Then she killed herself, for she cannot suffer such blasphemy. The first gumamela flowers blossomed from their corpses. Once known simply as “Bulaklak ni Gumeng at Mela”, which means “Flowers of Gumeng and Mela”, it is now known as Gumamela.</span></p></blockquote><p><span class=\"fontstyle2\"><strong>Prereq:</strong> </span><span class=\"fontstyle3\">Brambles As Dragons Technique</span></p><p><span class=\"fontstyle2\"><strong>Spend 1 Beat</strong> </span><span class=\"fontstyle3\">to summon a giant gumamela to swallow you into the earth and belch somewhere else, </span><span class=\"fontstyle2\"><strong>teleport 2</strong>.</span></p><p><span class=\"fontstyle2\"><strong>Gumamela Traverse: +1 Beat</strong> </span><span class=\"fontstyle3\">to let the gumamela swallow all allies adjacent to you as well, letting them </span><span class=\"fontstyle2\"><strong>teleport 2</strong> </span><span class=\"fontstyle3\">as well, but they must stay </span><span class=\"fontstyle2\"><strong>adjacent to you</strong>.</span></p><p><span class=\"fontstyle2\"><strong>Bungasattva: +1 Beat</strong> </span><span class=\"fontstyle3\">to </span><span class=\"fontstyle2\"><strong>Push 2</strong> </span><span class=\"fontstyle3\">all enemies adjacent to you before </span><span class=\"fontstyle4\">or </span><span class=\"fontstyle3\">after the teleport.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>",
+    "discipline": "HkyQiwPHz3qKIDce"
+  },
+  "effects": [],
+  "folder": "YOK1XHQu60w0cOZP",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.296",
+    "createdTime": 1683565657878,
+    "modifiedTime": 1683569370101,
+    "lastModifiedBy": "hn69JT1aelLHgq4s"
+  },
+  "_id": "nDXxE5aJjSpII9Pn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hn69JT1aelLHgq4s": 3
+  },
+  "_key": "!items!nDXxE5aJjSpII9Pn"
+}

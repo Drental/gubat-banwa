@@ -1,0 +1,29 @@
+{
+  "name": "Enlightenment The Symbol of Death",
+  "type": "technique",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Hinagpis ng mga bulaklak. You touch the ground and it becomes drenched in the spirit of the dead. Your heart is rent; sampaguitas blossom from your fingers, from your brow. You become inert, a living bloom, as the ghosts of the vengeful rise above the earth in reckoning.</p><p>Petals blossom from your feet, and wrap you around. You are a flower yourself, now. Just a bit more and you will become a goddess, so close–so close–to death. The spirits remind you that the flowers are there to signify when a dear dead loved one is near. Become that signifier. The blossom erupts about you, butterflies scatter in every direction. Become death. The symbol for death in the sword isles is the Flower.</p></blockquote><p>All squares in burst 2 of you become difficult terrain for enemies, as flowers grow around your footfalls.</p><p><strong>Spend 2 Beats</strong> at <strong>Strike 4+</strong> to root yourself and become blossom open. Blossoms fill the sky. You can no longer move nor be moved. However, your range is the entire battlefield for every effect: every ally <strong>heals 1</strong> at the start of their fulmination, and every enemy suffers <strong>1 True Hit</strong> to when they end of their fulmination.</p>",
+    "discipline": "HkyQiwPHz3qKIDce"
+  },
+  "effects": [],
+  "folder": "YOK1XHQu60w0cOZP",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.296",
+    "createdTime": 1683566895458,
+    "modifiedTime": 1683569370101,
+    "lastModifiedBy": "hn69JT1aelLHgq4s"
+  },
+  "_id": "caaccMVb0w8lNedF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hn69JT1aelLHgq4s": 3
+  },
+  "_key": "!items!caaccMVb0w8lNedF"
+}

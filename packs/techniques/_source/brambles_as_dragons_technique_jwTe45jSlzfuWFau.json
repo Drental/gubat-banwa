@@ -1,0 +1,29 @@
+{
+  "name": "Brambles As Dragons Technique",
+  "type": "technique",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p><span class=\"fontstyle0\">Corpse Flower Necromancy has part of a shaman initiation rite baked into their training. They are taught to practice and learn the ways of the spirits, to communicate with them, and to give extra reverence–even more so than usual priests and shamans do–due to their own trespasses brought about by learning their Martial Art. Flower Necromancers therefore are intimately connected to the societies of spirits.</span></p></blockquote><p><span class=\"fontstyle2\"><strong>Prereq:</strong> </span><span class=\"fontstyle3\">Biting Thorn Attack</span></p><p><span class=\"fontstyle2\"><strong>Spend 1 Beat</strong> </span><span class=\"fontstyle3\">to touch a warrior and let brambles bind them: inflict </span><span class=\"fontstyle2\"><strong>Stop (1)</strong> </span><span class=\"fontstyle3\">on a fighter in range 3.</span></p><p><span class=\"fontstyle2\"><strong>Poison Field: +1 Beat</strong> </span><span class=\"fontstyle3\">to increase the target and range to all chosen fighters range 3 </span><span class=\"fontstyle2\"><strong>burst 1</strong>, </span><span class=\"fontstyle3\">and every square in the burst becomes </span><span class=\"fontstyle2\"><strong>Earth Terrain</strong>.</span></p><p><span class=\"fontstyle2\"><strong>Wrapped Dragonvine: +1 Beat</strong> </span><span class=\"fontstyle3\">to inflict </span><span class=\"fontstyle2\"><strong>Stop (3)</strong> </span><span class=\"fontstyle3\">instead</span><span class=\"fontstyle2\">.</span></p>",
+    "discipline": "HkyQiwPHz3qKIDce"
+  },
+  "effects": [],
+  "folder": "YOK1XHQu60w0cOZP",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.296",
+    "createdTime": 1683565252719,
+    "modifiedTime": 1683569370101,
+    "lastModifiedBy": "hn69JT1aelLHgq4s"
+  },
+  "_id": "jwTe45jSlzfuWFau",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hn69JT1aelLHgq4s": 3
+  },
+  "_key": "!items!jwTe45jSlzfuWFau"
+}
