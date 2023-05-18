@@ -11,19 +11,10 @@
   "flags": {
     "core": {}
   },
-  "_stats": {
-    "systemId": "gubat-banwa",
-    "systemVersion": "This is auto replaced",
-    "coreVersion": "11.296",
-    "createdTime": 1683566895458,
-    "modifiedTime": 1683569370101,
-    "lastModifiedBy": "hn69JT1aelLHgq4s"
-  },
   "_id": "caaccMVb0w8lNedF",
   "sort": 0,
   "ownership": {
-    "default": 0,
-    "hn69JT1aelLHgq4s": 3
+    "default": 0
   },
   "_key": "!items!caaccMVb0w8lNedF"
 }
