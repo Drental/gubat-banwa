@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Deluge Kalis",
+  "type": "technique",
+  "_id": "Aj52zYqkxVhPUvPw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You strike with a movement quicker than the storm. Invented by the Panglima Jalido, incorporated due to his ingenuity and his skill in teaching the arts, Jalido notoriously used this to defeat the Akai Lunate Knights that encroached upon his settlement right before he broke his oath with the Sultana and defected to the Rajahnate.</p></blockquote><p><strong>Prereq:</strong> Live Hand</p><p><strong>Spend 1 Beat</strong> to strike with lightning-breaking speed: rush 2, moving through enemies. If you move through a single enemy, make a <strong>Melee Air Bravery Attack</strong> against them, then inflict <strong>Juggle (1)</strong>.</p><p><strong>Blitz Sundang: +1 Beat</strong> to rush 1 after the attack, kicking off of the target.</p><p><strong>Storm God Skewers The Sea: +1 Beat</strong> to give the attack Bravery + Faith instead.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684740657079,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!Aj52zYqkxVhPUvPw"
+}

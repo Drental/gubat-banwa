@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Ceaseless Rhythm",
+  "type": "technique",
+  "_id": "uOLp33LwAfTtkWUu",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Raise your blade up high! If we wish to put an end to this cycle of violence we must put our foot forward. Our poetry is half of the battle. The other half includes our swords. First we inflict violence upon their hearts, then we inflict violence upon the world. What is violence but change? Therefore choose what violence you will enact, and what violence you will choose. Not all violences are equal: some are more noble than others.” A combination perfected by Tuhan Madala, who performed this to defeat a King in a festival that challenged him, following the rhythm of the agung and the kulintang.</p></blockquote><p><strong>Prereq:</strong> Naga Song Exhuberation</p><p><strong>Spend 1 Beat</strong> to inflict <strong>1 Hit</strong> and <strong>Provoke (1)</strong> on an adjacent fighter.</p><p><strong>&gt; Flows Into:</strong> The next time you use this Technique, inflict <strong>Eviscerate (1)</strong> and <strong>Unbalance (1)</strong> on an adjacent fighter instead.</p><p><strong>&gt;&gt; Flows Into:</strong> The next time you use this Technique, inflict <strong>Slow (1)</strong> and <strong>Stun (1)</strong> on an adjacent fighter instead. The Flow then ends (the next time you use this Technique, use the first effect).</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684742123265,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!uOLp33LwAfTtkWUu"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Himaya Sword Song",
+  "type": "technique",
+  "_id": "KVZ4rGxHOJqBOs8y",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Sing a song of joy! For even in the darkest days there are burning bright bonfires. What is darkness if not an absence of light? What is pain but a consequent of life? In this Festival of the Longest Night, rejoice! Happiness cannot be obtained, it is a becoming. Become joyful, Find Glory Beyond Heaven.</p></blockquote><p><strong>Prereq:</strong> Ceaseless Rhythm</p><p><strong>Spend 1 Beat</strong> to mock a fighter in range 4 with your overwhelming joy: they suffer <strong>Eviscerate</strong>, <strong>Unbalance</strong>, and <strong>Provoke</strong> until <strong>they successfully score 2+ Hits against you with a single attack.</strong></p><p><strong>Bleeding Swordsong: +1 Beat</strong> to also inflict <strong>Bleed (1)</strong>.</p><p><strong>Astonishing Swordsong: +1 Beat</strong> to also inflict <strong>Stun (1)</strong>.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684742347698,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!KVZ4rGxHOJqBOs8y"
+}

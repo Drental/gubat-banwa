@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Sword Ambahan",
+  "type": "technique",
+  "_id": "0nmEFTGeFFrbLGpf",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>A flamboyant Sword Poet, Si Pahimuot, once performed this amidst the kawal of Datu Mabigi, from the league of Pannai, who hunted him down due to him killing his bride. He escaped by staying silent—unheard of for a Sword Poet—and amplifying the cutting tang of his blade. He performed a quick dance, cutting all those about him.</p></blockquote><p><strong>For 1 Beat,</strong> you strike with a singing blade: make a <strong>Melee Air Bravery Attack</strong> vs 1 adjacent enemy, then inflict <strong>SPD Down (1)</strong>.</p><p><strong>Sword Burst: +1 Beat</strong> to make the attack an <strong>Area Air Bravery Attack</strong> vs all enemies in Burst 1 instead.</p><p><strong>Tandava Blade: +1 Beat</strong> to also inflict <strong>Provoke 1</strong>.</p>",
+    "discipline": "VjVc0kk8rGQLSzsU"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684741442585,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!0nmEFTGeFFrbLGpf"
+}

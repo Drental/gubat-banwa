@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Giant-Slaying Sundang",
+  "type": "technique",
+  "_id": "fKM2Tdhfdh2xpfBK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>\"Learn this bastard art, and soon we will be able to raid heaven, and seize its thunderclaps.\" The Giants once ruled, and they were hewn with the threads of divinity. With this technique, perfected by the pygmy monkey artist Sri Mahaliwu, your attacks burn with an almost avaricious fervor, emulating the thundering strength of the giants that almost destroyed the cosmos.</p></blockquote><p><strong>Prereq:</strong> Deluge Kalis</p><p>Giants were slain with the pragmatic jungle prowess of ancient mangangayaw. <strong>Spend 1 Beat</strong> to make a <strong>Melee Metal Bravery Attack</strong> vs 1 close target. Every 1 on the defender's <strong>Defense Teeth</strong> reduces a Defend from them, as you take advantage of their blunder.</p><p><strong>God-Slaying Force: +1 Beat</strong> to <strong>Push 1</strong> per Miss on the attacker’s Defense Teeth.</p><p><strong>Buddha-Carving Pragmatism: +1 Beat</strong> to <strong>mark</strong> the target until the start of your next Fulmination. While marked by this technique, they only generate Defends on 7+.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684740879914,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!fKM2Tdhfdh2xpfBK"
+}

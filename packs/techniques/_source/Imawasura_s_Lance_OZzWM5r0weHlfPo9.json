@@ -1,0 +1,18 @@
+{
+  "name": "Imawasura’s Lance",
+  "type": "technique",
+  "_id": "OZzWM5r0weHlfPo9",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "discipline": "XmmC1iQzMCljgAqS",
+    "description": "<blockquote><p>A technique used by the Kawal of Akai and Sinuku to crash through enemy front lines, which were very often arranged in a fierce and unbreakable shield wall. The Kawal of Akai now ride upon horses to do this, but they were able to break ranks even without mounts. Imawasura is the Guardian Lord of the Southeast, of Pagodas and Fortunes and Jades. His spear is as long as ten thousand palms of Rayasaiwa (whose palm measures fifteen universes), and is named Tudlo. It is said that Imawasura was the one that affixed the eight directions.</p></blockquote><p><strong>Prereq</strong>: Krishawisu’s Hammer</p><p><strong>Spend 1 Beat</strong> to pierce forward with a lance, polearm, or javelin,imbued with the striking powers of Imawasura: make a <strong>Melee Fire Bravery Attack vs 1 enemy in range 2</strong>. Then, inflict <strong>Bleed</strong> (1 +1 stack per <strong>8+</strong>).</p><p><strong>Tudlo’s Goring</strong>: +1 Beat to also inflict <strong>Stop</strong> <strong>(1</strong> +1 stack per 7+ on the Attack Teeth).</p><p><strong>Impale The Earth</strong>: +1 Beat to strike the ground so hard that you throw out a chunk of earth: place Hindering Terrain adjacent to the target, and the target’s square becomes <strong>Earth Terrain</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!OZzWM5r0weHlfPo9"
+}

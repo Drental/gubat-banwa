@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Naga Song Exhuberation",
+  "type": "technique",
+  "_id": "44BQggDnvHAHiuRc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Listen and hear thy people! They crieth out in torment. This war shalt bring us naught but struggle and pain! Please, let mine words pierce thine heart.” A song that sings of the First Dragon, the great Harinaga, King of all Dragons, a God Among Gods, who was brought low and scourged by the giants, who wielded the Flame of Want, in the ancient event known only in the echoes of tradition as The Dragonscourge. Dragons now despise the giants.</p></blockquote><p><strong>Prereq:</strong> Shield of Swords</p><p><strong>For 1 Beat,</strong> Sing the dragonsong and direct it at 1 fighter in range 3. <strong>Mark the chosen fighter</strong> until the end of your next Fulmination. As long as they have that mark, whenever they make an attack that does not include you as a target, <strong>they suffer 1 True Hit</strong>.</p><p><strong>Garuda Poetry: +1 Beat</strong> to mark all enemies in burst 3 instead.</p><p><strong>Serpent Hiss: +1 Beat</strong> to also give the chosen targets <strong>POS Down (1)</strong>.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684741901175,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!44BQggDnvHAHiuRc"
+}

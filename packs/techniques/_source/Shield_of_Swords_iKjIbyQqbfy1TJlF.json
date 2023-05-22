@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Shield of Swords",
+  "type": "technique",
+  "_id": "iKjIbyQqbfy1TJlF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Cut yourself off with that sorrowful song. Maybe then, maybe then, there will be peace. But not yet, not yet. A technick perfected by Sword Poet Sialo Baguna I, a King who spurned rulership to travel with a troupe of professional singers. This requires a quick wit and an even quicker tongue: you perform a poem so quickly that your sword swings are bolstered to follow the rhythm, so fast that it creates a physical barrier of strikes.</p></blockquote><p><strong>Prereq:</strong> Sword Ambahan</p><p><strong>Spend 1 Beat</strong> to take on the <strong>Shield Song Stance</strong> until the end of your next Fulmination. While in this stance, all melee attacks against you hit only on 7+, even with Sharpness.</p><p><strong>Godpoet Wings: +1 Beat</strong> to make it so that when you Stride, you may teleport your SPD instead while in the Stance.</p><p><strong>Dancing Nataraja: +1 Beat</strong> to rush 1 after taking the Stance and then gain <strong>Stability</strong> while in the Stance.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684741703234,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!iKjIbyQqbfy1TJlF"
+}

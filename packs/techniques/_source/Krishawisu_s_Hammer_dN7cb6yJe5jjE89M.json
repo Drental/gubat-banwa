@@ -1,0 +1,18 @@
+{
+  "name": "Krishawisu’s Hammer",
+  "type": "technique",
+  "_id": "dN7cb6yJe5jjE89M",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "discipline": "XmmC1iQzMCljgAqS",
+    "description": "<blockquote><p>An art made famous by the Kawal of Apumbukid. A giant swing of both weapon and shield, flowing about so that it strikes all in your path, imitating the lotus of the great god Krishawisu. Lord Fahandu of the River Polity Vahansima used this to cut swathes through undead warriors to save his settlement.</p><p>Krishawisu is the Guardian Lord of the North, who guides every direction. He is asleep, it is said, within a frozen lotus, and will only awake if chaos has subsumed Gubat Banwa. Others say that Krishawisu came down to the world and formed it into a lotus: “Imagine the Sea of Wine as exactly that, a Sea of Wine, and the various universes as Lotuses floating upon that Sea of Wine. We are simply in one of those, now.”</p></blockquote><p><strong>Prereq</strong>: Kitasamba’s Shield</p><p><strong>Spend 1 Beat</strong> to unleash a staggering blow: Make a Melee Earth Bravery Attack vs 1 adjacent fighter, then gain <strong>POS Up (1)</strong>.</p><p><strong>Challenge of the North God:</strong> +1 Beat to inflict <strong>Provoke (1)</strong> on any 1 target of the attack.</p><p><strong>Blossoming Lotus Hammer:</strong> +1 Beat to change the attack to <strong>Area Earth Bravery Attack vs all enemies in blast 3</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!dN7cb6yJe5jjE89M"
+}
