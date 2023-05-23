@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "War Dance",
+  "type": "technique",
+  "_id": "Pdf7PlDt62iajoUa",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Balyan revel and dance in fits of crazed dancetrances as they are possessed and imbued with strength by the ancestors and the gods. When they dance, the rest of the warriors know that they have the gods on their side.</p></blockquote><p><strong>Spend 1 Beat</strong> to dance the Trance Dance. You are dancing until you fall to 0 HP or suffer <strong>Stun</strong>, <strong>Daze</strong>, <strong>Unbalance</strong>, or <strong>Juggle</strong>. While dancing, you are channeling the ancestors: all allies in <strong>burst 1</strong> of you have <strong>+2 to their BRV and FTH.</strong></p><p><strong>Diwata Sayaw: +1 Beat</strong> to increase the range to <strong>Burst 2</strong>.</p><p><strong>Yawa Sayaw: +1 Beat</strong> to reduce the BRV and FTH of all enemies in the burst by -2.</p>",
+    "discipline": "mCsLibQywHT4eyh7"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684742759578,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!Pdf7PlDt62iajoUa"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Love and Lightning",
+  "type": "technique",
+  "_id": "9DfQUFOnxPTg1eHa",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>A tale of two Gods: Lightning Lord and Dragon King.<br>Pray upon the thunderbolt and make offerings to the lightning flash. Jamiyun Kulisa is the burning Brother Thunderbolt, son of the Sky Father Si Gurang Tungko, He Who Holds The Sky Aloft, known sometimes as the Batala or Batara, said to have wrought the creation of Folk. The lightning does not take advice from any one, just as the flame never seeks the comfort of water. Jamiyun Kulisa arises and truly is always there, counterpart to the great Sunmother Indira Suga, who is not his Mother but rather his partner. Together they create the Great Dichotomy within the Sword Isles, the two overpowering Seasons of the Center of the World: the Dry Season of Indira Suga and the Monsoon Season of Jamiyun Kulisa.<br>As Jamiyun Kulisa is the bringer of Monsoon Season, he is also connected to the things that Monsoon Season brings about: rumination, calmness, peace, the soft patter of raindrops, the chill of strong storm winds. He strikes at the heart and cares not: us Mortal Folk have to bend to him when he brings with him his seasons.<br>Upon the Sky he is well acquainted with the Wind Gods: Amihan, the Cold Wind. Habagat the Hot Tempest. Salatan the Cavern Winds. Kanaway the Death Squall. Balahalabagyu, known also as Vayu or Batara Vayu, the God of Storms, who brings destructive hurricanes. Galura, the Great Dragon-Eagle at the End of the World, who is said to be an aspect of Jamiyun Kulisa.<br>\"Are you happy with what you've done?\" asked Makangayaw, grinning, with burning flame shooting out of his nostrils.<br>The Second Man nodded. \"I have lain retribution upon what my sister has cursed upon me.\"<br>\"And what have they cursed upon you?\"<br>\"Jealousy.\"<br>With another mighty laugh, Apung Makangayaw answered: \"And so the cycle begins.\"<br>Apung Makangayaw is offered to whenever a ceremonial raid is enacted, whether it be a raid to gain resources or a revenge raid. In this way, the raid itself becomes more than just war, but ritual. If the omens were bad during the offering, however, it will be a sign that Makangayaw does not approve of the raid, and the raid will be called off. This usually happens when an omen bird flies across their path, or when the sky is red, or when in the distance they hear laughter during their offerings, or when they perform their boat divinations the boat shudders wildly. Offerings to Apung Makangayaw are frequent, for the main mode of war in the islands is raiding.<br>Apung Makangayaw usually takes upon the form of a slave raider: wearing a short bahag with nothing else, and with tattoos that cover their entire body, the completion of the canvas. Their true form, whenever they should want to show it, is in the form of a naga-headed god, who sits upon a throne of seaspray.<br>Apung Makangayaw is one of the principal members of the Anito faith. Anito, meaning act of worship, is the most widespread faith in the islands, so prominent that they do consider it more as tradition and way of life, and not just performative religion.<br>Apung Makangayaw's spirit house is often situated by the shore, always by the shore. The usual spirit idol carved out for him is made usually with wood from sunken boats, and showcases a naga-headed man sitting cross-legged, with both hands upon his waist. Apung Makangayaw idols are frequently carried unto boats that would embark on raids.</p></blockquote><p><strong>Prereq:</strong> Naga Nature Pamaagi</p><p><strong>Spend 1 Beat</strong> to choose a square in range 4. All squares in blast 2 of the chosen square becomes <strong>Elemental Terrain</strong> of your choice.</p><p><strong>Vast Harmony of Elements: Spend +1 Beat</strong> to make this “All squares in burst 2 of the chosen square” instead.</p><p><strong>Summon The Storm: Spend +2 Beats</strong> to instead manipulate the Weather. Choose a Weather and the entire battlefield adopts that Weather, even if Indoors.</p>",
+    "discipline": "mCsLibQywHT4eyh7"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684743337298,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!9DfQUFOnxPTg1eHa"
+}

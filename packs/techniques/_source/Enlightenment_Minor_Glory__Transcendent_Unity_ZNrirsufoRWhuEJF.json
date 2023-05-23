@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Enlightenment Minor Glory, Transcendent Unity",
+  "type": "technique",
+  "_id": "ZNrirsufoRWhuEJF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This is your final testament, and your own minor transcendence, your own inkling of enlightenment. A little taste of what truly means. You become a Bulakdiwa, a bodhisattva on the cusp of Blossoming and finding Glory in Harmony. How do you feel? Take that next step.<br>The first violence was when the Bulakdiwa of Violence glimped Blossoming when she realized the truth of the world: it is a vicious wheel. From the ancient war of the Southwest Monsoon and the Northeast Storm, to the slaying of the Ancient Dragon at the hands of Sumongsuklay, to the violence of the Giants Upon The Oldest of the Creators. All of these were Wheels of Violence, but the paradox she realized as she chose to stay corporeal upon the earth instead of achieving unity with the All, was that violence was how they were going to stop it.<br>Thus she became the First Bulakdiwa, bodhisattva of violence. She forestalled Glory to bring others to Glory. She let herself be mauled by suffering to show others a better path.</p></blockquote><p>You constantly hover on the cusp of Transcendent Glory, Unity With All Things. When you suffer an attack, every 1 on the Attack Teeth discards a Hit from that attack. Additionally, you ignore all Effects from Weather.</p><p>At <strong>Strike 5+</strong>, <strong>spend 1 Beat to achieve temporary Liberation:</strong> Become Immune to all attacks, but you cannot deal any damage as well. Any time you attack a target or inflict hits on them, heal them per hit instead.</p>",
+    "discipline": "mCsLibQywHT4eyh7"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684744894452,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!ZNrirsufoRWhuEJF"
+}

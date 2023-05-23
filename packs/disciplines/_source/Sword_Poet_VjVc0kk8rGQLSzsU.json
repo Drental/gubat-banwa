@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "Sword Poet",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "sentinel",
+    "techniques": [],
+    "hp": 20,
+    "description": "<p><strong>Master of Song and Sword, Protector of the Living World, Preserver Through Epic and Poetry, Bearers of the Holy Word of Rhythm</strong></p><p>Sword Poets are sword poets that perfect poetry and weave them into sword-techniques. It has been long said that the only time the people of the Rajahnate are not singing are when they are sick, asleep, or dead. This is doubly true for the Sword Poet an elite Discipline of Kadungganan that focuses on fighting while singing. Even in battle, even without the accompaniment of agung, they sing a song of beauty and sorrow, one that wrenches the hearts of enemies, forces them to rethink, or performs unignorable provocations. Through their Swordsong, they protect their culture, community, and nature.</p><p>Sword Poet, or Warrior-Poets are not a formal organization: they rise naturally, out of the common stock of the Rajahnate or Confederation,for in the Polity a rite of passage into adulthood is the ability to perform combative poetry (and all poetry was sung) against another of the same age. They sing in either glorious boasting tones or in low rapid-syllable drawls.</p><p>These warrior-poets, through their battles and shared techniques, use their words and songs to defend their fellow men, letting their violence-charged verses and words strike the hearts of enemies that attack their allies, like the ogres they are.</p><p>Their heart wrenching melodies force enemies to focus on the Warrior-Poet, lest they face the weight of the world. Their Gahom emanates from them, carried upon the winds of their words, strengthening allies and crippling enemies. This philosophy has created a subset of Hiyang faith called Hiyang Awitan,which focuses on the philosophy that song is the source of all life, and that Diwa is a harmony constantly played across all time, and is what connects all things together.</p><p>This is the Flower Swordsong: striking and slashing attacks performed in conjunction with melody and metaphor. The witik are snares, the fan strikes are drum beats, the combinations are marching drum cacophonies.The Sword is in itself a metaphor, a calcification of the core tenet of Hiyang,the dichotomy of Cause-Effect, Love-Evisceration, the condensation of idiom into a weapon used to cut, as that is the only permitted course of action. An attack is a beat, a beat is part of a rhythm, an entire attack is a song, a poem. With biting remarks comes specifically crafted verbal attacks that flay a warrior’s defenses, and makes you insufferable, and brings all the attention to the Sword Poet.</p><p>Not just that, whenever Sword Poet sing, they echo similes and metaphors and personifications in a different language. One more flowery and filled with impossible metaphors and idioms that only they can truly understand. This language is known as Flower Tongue, and it is said to be the most beautiful language never spoken, only sung.</p><p>When you become a Sword Poet, ask yourself: why do you fight for a land that does not hear the notes of your sorrowsong? Your song falls upon bloodied ears and corpses. Will you wait until your song ends?</p>",
+    "violences": "<p><strong>Singing Swords [1]:</strong> <em>Strike while singing.</em> Make a Melee Air Faith Attack vs 1 adjacent fighter, then you may rush into the target’s square and slide them into the square you vacated.</p><p><strong>Mocking Swords [1]:</strong> <em>Strike and mock the target.</em> Make a Melee Air Faith Attack vs 1 adjacent fighter. Inflict Provoke (1) on the target.</p><p><strong>Sword of Diplomacy [1]:</strong> <em>Strike and instill a better world with your poetry.</em> Make a Melee Air Faith Attack vs 1 adjacent fighter. Slide 1 (+1 stack per 9+ on the Attack Teeth.)</p>",
+    "traits": "<h3>Song of Swords</h3><p><em>When you leap into violence, you begin singing a song of war. A song of your warband overcoming overwhelming odds. A song of you and your friends fighting for a better world. A song of you and your family, your closest loved ones, proving their conviction in a world of death and war. Your words truly now become edges, cutting points. You wave away spear strikes with a deft tongue, you parry blades with broken rhythms.</em></p><p>You are always singing the song of swords, a horrible sword rhetoric. At the start of Violence, give <strong>Sword Rhetoric</strong> to every ally in the battlefield. Whenever an ally with Sword Rhetoric is the target of an attack from an enemy, you may consume Sword Rhetoric and gain <strong>1 Reprisal</strong>.</p><p>You can spend Reprisal on the following, at any point:</p><ul><li><p><strong>Biting Verse.</strong> Spend X Reprisal when an enemy attacks you to convert X of your non-Defends into Hits against the attacker.</p></li><li><p><strong>Invigorating Verse.</strong> At the end of your Fulmination, spend 1 Reprisal to give all allies in burst 2 <strong>Block 1</strong>.</p></li><li><p><strong>Mocking Verse.</strong> After making an attack, spend 1 Reprisal to inflict <strong>Dullness</strong> on the target until the end of their next Fulmination.</p></li><li><p><strong>Siren Song.</strong> When an enemy in the battlefield starts their Fulmination, spend up to 3 Reprisal to pull them that many squares.</p></li></ul><p>At the end of your Fulmination, give Sword Rhetoric to every ally that does not have it.</p><h3>Animating Song</h3><p><em>Your song keeps you going.</em></p><p>You may <strong>Surge</strong> 3 times per Violence</p>",
+    "weapon": "Singing Kalis, kudyapi, string lutes, chopping swords, anything that resonates",
+    "armor": "Long robes, cloaks, headwraps, breastplates, wooden sandals"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684738530842,
+    "modifiedTime": 1684740464328,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "VjVc0kk8rGQLSzsU",
+  "sort": 0,
+  "_key": "!items!VjVc0kk8rGQLSzsU"
+}

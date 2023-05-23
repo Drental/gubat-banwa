@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Astral Vehicle",
+  "type": "technique",
+  "_id": "JvVGF1YJH8XP0vot",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Ten Mahadiwa are said to be great gods and goddesses who live in heaven, earth, and hell to help and mingle with the lives of mortals. It is important to consider then that these Mahadiwa were once warriors, who all died in war, and thus were made gods by the rainbow that carried them to the Sky. Thus each of the Mahadiwa are capable of human thought, speech, and understanding. They possess the Knowledge of Good and Evil that they used to have when they were humans. When a Mahadiwa dies or is killed, they simply reincarnate as another Mahadiwa. Through this, they live 999,999,999,999 lives.<br>Mahadiwa Tala Kinabanaagan is the Bronze Multiplicitous Sidereal Steward of Stars, who lives in the Morning Star that brings with it the dawn. Mahadiwa's karakoa and coterie of 180 Star Servants Upon Astral Palanquins are said to fly across the sky, pulling the dark blankets of night away and giving it back to the Moon, Tsandira Dayawa. She watches the earth, and guards many secrets to sorcery, as the givers of sorcery are hidden away in the darkest voids of night. Mahadiwa Tala Kinabanaagan is also said to grant Hiyang to those that spend their lives trying to achieve it. Those she grants Hiyang to are given corporeal forms as stars upon the sky. Her being can be seen in the dawn, the dusk, the lightning bolts, the shooting stars, the comets, and the asteroids. She has lived her entire life in enlightenment. It is said that when she died, she was on the cusp of Hiyang, and when she was killed by a Ten Fathoms Long Lance, she became a star that exploded upon the field, burning all in smokeless flame, and then shot up into the sky as the Evening Star.<br>She is said to have a mirror image: Mahadiwa Kalakatri Duumanun, her darker side, the shadow that wraps around each star at night. They are both all at once the same and also different. The Bulakdiwa say: she is like this because she dared venture into the deepest parts of the night sky, further and further, past the void and the world jaws and the endless seas of chaos. Past the firmament, and past the darkness.<br>The Bulakdiwa say: what she found, apparently, was not God, nor the Throne, nor Enlightenment--for how could she? She is already nature itself--but instead she found that she was swimming up, up, up, and up into the ocean.<br>Her enlightenment is thus: the depths of the ocean and the farthest reaches of the void are one and the same. And when she understood the cyclical nature of reality and metareality, she realized that she lived in a world of unconstrained principles, she realized then that she lived in a world fabricated by dancers and singers and artists singing songs and laughing about a bonfire, and that split her into two, and her enlightenment-beyond-enlightenment was lost. But she still remembers. She knows the kinds of god-beings--many just as powerful as her--living in the Depths|Void.<br>The Evening Star burns continuously. She is an evershining flame. Aba, aba, glory to the Evening Star. In the Eighth Star Era, only she has the sidereal violence to shine into the new world.</p></blockquote><p><strong>Prereq:</strong> Love and Lightning</p><p>You have light and darkness internalized, and through that you become a vehicle of the stars, <strong>Talayana</strong>. Your fingers now fulminate with starstuff, your eyes have stars specked within them.</p><p><strong>Spend 1 Beat</strong> to give a single fighter in range 5 either a <strong>Light Star</strong> or a <strong>Dark Star</strong>. You cannot have more than 1 of each on the battlefield at a time.</p><p><strong>Light Star:</strong> Fighters with this Star have <strong>+1 Defend</strong> against all attacks and heal 1 every start of Fulmination.</p><p><strong>Dark Star:</strong> Fighters with this star have can only move 1 square whenever they move, and they suffer <strong>-1 Hit</strong> on all their attacks.</p><p>If a fighter with Light Star collides with a fighter with the Dark Star, they explode: inflict <strong>3 True Hits</strong> on all fighters in burst 2 of the Light Star wielder. The Light Star dissipates afterwards.</p><p><strong>Warrior of the Stars: +1 Beat</strong> to make it so that you have both <strong>Light and Dark Stars</strong> instead. If you do, you take on the <strong>Star Warrior Stance</strong> until you remove it at any start of any Fulmination. While in this stance, you and all allies in burst 3 of you gain +1 Hit on their Attacks and +1 Defend against their attacks, but you suffer 1 Hit every end of Fulmination.</p>",
+    "discipline": "mCsLibQywHT4eyh7"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684744008341,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!JvVGF1YJH8XP0vot"
+}

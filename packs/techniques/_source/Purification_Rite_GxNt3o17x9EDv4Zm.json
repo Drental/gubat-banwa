@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Purification Rite",
+  "type": "technique",
+  "_id": "GxNt3o17x9EDv4Zm",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>A balyan is trained first in the arts of healing before the arts of violence, to ingrain in them that the violence we inflict is not simply for violence's sake, but for a better world. We deal in violence to transcend our frail mortal bodies, and thus violence is a ritual, one that only Folk can dance in.</p></blockquote><p><strong>Prereq:</strong> War Dance</p><p><strong>Spend 1 Beat</strong> to perform a healing rite, cleansing yourself or 1 adjacent ally of 1 Status Effect or all Fray.</p><p><strong>Holy Distillation: +1 Beat</strong> to cleanse <strong>all chosen effects</strong> from the target.</p><p><strong>Pure Land Realm: Spend 2 Beats</strong> instead to put down a <strong>Burst 1 Purification Field</strong> in range 2. All allies that start their Fulmination within the field <strong>cleanse 1 Status or remove 1 Fray Tooth.</strong></p>",
+    "discipline": "mCsLibQywHT4eyh7"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684742943355,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!GxNt3o17x9EDv4Zm"
+}

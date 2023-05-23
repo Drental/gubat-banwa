@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Enlightenment Final Kandu",
+  "type": "technique",
+  "_id": "iwpltVMZQSFbtK0T",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You sing a siday, the folk epic songs of your people. Your song bolsters those around you, and entrances your enemies. They are thrown into a reverie state, forced to play out the Siday that you sing, wherein you are the inevitable victor. However, it is a well-known fact that Siday last for up to seven days and seven nights, enumerating the exploits of great datu and dayang.</p></blockquote><p>At the start of Violence, you have a <strong>Saga Token</strong>. When you suffer an attack, consume the Saga Token to cancel the attack against you, and you can <strong>inflict violence</strong> on the target, inflicting <strong>Provoke (1)</strong>.</p><p>At <strong>Strike 5+</strong>, <strong>for 2 Beats:</strong> choose 1 fighter in the battlefield. for the rest of violence, they cannot perform any hostile actions. For chiefs, they only have <strong>2 Beats</strong>.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684742532001,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!iwpltVMZQSFbtK0T"
+}

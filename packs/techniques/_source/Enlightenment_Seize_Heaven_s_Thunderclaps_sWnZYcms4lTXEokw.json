@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Enlightenment Seize Heaven’s Thunderclaps",
+  "type": "technique",
+  "_id": "sWnZYcms4lTXEokw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The entire battle was a setup. Heaven sees your movements: you were priming yourself for the ultimate raid. With your warband you charge, strings of fate binding you together. You move like the hurricane, slam like the tsunami. “Violence is life, and life is violence. Remember this dichotomy, and every move you make will be an attack.” – The Teachings of Panglima Namwaran, warlord-datu of ancient Tundun.</p></blockquote><p>You gain <strong>Momentum:</strong> whenever you move 4+ squares, gain <strong>+1 Tooth</strong> on your next attack.</p><p>At <strong>Strike 4+</strong>, Spend 3 Beats to explode into a monsoon of violence, make an <strong>Overwhelming Skewering Water Melee Attack vs every enemy on the battlefield.</strong> Then teleport to a square adjacent to any of the enemies in the field.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684741094644,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!sWnZYcms4lTXEokw"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Naga Nature Pamaagi",
+  "type": "technique",
+  "_id": "QnKERLr3E8x2t002",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Naga are blessed serpent gods that live within the rivers, the under-earths and the seas. They are divine, nature spirits that represent the inherent divinity and other-ness of the sea, and they protect the Seven Realms of the Waters, and are constantly opposed by the Garuda that guard the Seven Realms of the Heavens. They are invoked for merit, blessings, good rains, and protection against the flood. If they appear, it is often a sign of good fortune, though sometimes it might also be an ill omen.</p></blockquote><p><strong>Prereq:</strong> Purification Rite</p><p><strong>Spend 1 Beat</strong> to summon a naga spirit and bless an ally with it: 1 ally in range 3 gains <strong>FTH Up (2)</strong>.</p><p><strong>Sri Dapa’s Hand: +1 Beat</strong> to also let the ally <strong>Surge</strong> for free.</p><p><strong>Nourishing of Sri Devi: +1 Beat</strong> to increase the range to <strong>all allies in range 3 burst 1</strong>.</p>",
+    "discipline": "mCsLibQywHT4eyh7"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684743181261,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!QnKERLr3E8x2t002"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": null,
+  "name": "Live Hand",
+  "type": "technique",
+  "_id": "tvU5w02nske2fAk4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You’ve mastered the art of Catching Lightning: a Raiding Art taught to only the greatest of Mangangayaw. Your hands move faster than the wind. Your attacks flow into the next one, not one being a mistake, each one a set up for the next. All will fall under your salt, your weapons flash like lightning in your hands.</p></blockquote><p><strong>Prereq:</strong> Sea Demon Fire Pamaagi</p><p><strong>Spend 1 Beat</strong> to gain a <strong>Live Hand Token</strong>, of which you can only have 1 of at a time. When suffering a <strong>Melee Attack</strong>, spend the token to change the target back at the attacker or at another fighter adjacent to both you and the attacker.</p><p><strong>Lightning Hand: +1 Beat</strong> to enhance the Live Hand Token, letting you use it against Ranged Attacks as well.</p><p><strong>Dancing Furious Mad: +1 Beat</strong> to also <strong>Slide 1</strong> the attacker after the attack resolves.</p>",
+    "discipline": "AEsTZGCH7yBuMUCl"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684740132079,
+    "modifiedTime": 1684745165417,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_key": "!items!tvU5w02nske2fAk4"
+}

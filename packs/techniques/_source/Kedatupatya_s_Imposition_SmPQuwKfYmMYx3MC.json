@@ -1,0 +1,18 @@
+{
+  "name": "Kedatupatya’s Imposition",
+  "type": "technique",
+  "_id": "SmPQuwKfYmMYx3MC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "discipline": "XmmC1iQzMCljgAqS",
+    "description": "<blockquote><p>Raise your banner. None shall go before you. Kedatupatya is the Guardian Lord of the Southwest, protector of all the dead, and keeper of the far Southwestern cave of Maharawug, which is a cave that connects the Underworlds with Gubat Banwa. He wields a rattan fan that summons diseases, and provokes fires.</p></blockquote><p><strong>Prereq</strong>: Rayasaiwa’s Vigil</p><p><strong>Spend 1 Beat</strong> to challenge a single adjacent fighter: inflict <strong>Provoke (2)</strong> on a fighter in range 4.</p><p><strong>Death Mark:</strong> +1 Beat to make it so that as long as that fighter has the Provoke, whenever they voluntarily leave an adjacent square, they suffer <strong>1 Hit</strong>.</p><p><strong>Deadman’s War Cry:</strong> +1 Beat to howl your challenge! Inflict <strong>Provoke (1)</strong> on all fighters in burst 3.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!SmPQuwKfYmMYx3MC"
+}
