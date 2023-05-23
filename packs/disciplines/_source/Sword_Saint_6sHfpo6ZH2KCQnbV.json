@@ -1,0 +1,35 @@
+{
+  "name": "Sword Saint",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "sharpshooter",
+    "techniques": [],
+    "hp": 12,
+    "description": "<p><strong>Artists whose souls have been cut in twain. Swordsmen that will completethe cutting motion of existence.</strong></p><p>Sword Saints are the faithful patrons, preachers, and priests who worship the violent aspect of Makagagahum, Makaubos, and pray to Gattalim, the intercessor of swords, to bring their woes to God. Makaubos is the aspect of God who will arrive at the end of all things. He will cleanse it in a single blood tornado of steel and gnashing of teeth.</p><p>Sword Saints are given the Blade Commission: they must travel from settlement to settlement to teach the word and truth of the Ashen Star, the upcoming Edge Eschatology, or as they call it: the Paguubos, the emptying of the land. They are taught extensively the teachings of the Sword, and their primary conviction is this: “All things will be cut in the end by Makaubos. We are the end.”</p><p>Those that follow the aspect of Makaubos are also taught extensively the ways and arts of their God's violent and jealous aspect, which they say is the human state of their God, as all things have the binary states of man and nature.</p><p>Through communion and following the 77 Sword Tenets of Gattalim, they sharpen their souls until they turn their very spirits into blades. Sharper than any other soul, they will never find love, for those that try to embrace a Sword Soul will be bisected.</p><p>Sword Saints are seen as strangers and outsiders by the settlements. Those of Apumbukid see them as bastards, mindless, idiots. That they have turned themselves into “Swords” is stupid, for they have honed themselves to be Swords that Kill, not Swords that Cut. In essence, they are useless, and forever will be.</p><p>The truth of all things is much more complicated, of course. The Sword Saint was once a different Discipline, now rent in half, like the bisection that it truly is. Sword Saints that practice the opposite philosophy exist in Ba-e, born from the Blade Gospel’s original form.</p><p>The Blade Gospel was once simply the Blade Song. It has since been changed, now, once the Ashen Star Priests took hold of it. Many of the original followers of the Blade Song created the Blade Weaving after splitting from them, while those that chose to become warriors for the new Ashen Star religion created the Blade Gospel.</p><p>However, very recently, a larger portion of these martial artists have broken apart from the Ashen Star and have begun following a rural folk syncretism of Ashen Star teachings and the ancient religions of northern Rusunuga. These martial artists, in a Fulmination of hard-headed defiance, keep both the name Sword Saint and Blade Gospel and teach in pagodas in Ba-e as well as the communal feasts of Gatusan. They are revivalists of the original Blade Song, which sing the true Blade Gospel: “the might of the sword-used-to-kill must be used with justice and compassion, lest it be nothing but the very thing that causes the Wheel of Violence to turn.” These revivalists are commonly known as Graceless, while those faithful to the Ashen Star Blade Commission are those Graced.</p><p>If you choose to be a Sword Saint, your soul has been sharpened into a killing sword. Your soul kills you. Once you achieve peace, you become worthless. Will you survive enlightenment?</p>",
+    "violences": "<p><strong>Damnation Cut [1]:</strong> <em>Cut the air, send a slash across the field.</em> Area Fire Faith Attack vs all fighters in path 4.</p><p><strong>Archangel Cutting [1]:</strong> <em>Cut a distant target.</em> Ranged Air Faith Attack vs 1 fighter in range 4.</p><p><strong>Castigation Cut [1]:</strong> <em>Unsheathe your blade and send slashes everywhere.</em> Area Metal Faith Attack vs all fighters in range 2 burst 1.</p>",
+    "traits": "<h3>Sword Avatars</h3><p><em>“The Principle of the Sword is this: if your soul is not sharp enough to cut your own flesh, then you have not learned the true principle of the sword. The Principle of Gattalim is this: if your flesh is cut by your own soul, then you have achieved the Sword Nirvana: that you are now worthless and harm all those around you. Have you ever noticed why you cannot cut down trees with your techniques?” – The 77 Tenets of Gattalim</em></p><p>At the start of violence, take on a single Sword Form.</p><p>You can change Sword Forms by spending 1 Beat, 1/Fulmination.</p><ul><li><p><strong>Gospel Swordstance of Amaley/Bladesong Form of Apolaki:</strong> When you end your Fulmination, up to 2 squares that you can see become <strong>Metal Terrain</strong>, chopped up by invisble blades.</p></li><li><p><strong>Gospel of Amacor/Bladevesper of Mayari:</strong> You may teleport 1 after making an area attack.</p></li><li><p><strong>Gospel of Azaragoe/Bladehymn of Tala:</strong> When you are the target of a melee attack from an adjacent fighter, you may inflict violence before the attack, 1/Fulmination.</p></li></ul><h3>Principle of Cutting</h3><p><em>“The Principle of Diwahati, the diwata who lives in all Bisections, is this: we are cause-effect, love-evisceration. We are both bisected and the whole. Therefore the Sword’s final Mastery is this: who are we but all in that eternal process of the cut? The cut ends when we die, this is the final Mastery of our truths. We are in a perpetual cutting motion: that is life. Changing and hurting and dying. Therefore apply this cutting motion to everything else: to bamboo, to politics, to datu, to love. For what else are we but bisections?”</em></p><p>Enemies can move through you (but not you through them). If they do, they suffer <strong>1 True Hit</strong>. This triggers once per enemy per Fulmination. Enemies therefore cannot collide with you. If they end movement in your square, rush 1.</p>",
+    "weapon": "Sundang, bolo, pinute, garol, ginunting, katana, kampilan, kalis, barong, pira",
+    "armor": "War jacket, war pants, sarongs, war boots, war hat, loose robes, swordpriest vestments"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684930631000,
+    "modifiedTime": 1684931279132,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "6sHfpo6ZH2KCQnbV",
+  "sort": 0,
+  "_key": "!items!6sHfpo6ZH2KCQnbV"
+}

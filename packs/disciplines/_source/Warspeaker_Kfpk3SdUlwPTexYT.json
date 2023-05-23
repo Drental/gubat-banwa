@@ -1,0 +1,35 @@
+{
+  "name": "Warspeaker",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "witch",
+    "techniques": [],
+    "hp": 12,
+    "description": "<p><strong>Combat Mediators of theWorld, Lovers of Mantra, Channelers of Batala the Destroyer, Virtuosos of Warspeaking, Practitioners of Domination</strong></p><p>The art of Speaking has not been lost upon the warriors of old. Of course not. Speech developed alongside violence. In many ways they are one and the same, the two sides of a single sword.</p><p>A few eras ago the counselors of an ancient God-King came together to create a martial art that would bind the two sides of the sword into one. To create a martial art that would cut through both falsehoods, politics, diplomacy, and violence to be able to arrive at a better world through peaceful speech instead of violent conquest. They spoke with the Batalabuddha, incarnated as the <strong>Devaraja Dharmadewa</strong> (known sometimes as Vatara Guru and Debata Siwa), the CreatorDestroyer, and they were given the Batalamentala, the Mentala of the Destroyer. These mentala (sacred utterances, a form of prayer-mantra) were used to invoke Batala’s power, and were also used to influence the minds and dominate others through speech.</p><p>Of course, as with all things that are not completely Hiyang, they were not able to achieve this. Nay, perhaps that is tooharsh. They turned the Batalamantras into the Gubatmantras, or War Mantras. It was meant to cut past any uncertainties to create a more harmonious bond, but it did anything but that. The War Mantras, when employed into combat, is known under the martial art of Warspeaking: utterances and rhetoric turned into attacks, logic and declarations as defenses.</p><p>The War Mantras are still perfected by many parawali today, thus why the Apumbukid term for the Warspeaker is Sundang Parawali, Sword Counselor. However, the term Warspeaker is strictly reserved for those that practice and perfect the convoluted art of Warspeaking.</p><p>It is one part rote (“you must learn these particular rhetoric for they counter all swords”), other parts theory (“this particular word sequence requires proper application and proper context”) and even other parts psychology (“know your enemy before employing this ironshield logic gate”). However, once perfected, Warspeakers are known for traveling throughout the battlefield without wielding weapon nor armor, and being able to turn enemies traitor.</p><p>The five major techniques of Warspeaking deals in inflicting disarray with entropic mantras, domination which deals in controlling enemies with proper rhetoric, logic, and sacred utterance, inspiration which deals in imbuing allies with strength through proper speech, and illusion, the greatest of the Warspeaker’s abilities, in which they are able to utter words that both destroy the illusion of the Trichiliocosm as well as manipulate the illusion. Through this they understand: the Trichiliocosm is an illusion of action, created through our senses, as we try and understand God.</p><p>If you become a Warspeaker, ask yourself: you have perfected the art of talking, and choose to employ it in the battlefield? Why must you use it in the same way an ape would use a particularly sharp rock? With the right words you can bend buddhas and bodhisattvas to your will, let others find glory, and yet you choose to cutting ignorance. Your words might be sharp and your understanding of the illusion of the world strong, but who is the real fool? You are nothing but a sword.</p>",
+    "violences": "<p><strong>Mock [1]:</strong> <em>Utter mocking phrases.</em> Ranged Air Bravery Attack vs 1 fighter in range 5, then inflict <strong>Provoke (1)</strong> on them, choosing any ally as the one they're provoked to.</p><p><strong>Fast Friends [1]:</strong> <em>Now confuse them and make them drop their guard.</em> Mark one fighter in range 4 until the end of your next Fulmination. While marked, they suffer <strong>POS Down</strong> and <strong>BRV Down</strong>.</p><p><strong>Sword [1]:</strong> <em>When all else fails, unsheathe the sword mantra.</em> Ranged Fire Bravery Attack vs 1 fighter in range 3, inflict <strong>Bleed (2)</strong>.</p>",
+    "traits": "<h3>God Mantras</h3><p><em>The conception of Batala as the Supreme God arrived in the Isles after the Ashinin Missionaries brought the term Bhattaraka meaning Noble Lord in through religious work. Bhattaraka is one of the names they used for their Auspicious God, the Absolute Reality, known as Sriwa. The name Sriwa never caught on in Rusunuga, and when the teachings of the Sage of Violence Himayanon Annuvar arrived through the Annuvaran Missionaries, they kept used the term Batala Himayanon Batala to refer to the Eternal Himayanon, the Cosmic Sage that embodies all of Divine Law and is where all of reality arises from, and that kalibutan is a consequent of this. With the syncretization of Batala to refer the Absolute Reality of Divine Law, the name stayed.</em></p><p>When you start your <strong>Fulmination</strong>, choose which <strong>mantra</strong> you are chanting until the start of your next Fulmination.</p><ul><li><p><strong>Oo Siw Gulurad.</strong> Every enemy in burst 2 of you suffers -1d to their Defense Teeth.</p></li><li><p><strong>Oo Ara Sigla.</strong> Every enemy in burst 2 of you suffers -1d to their Attack Teeth.</p></li><li><p><strong>Oo Kusg Hareya.</strong> When a fighter starts their Fulmination in burst 2 of you, inflict Slide 1.</p></li><li><p><strong>Oo Mata Mata.</strong> When an enemy starts their Fulmination adjacent to you, they suffer <strong>Unbalance (1)</strong>.</p></li></ul><h3>Biting Commands</h3><p><em>Constantly speaking, you know the secrets of the Sword of Diplomacy and Mediation. With the proper words, you strike at the hearts of men.</em></p><p>Whenever you <strong>forcibly move</strong> an <strong>enemy</strong>, inflict 1 Hit on them, once per enemy per Fulmination.</p>",
+    "weapon": "Staff, fan, words, whispers, mockery, swords, daggers, hammers",
+    "armor": "Cloaks, silk jackets, silk pants, sarongs, headwraps, diadems, silk slippers"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684844602393,
+    "modifiedTime": 1684846070037,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "Kfpk3SdUlwPTexYT",
+  "sort": 0,
+  "_key": "!items!Kfpk3SdUlwPTexYT"
+}

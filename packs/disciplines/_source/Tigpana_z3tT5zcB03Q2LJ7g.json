@@ -1,0 +1,35 @@
+{
+  "name": "Tigpana",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "sharpshooter",
+    "techniques": [],
+    "hp": 12,
+    "description": "<p><strong>Embodiments of Minor Enlightenment, Manifestations of the Wind, Arrows of Harmony, Born from the Watchtowers.</strong></p><p>Tigpana [tig-pa-NA'] translates directly to archer. This is the discipline of long distance combat atop bamboo watchtowers, treehouses and rocky outcroppings peppered across The Sword Isles. This discipline actually originated in Ibalnong, but was applied to the rest of the archipelago by Apumbukid as violence intensified.</p><p>They measure the lay of the wind, the rustle of leaves, the whisper of the land. What heat might do to the trajectory of a fire-hardened arrow, the nuisance of rain. To become a Tigpana is to become one with nature, to be as silent as the first light of dawn, to be as quick as the darkest point in the night.</p><p>Tigpana are masters of all ranged bows: from the common busog, or shortbow, to the rarer sikarom, the bamboo longbow, which is so long that it had to be held under the foot to be strung. They fire the initial strike when needing to protect a settlement, or if on a raid, they will seek the highest vantage point to dictate the momentum of the battle.</p><p>Tigpana are made to watch with eyes sharper than eagles. With escalating tensions between polities, these elite sharpshooters have descended down from upon their lofty bamboo watchtowers to fight alongside their fellow Kadungganan. This has done nothing to impede their skill, of course. In fact, all it has done is to show how much more formidable a Tigpana is up close, with perfectly lined shots that can sever the head from the neck.</p><p>While Apumbukid trains them in large numbers due to their proactive stance on their stewardship, the art of long ranged archery came from Ibalnong, in the northwestern tip of Rusunuga, bordered by the volcano Magayon, the most beautiful volcano in all of The Sword Isles, known for its perfect cone shape.</p><p>The Ibalnongnon are closer to the Gatusanon than the Virbanwans in culture, and also tattooed themselves and raided the coasts of foreign lands. When invaders came, they were known as some of the most belligerent warriors, evidenced by their skill with longbows. These Ibalnongnon warriors have since taught warriors far and wide the discipline of longbow archery, and have thus bred a new breed of Tigpana across the isles.</p><p>The Art of the Tigpana was once preserved only for hunting large game in the forest. It has now been turned into a hateful art that skewers their fellow men. But even then, before going out of a hunt--whether it be for an animal or for a human--Tigpana make their offerings to their gods. In supplication, in sorrow, in a Fulmination of asking forgiveness.</p><p>The Art of Petal Piercing combines Harmony Through Breathing with Archery techniques. To never miss attacks, Tigpana become one with the battlefield, gaining for a moment a violent Hiyang, which they use to be able to be the most accurate martial artists across the Sword Isles. Tigpana are the most powerful snipers, and truly great Tigpana are rare across the Sword Isles.</p><p>If you choose to become a Tigpana ask yourself why you have chosen the path of more violence, if you could've stayed protecting what is yours instead. Who do you fight for? Why? Blood stains your bowstrings, how long until it flows from your heart?</p>",
+    "violences": "<p><strong>Snipe [1]:</strong> <em>Shoot and kill from above.</em> Ranged Air Bravery (+1 Attack Tooth if from Stealth) Attack vs 1 fighter in range 6, ignoring cover and blocking terrain.</p><p><strong>Aim [1]:</strong> <em>Ready death.</em> Gain 1 Flow. Your next Ranged Attack gains Sharpness. If it already has <strong>Sharpness</strong>, it instead generates double Hits on 9+.</p><p><strong>Quick Shot [1]:</strong> <em>Shoot and then flip back.</em> Ranged Metal Bravery Attack vs 1 fighter in range 3, then rush 3 backwards, away from the target.</p>",
+    "traits": "<h3>Panganoron Pana</h3><p><em>The Art of Piercing Petals with your Arrows was famously created by an ancient longbow master in the peninsula of Ibalnong, Sri Diwa Samayaw, God of Hunting and said to be an aspect of Rajaraya Pintas, who elevated the simple art of bow fighting to a god-beast hunting martial art with the help of the dark-skinned Mayaran folk in the hinterlands of Rusunuga, who have perfected the bow and arrow art. This art requires the practitioner to be at least not Dihiyang, and at best, completely Naghiyang, or Concordant With the Universe’s Flow or Nihawa, to become the most accurate martial artists.</em></p><p><strong>At the start of combat,</strong> gain 1 Flow. Every start of your Fulmination after your first, gain 1 Flow. You can only have up to 5 Flow. You can use Flow to empower the strength ofyour arrows. Flow represents your attunement to nature and violence as the fight progresses.</p><p><strong>Harmonious Arrow Meditation:</strong> While you have Flow 2+, all your ranged attacks have Sharpness.</p><p><strong>Venerable Sri Magayon Stability:</strong> You can spend 1 Flow when you are Pushed or Pulled to ignore that forced movement.</p><p><strong>Boltavara Fury:</strong> When you make a ranged attack against a fighter that is at least 3+ squares from you, spend X Flow to gain Xd on the Attack Teeth.</p><p><strong>One With Nature:</strong> Spend Flow to gain <strong>Stealth (1 + Flow spent)</strong>.</p><h3>Sri Diwa Samayaw’s Boon</h3><p><em>Sri Diwa Samayaw wields a weapon that cannot be broken or stolen or destroyed. The Tigpana’s art teaches the same, much meditation and contemplation is focused on creating this inescapable bond between the martial artist and their ranged weapon.</em></p><p>While suffering any Bane, gain +2 range to all attacks with Range X.</p>",
+    "weapon": "Sikarom (bamboo longbows), shortbows, blowguns, guns, lobbers",
+    "armor": "War jackets, vests, padded shirts, sarongs, natural mantles"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684843075209,
+    "modifiedTime": 1684846067374,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "z3tT5zcB03Q2LJ7g",
+  "sort": 0,
+  "_key": "!items!z3tT5zcB03Q2LJ7g"
+}

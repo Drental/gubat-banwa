@@ -1,0 +1,35 @@
+{
+  "name": "Bladeweaver",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "medium",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Holy Masters of the Sword Kinaadman, Disciples of the Art of Cutting, Knights of Diwa</strong></p><p>Bladeweavers are peerless swordsorcery knights, using their skill with the Sword Kinaadman, or Sword Wisdom to strengthen their slashes and manipulate the battlefield with flying swords, like the winds of a dragon. Through a seamless weaving of enchantment and swordplay, they dominate the battlefield.</p><p>The Bladeweavers are so called because the first of them, a kawal, or guardsman, of the City of Broken Idols named Palaliwah, learned how to use mentala, spells that were written in the ancient Old Matara language, the older form of the Matara lingua franca in the isles. These writings, usually written upon bamboo and palm leaf manuscripts with with Kasuratan, were to be uttered repeatedly like a mantra by someone of volatile pohon, so that the spells may be cast.</p><p>Palaliwah began a loose order of Bladeweavers by teaching those kawal that she could, those that had either inherently powerful pohon or were eager to learn, and the teachings spread throughout the Archipelago. Eventually, Palaliwah settled in the Lakanate, becoming a right-hand counselor to the First Lakan, and an integral part of those that overthrew the Issohappan invasion. From then on, the royal guard and the elite were taught in the Sword Sorceries. This proved to have been the Lakanate's largest asset in the Lakan Conspiracy, as Bladeweavers could use magic to attain a false enlightenment for a short amount of time to teleport great distances. A particular Bladeweaver named Maranan, the Leaf Dancing in Cutting Fields, used this to steal Pale King intel from a galleon in the middle of the night, and she fended off at least two Pale King elite warriors to get the info back to the Lakanate. Unfortunately, she disappeared into nothingness the next night.</p><p>The Bladeweavers are taught in mageknight academies in Rusunuga, although there are not a lot of them. In fact, the style has flourished even more in the Rajahnate, where they combined the magical formulas on mentala and mixed it with their impeccable swordsmanship to enhance their raiding capabilities. Bladeweavers in Gatusan are known as Alamdag Sagiban, Magic Sheathes.</p><p>Bladeweaver swordplay is much respected by many of the warriors of the Archipelago, wheren they fuse not just swordsmanship but all sorts of weaponry into their sorcery. It presents a transcendent fusion of two powerful forces, all affixed with a beautiful dance-like martial art, which has been called Habul-Sulab, or blade-weaving.</p><p>Bladeweavers are taught to be careful of their power, and to only accept chiefly patrons that would honor their ability. Those that they know wouldn't be using them for only wealth-gaining ends. Bladeweavers are taught a strict oral code known as the Sword Oath that boils down to: protect those that cannot protect themselves, dismantle those that hold oppressive power. Bladeweavers are respected for their oath, and they are well known across the Archipelago as altruist weapon sorcerers, although not all Bladeweavers have such an altruistic mindset in the war ravaged land of The Sword Isles.</p><p>As a Bladeweaver, ask yourself why you have chosen to perfect the Sword Kinaadman, that great act of cutting with magick, and used it to cut swathes through innocent Folk instead of cutting a better path to the future? Violence explodes, and you have taken up the sword and sigil. Prove how you can bring about a better world.</p>",
+    "violences": "<p><strong>Magicked Blade [1]:</strong> <em>Sorcery streaks from your blade.</em> Melee Metal Bravery or Faith Attack vs 1 fighter in range 3. If you use this while you are <strong>Staggered</strong> or <strong>Critical</strong>, this uses Bravery + Faith instead.</p><p><strong>Kinnara Slash [1]:</strong> <em>Slash while retreating in a crosslegging mystick dance.</em> Melee Air Bravery Attack vs an adjacent fighter, then you must <strong>Teleport 1</strong> out of adjacency of the target.</p><p><strong>Dragon Whip [1]:</strong> <em>Strike in a horrible forward arc, like the naga cutting down with its tail.</em> Melee Fire Bravery or Faith Attack vs 1 fighter in range 2. Then, pull 1 the target toward 1 ally that you can see.</p>",
+    "traits": "<h3>Sword and Sorcery Cast Aloft!</h3><p><em>The Perfect Meditation of the Blade is this: remember the teaching of Conjunction. The sword is nothing but a tool. In fact, it was not made for killing in the first place. Therefore reap and sow and clear new branches, and become a Sword that creates harmony and life.</em></p><p>When you make a <strong>Faith Attack</strong>, your next <strong>Bravery Attack</strong> gains +1 Attack Tooth. When you make a Bravery Attack, your next <strong>Faith Attack heals you 1 HP</strong>. When you make a Bravery + Faith Attack, all allies in burst 3 gain <strong>Skewering</strong> on their next attack.</p><h3>Sword Mage</h3><p><em>Mastery of the sword is much more than just mastery of the weapon. It is, in fact, mastery of self, of tradition, of culture. It is the mastery of the principle of cutting, like a rock, oneness with the nature of something. Achieve Hiyang through swordmastery. You are not a weapon to kill, but rather, a weapon to cut away the brambles and tangles that bar you and your people from the future.</em></p><p>At the start of violence, you have 1 Weaving. When you make a melee attack, gain 1 Weaving. You can only have up to 5 Weaving at a time.</p><p>You can spend Weaving on any of the following at any time, as an immediate effect.</p><ul><li><p><strong>Shield Weave:</strong> Spend 1 Weaving when an ally you can see rolls POS or RES to add your FTH to the roll.</p></li><li><p><strong>Sword Weave:</strong> Spend 1 Weaving when an ally you can see rolls their BRV or FTH, add your BRV to the roll.</p></li><li><p><strong>Suture Weave:</strong> Spend 1 Weaving to <strong>heal 2</strong> an ally in range 3.</p></li></ul>",
+    "weapon": "Kalis, prayer beads, prayer strips, mudras, ululations, pinute, ginunting, long kampilan",
+    "armor": "Shawls, boots, sandals, pants, war jackets, breastplates, war hats, peaked helmets, cuirasses"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684921152866,
+    "modifiedTime": 1684931273444,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "LhM37wrgylaO1paB",
+  "sort": 0,
+  "_key": "!items!LhM37wrgylaO1paB"
+}

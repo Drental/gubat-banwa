@@ -1,0 +1,35 @@
+{
+  "name": "Headtaker",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "raider",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Ritualist-warriors who perfect the ritual of killing and decapitation, the law of equivalent exchange, Masters of Reaping Fates.</strong></p><p>In the Sword Isles, despite what others might have you believe, killing is a ritual undertaking. Among the shoreline settlements and metropoles, killing a man is a coming of age ritual. One that begins your journey in these islands as an individual.</p><p>Deep into the mountains of Rusunuga, in the One Thousand Plutocracies that live upon its mountains--one of which is Vuyu--they practice ritual headhunting. This tradition is something not specific to them as well: warrior braves in lowland settlements frequently picked up their slain enemies’ heads to be portrayed upon their house, and some plucked out the hairs of their slain enemies to use as decoration for their kalasag shields.</p><p>They do this because everybody holds a certain amount of Gahum, pure untapped spiritual power. By accruing this Gahum, they themselves get stronger, gaining more favor in the eyes of the ancestors. When a person dies, their Gahum is transferred to whoever takes it, either through their head or through the sweat or liquids from their body after a mummifying process. This is why the burial rituals in The Sword Isles are varied, long, and revered.</p><p>The Headtaker is someone who specializes in collecting heads. They have turned this immaculate and sacred ritual act into a business, a job. This is what the islands have fallen to. What was once a ritual tradition, that sacred act of killing, has been blasphemed.</p><p>The warriors of Apumbukid have learned this tradition from the headhunting folk of Vuyu and the mountains of Rusunuga. Many Headtakers travel to Apumbukid to cease their ritual headhunting with their fellow man, and instead hunt down those that are disrupting Hiyang, as a form of ritual sacrifice and ritual killing.</p><p>Headtakers usually trawl the lands and accept jobs from Datu to perform headhunting ritual killings for any reason, whether it be for revenge, for murder, or for mourning. In return, Headtakers are given lodging and acceptance into society. A sort of necessary evil. In this way, they are no different from any other Kadungganan, but Kadungganan have the gall to think they are different. That their killing is in any way more sacred or more noble.</p><p>Headtakers are trained in the mountains or hinterlands, subjected to harsher conditions than normal, whether it be cloying hot jungles or the near freezing cold of the highest peaks in The Sword Isles. They are at home in the shadows of the trees, above the unseen branches, clad in shade and vine. They do whatever they need to do to perfect their Technique, taught in all manner of martial arts by all manner of teachers. Sometimes these teachers are ancestor spirits, sometimes these are diwata, sometimes these are the folk living in these hinterland regions. Whoever it may be, it does not matter to the Headtaker. All teachings lead to the ritual art of decapitation.</p><p>When you become a Headtaker, ask yourself: are you willing to become headless to perform your duty? Ignorance is bliss, Kadungganan.</p>",
+    "violences": "<p><strong>Cleave and Eviscerate [1]:</strong> <em>Go for the fucking throat.</em> Melee Metal Bravery Attack vs an adjacent fighter. If the target is <strong>Staggered</strong>, this attack generates <strong>2 Hits</strong> on <strong>9+</strong> instead of 1.</p><p><strong>Ambush [1]:</strong> <em>You leap out and strike from the shadows.</em> Melee Earth Bravery Attack vs an adjacent fighter. If attacking from <strong>Stealth</strong>, this attack gains <strong>+1 Hit</strong>.</p><p><strong>Dancing Weapon [1]:</strong> <em>Throw a weapon imbued with ritual shadows.</em> Ranged Metal Bravery Attack vs 1 fighter in range 3. If the target is <strong>Staggered</strong>, may teleport to a square adjacent to them.</p>",
+    "traits": "<h3>Ritual Kill</h3><p><em>The Headtaking Rite is an endlessly difficult martial art to master, and it is not taught to just anyone. Everyone that becomes a Headtaker understands combat-as-ritual, and does not and will never take it lightly. They will only take heads if they must, if they need to, if the ancestors command it. The Decapitation Rite is a martial art that uses venoms, shadows, bamboos, combined with large strides and a low stance to defeat opponents.</em></p><p>At the start of Violence, designate a single fighter that you can see as your <strong>Ritual Kill</strong>. You can only have 1 Ritual Kill at a time. You can mark a new Ritual Kill whenever you end your Fulmination. When you mark a new Ritual Kill, your last Ritual Kill disappears.</p><p>Whenever you make a melee attack against your Ritual Kill, your attack gains Skewering. If it already has Skewering, gain <strong>+1 Hit</strong> on the attack.</p><h3>Shadowstep</h3><p><em>The Decapitation Rite teaches that the shadows are your friends. The darkness is not evil; in fact, it is a respite and a safe space from the overbearing hegemony of the sun's scorching rays. Therefore use it to your advantage, and let your axe burn with love.</em></p><p>When you Stride, you can choose to <strong>teleport 3</strong> instead. Additionally, you can now move through enemies but not end in their squares.</p><h3>Smoke and Bamboo Style</h3><p><em>Headtakers are trained in the art of leaping from tree to tree, bough to bough, finding the perfect angle to strike down and end things.</em></p><p>While adjacent to blocking or cover terrain, or when not within line of sight of any enemy, spend 1 Beat to gain <strong>Stealth (2)</strong>. All your attacks from Stealth gain +1 Attack Tooth.</p>",
+    "weapon": "Headtaking Axe, sickle, tabak, golok, pinute",
+    "armor": "Cloaks, rain capes, breastplates, silk robes"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684839613072,
+    "modifiedTime": 1684846062925,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "4IvnMd5v9LcDXEbn",
+  "sort": 0,
+  "_key": "!items!4IvnMd5v9LcDXEbn"
+}

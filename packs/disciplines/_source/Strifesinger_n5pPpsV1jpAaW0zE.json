@@ -1,0 +1,35 @@
+{
+  "name": "Strifesinger",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "medium",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Singers of the Dirge of Gubat Banwa, Exalters of Healing Through Violence, Chanters of the Sorrowsong, The Chorus That Watches The Sword Isles</strong></p><p>The only two times tawo do not sing is when they are asleep or when they are dead.</p><p>Strifesingers use their voices, instruments, and ritual dances to heal and support their allies. They have created The Sorrowsong, a martial art that uses song and instruments to mystically empower their allies and produce concussive vibrations. With their healing song stories and their invigorating cacophonies, they pave the melody for a new world. Their art is one crafted by local Siganon, and then perfected by Bulanan pandita, aligning their empowering notes with the soft philosophies of the moon to create a singer that can heal the world.</p><p>Most settlements that have Strifesingers learn the martial art of the Sorrowsong from other Strifesingers, although they mostly only accept students that already know how to play a few instruments, or have beautiful voices. Their voices and music do not only heal and support: some of their techniques employ the use of violent sound waves to blast enemies off of their feet, or to make weapons dance quicker.</p><p>Grandmasters of the Sorrowsong teach the secret to amplifying instruments into thundering sonic waves that blast enemies off of their feet. The Sorrowsong Style also deals in letting their healing kalag bolster their allies' own. Their songs from the myriad of instruments they learn summon spirits, as most of them are entreaties and pleas to the Daghan to help them in their war. Thus is the secret of a Strifesinger.</p><p>Strifesingers are few and far between. They are usually well respected by other instrumentalists and musicians, who usually do not take up the responsibility of war, or if they do, keep their music out of it. Very often, professional mourners (known as Parahaya) often become Strifesingers as well, combining their grieving with the act of violence to quicken the act of mourning.</p><p>Strifesingers tend to be bleeding hearts, especially in such a stage as war, wherein they would readily compose dirges for foes they have just killed, or about lost allies, or about the nature of the wheel that is unbroken due to war.</p><p>In recent times, Strifesingers are known in Akai as Katib. They sing not only the sorrows of this world, but also the orations and prayers in the religious services of the Bulanan faith. Strifesingers memorize the words upon the books of faith of Bulanan, and they use these truths to heal the wounds of the battlefield.</p><p>When you become a Strifesinger, ask yourself why you sing the warsong: you are complicit to the cycle, your conscience is bloodied. Why does your healing song only bring more sorrow? Why does your invigorating tale bring violence? Whether it is yours, your allies', or your enemies?</p>",
+    "violences": "<p><strong>Thundering Note [1]:</strong> <em>Strum a reverberating tune.</em> Put down a thundering note in a free square in range 3. Allies can move into it to <strong>rush 3</strong> (and then continue their movement afterwards) and cannot collide with it. Enemies that collide with the note suffer <strong>Fray 1</strong>. The note dissipates after it is collided with or moved into.</p><p><strong>Healing Note [1]:</strong> <em>Resound a rejuvenating song.</em> Put down a healing note in a free square in range 4. Any ally that moves into or collides with it gains <strong>Block 2</strong>, any enemy that moves into or collides with it suffer <strong>1 True Hit</strong>. The note dissipates after it is collided with or moved into.</p><p><strong>Resound! [1]:</strong> <em>Let loose a chorus!</em> Make a Ranged Air Faith Attack vs 1 target in range 4, and then Slide 2.</p>",
+    "traits": "<h3>Thundering Instruments</h3><p><em>“Sword clashes, gunshots, the ringing of war gongs, songs, lies, promises, violence… These are all things that demand repetition, for no other reason but to be heard, again and again. Love, after all, is at its best when it repeats itself.”</em></p><p>When you make a Faith Attack, give an ally in burst 2 <strong>BRV Up (1)</strong>.</p><h3>Song of Sorrows</h3><p><em>Professional mourners across The Sword Isles are paid to wail and gnash teeth for important figures. This spirit of grief permeates the isles. It penetrates even you. The Song of Sorrow, nevertheless, is a martial art. An art for violence. This violent vesper, which contains two ambahan (a kind of poetry, you should know, that is sung; two lines, 7 syllables each, and make sense if the two lines are interchanged) that feed each other forever, is a song about the truth of battle: violence for violence's sake is the rule of beasts and the divinity of man. When violence is used to find truths about mortal nature, and not to kill, gain wealth, or accrue power, is when we become more than what we are.</em></p><p>You have a <strong>Singing Aura</strong> that is a <strong>burst 3</strong> around you that moves with you. At the start of your Fulmination, choose one effect to give to any one ally within the burst:</p><p><strong>Respite Song.</strong> Roll FTH and heal an ally equal to the number of Hits.</p><p><strong>Thundering Song.</strong> 1 ally may Rush 2.</p><p><strong>Protective Song.</strong> Give 1 ally 1 Defense on the next attack against them.</p><p><strong>Haste Song.</strong> Give 1 ally SPD Up (1).</p>",
+    "weapon": "Instruments, Knives, Kudyapi, Agung, Tolali, Zither, Bamboo Flute, Nose Flute",
+    "armor": "Headwraps, sashes, sarong, silk jackets, paruka, malong, skirts"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684877618215,
+    "modifiedTime": 1684881068588,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "n5pPpsV1jpAaW0zE",
+  "sort": 0,
+  "_key": "!items!n5pPpsV1jpAaW0zE"
+}

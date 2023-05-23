@@ -1,0 +1,35 @@
+{
+  "name": "Swordfish Cavalier",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "sharpshooter",
+    "techniques": [],
+    "hp": 12,
+    "description": "<p><strong>Shaman Knights of the Seas and Rivers, of the Swordfish, Warriors that Medium the Tides of the Sea</strong></p><p>Swordfish Cavaliers are shaman knights of the Swordfish, the vahana of the Seasword God Margosatubig. As spirit mediums and skilled riders of the balu, the balu mount they summon is a little god, who lives in a talisman that they wear around their necks. They can summon this balu at almost any time, as long as the balu can fit.</p><p>The balu are giant swordfish with noses sharper than spears and wings as large as an eagle’s. While they require water to breathe, they can stay up in the air for quite some time. Swordfish Cavaliers are trained by the best of the best in their villages, as taming a balu is an entire endeavor all to itself. One must train a balu since their infancy to form a proper connection with them. Since balu are one of the quickest animals in The Sword Isles, they have been used to corrale and subdue enemy advances in war. Balu are outfitted with chain linked mails and hardwood armors as well.</p><p>Swordfish Cavaliers are said to have a distant rivalry with the other riding Disciplines, particularly the buwaya riders. This is because they have both been invented by enemy villages. Riding a balu is a sacred act of oneness with nature, and requires a balyan ritual to officiate. Swordfish Cavaliers are known to use bamboo or hardwood recurve bows for their choice of weapon, or any other long-ranged implement, to attack and skewer from mid-range.</p><p>Swordfish Cavaliers know the lay of the land and they know the movement of the sea. If you were a Swordfish Cavalier you must've begun your childhood close to water, whether it be a  pond or the ocean. You are intimate with the ways of fishing, wielding harpoon and net to catch your prey. If anyone needs a helping hand when it comes to fishing and hunting, Swordfish Cavaliers are usually well-trained in this regard.</p><p>Swordfish Cavaliers tend to be the first into a battle, with their superior speed being able to move them across the battlefield with relative ease. Due to their mounts, they will be usually tasked with jobs or duties that would need quick movement or ability to float a few feet over land and water. While balu can submerge,the riders usually cannot hold their breath for long.</p><p>Swordfish Cavaliers constitute the elite cavalry of the Sultana. Elite Swordfish Cavaliers are exalted and trained from birth, and are reared up in the closest way of the Bulanan. Swordfishes are ancient and holy animals that were ridden by Baginda Sumongsuklay Themself, and were the holy steeds of Ayah Menat, the First Prophet, when they had to travel the Two Thousand and One Oceans to reach the Sword Isles.</p><p>The most elite Swordfish Cavaliers are the Cavalry of Datu Margosatubig, in a distant island north of Kalanawan. This island, called Salagunting, is said to actually be the top of an underwater coral kingdom named Sugnanti. The balu here are larger, and have sharper swordnoses, and are said to rush through both air and water like arrows loosed by the sea king.</p><p>If you become a Swordfish Cavalier, ask yourself: why do you ride upon the wings of legends to inflict violence? The folly of men dapples your arrowhead, why must you enslave nature to scatter your enemies' entrails upon the ground?</p>",
+    "violences": "<p><strong>Water Spear [1]:</strong> <em>Strike with a powerful spear of summoned seabrine.</em> <strong>Melee Water Faith Attack</strong> vs <strong>1 adjacent fighter</strong>, then <strong>Push 1</strong>.</p><p><strong>Sea Javelin [1]:</strong> <em>Shoot a flying spear of cutting waters.</em> <strong>Ranged Water Faith Attack</strong> vs <strong>1 fighter in range 5</strong>, inflict <strong>Water Vulnerability (1)</strong>.</p><p><strong>Ocean Blade [1]:</strong> <em>Summon a curving blade of water through spiritualism.</em> Area Water Faith Attack vs all fighters in range 2 path 3.</p>",
+    "traits": "<h3>Sea Satariya</h3><p><em>As a Swordfish Cavalier, you might be mounted upon a swordfish, or some other similar piscine creature, though you can choose to not have a mount at all, and simply channel the spirit of a fish.</em></p><p>Whenever you make a water attack, gain a <strong>Deluge</strong>, represented by waters flowing about you.</p><p>You can spend any number of Deluge after a Violence Cast to convert that many non-Hits on your Attack Teeth into <strong>Hits</strong>, but before cancelling.</p><p><strong>While you have 1+ Deluge,</strong> you may rush 1 once either before or after making an attack.</p><p><strong>While you have 3+ Deluge,</strong> your melee or ranged water attacks splash: inflict 1 Hit on all enemies adjacent to one target of the attack.</p><h3>Stormwind Rider</h3><p><em>The first Swordfish Cavalier found that the God of the Sea, Hakasalug, known as Varunaraja (King of Waters), took upon the Swordfish as his holy beast form. The first Swordfish Cavalier, a fisher-warrior named Hiling Makar, immediately prostrated and offered sacrifices when he found out, but Hakasalug found this to be endlessly amusing, and so he allowed Hiling Makar to establish the ancient Coral Knight Art, creating the first of the Swordfish Warriors.</em></p><p>When you Rush, you dive into the earth as a being of water: you ignore all terrain and elevation. Then you gain a <strong>Water Form</strong> until end of next Fulmination: all your attacks can become Water Attacks and you heal any Hits from Water Attacks instead of suffering them.</p>",
+    "weapon": "Bows, guns, crossbows, spears, lances, swords, axes, hammers",
+    "armor": "Silk jackets, sashes, robes, sarongs, malongs"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684879977663,
+    "modifiedTime": 1684881070741,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "uolp52dOs2ud4Jha",
+  "sort": 0,
+  "_key": "!items!uolp52dOs2ud4Jha"
+}

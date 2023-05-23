@@ -1,0 +1,35 @@
+{
+  "name": "Beast Hunter",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "witch",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Martial Artists of the Perfect Hunt, Tamers of the Divine Wilds, Seekers of Truth and Hunters of Gods</strong></p><p>Hunting is a popular trade and profession in the isles. It's how one gets pig and meat, after all. And pig caught in the forest is a ritual sacrifice, filled with metaspiritual meaning and power. Hunting in the isles are done either by one's self, with traps, or with a dog or two, who can pin down game.</p><p>When war breaks out, and constant violence looms, specialized hunters arose, pointing their traps and their dogs at their enemies. They took it upon themselves. Now they train their children not only in the arts of hunting, but also in war. They call themselves the Beast Hunters, for they both hunt and handle beasts, and what are warriors but beasts of a different name? The Moon and Star Dance was an easy Martial Art to spread across the Isles. The Akai Clan that began the Moon and Star Dance is long gone,their traditions dispersed across all of the isles.</p><p>It was Akai that first saw their applicability in war, and began granting nobility and vassalage to hunters who would join the Sultana’s following and army. An even smaller contingent of elite hunters serve as her royal hunters, outfitted with silks and golds and jades.</p><p>Beast Hunters use a large variety of constructed traps to control the battlefield. They might bait their enemies, use strange pits to make them fall, or soften the soil to make them slip quicker. Beast Hunters are unmatched when it comes to manipulating the battlefield with their ingenuity and closest allies. They thrive in the mid-range, putting down traps to shut down enemy movement and skill.</p><p>Most importantly, the Moon and Star Dance focuses on flowing, mindful movements that incorporate the Sidereal Companion: Hunting Beasts. Hunting beasts are fierce and they never back down, and they even prefer to fight against things larger than them, the devil bastards. They rejoice in the glory of savaging a giant boar or crocodile or stag and bringing them writhing to the floor. The most common beast is a witch dog, forest canines that can climb trees and have constantly sharp claws, but common hunting beasts also include monkey-eating eagles, fierce civets, juvenile crocodiles, and sometimes even wild warty boars.</p><p>Beast Hunters are sought after for their trapmaking expertise and their peerless skill in surviving the deep forests. They come from all walks of life, and with their hunting companions, they can take on whatever challenge that will come their way, with a combination of their wit, their innovative skill, and the fierceness of their hunting beasts.</p><p>If you choose to be that consummate hunter, ask why you used your hunting and trade for battle. What made you hunt the ultimate predator? Why do you sic your hunting beasts at your fellow man?</p>",
+    "violences": "<p><strong>Crippling Shot [1]:</strong> <em>Let loose an arrow or shoot a gun to break your prey.</em> Ranged Metal Bravery Attack vs 1 fighter in range 5, inflicting <strong>SPD Down (1)</strong>, and then your pet may <strong>rush 1</strong>.</p><p><strong>Bleeding Shot [1]:</strong> <em>Fire a flurry of shots that draws blood.</em> Ranged Earth Bravery Attack vs 1 fighter in range 5, inflicting Bleed (2). Your pet may inflict <strong>Fray 1</strong> on an adjacent fighter.</p><p><strong>Evisceration Gun [1]:</strong> <em>Fire a straight shot that opens wounds.</em> Area Earth Bravery Attack vs all chosen targets in line 5, inflicting <strong>Eviscerate (1)</strong>.</p>",
+    "traits": "<h3>Hunting Beasts</h3><p><em>Beast Hunters have with them a powerful companion, a Hunting Beast, usually a dog, but possibly also boars, owls, cats, or any other beast they have created a connection with. These become their Sidereal Companion, the Stars to their Moon dance. These Hunting Beasts are very commonly chosen from birth, and you live all your life with them. They are very often anointed with lunar oils. Beast Hunter fail their best friends sometimes. It is required, a suffering lesson, to reach mastery of the Perfect Hunt.</em></p><p>You have a Pet that travels with you and begins every violence adjacent to you. Name them.</p><p>They are Size 1 fighters and share your Martial Abilities. They do not have their own Fulmination, but every end of your Fulmination they are not mounted they will Rush 2 and then inflict 1 True Hit on an adjacent enemy.</p><p><strong>The first time you switch into this Discipline</strong> or during <strong>Downtime</strong>, choose your Pet's type to find out what they do when you <strong>Command</strong> them for <strong>1 Beat</strong>, which is the following:</p><ul><li><p><strong>Canine:</strong> Your beast howls. All enemies in burst 1 of the Canine suffer a -1d to their next Defense Teeth.</p></li><li><p><strong>Feline:</strong> Your beast inflicts Eviscerate (1) on all adjacent enemies.</p></li><li><p><strong>Raptor:</strong> Your beast swoops down, inflicting Bleed (1) on all adjacent enemies.</p></li><li><p><strong>Reptilian:</strong> Your beast flails wildly, inflicting Unbalance (1) on all adjacent enemies.</p></li><li><p><strong>Mauler:</strong> Your beast mauls the target, inflicting push 4 to 1 adjacent fighter.</p></li></ul><p>You can move into your pet's space to mount them. You can still command your pet while Mounted. While Mounted, you gain the following benefits:</p><p><strong>You gain +3 SPD and all your effects with ranges have their ranges increased by 2.</strong></p><h3>Best Friend</h3><p><em>Hunters in the Sword Isles make best friends with their pets, giving them names and treating them like siblings or their own children. They create lavish burials for their pets that die while in duty.</em></p><p>When you Stride, your Pet may Stride with you, equaling your SPD.</p>",
+    "weapon": "Spears, harpoon, bows, guns, crossbows, daggers, gunong, barong, throwing knives",
+    "armor": "Shawls, breastplates, sarongs, pants, sandals, war jacket, lamellar"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684862762274,
+    "modifiedTime": 1684881059871,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "6MkcKsvxDnyw8JNQ",
+  "sort": 0,
+  "_key": "!items!6MkcKsvxDnyw8JNQ"
+}

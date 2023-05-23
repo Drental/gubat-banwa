@@ -1,0 +1,35 @@
+{
+  "name": "Murderglave",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "sentinel",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Monstrances of Passion, Channelers of MahadiwaKALAKATRI, Murder Goddess, Fulfillers of the Promise of Blood</strong></p><p>In the ancient past, the Suladnon of Murder Mahadiwa Kalakatri Duumanun raised an order of warrior-monks whose sole purpose was to use their passions and pain to protect those around them. These revenant martyrs were called the Night's Penitent, and only a scant few of them remain today. They have been stolen by the Batara Lakan, the Suladnon of Murder turned into Saint Qali.</p><p>Those that go through the training of the Karimlan are set out to the middle of the forest or the sea, and taught to face their fears. They must use their Kinaadman to harness their primal passions, their primal emotions, and turn it into powerful sorcery that can strengthen them against their heart. They understand the truth: pain, fear, love, passion, regret; all these things are what makes a human. And thus to embrace them all is the ultimate strength.</p><p>They get their power from the Suladnon of Murder, the Diwata of Sword Hell. The final initiation of a Murderglave is being immersed into a blood pond before an altar to Mahadiwa Kalakatri Duumanun. Using this near-death experience, they come face to face with the Mother of Ten Thousand Bloody Spears, and they become transcendent.</p><p>In their transcendence, they come to enlightenment. A petty enlightenment, but still an enlightenment to be sure: that violence should not be the end. This was obvious, they know, but they never wished to admit it. It is like realizing that you are being stabbed in the face by an enemy lance at the last second because you did not bring your shield. Thus, the Murderglave's passion is inherently hamstrung with regret. Mahadiwa Kalakatri Duumanun always leaves them with the words: “There is no atonement for this, sinner.”</p><p>They have been cultivated the most by Virbanwa, who creates Murderglave chapels and training monasteries at the edges of Virbanwan territory and conquest. They are inherently distrusted, since they channel their power outside of Sampalataya, the Ashen Star Faith: the Bloody Handed Redemption was created by a datu and his village of Kalakatri faithfuls who lived as warrior-priests, in the northern plains of Rusunuga. The datu is said to have been Datu Sakara, who was killed by El Kampeyador, and subsumed Kalakatri into the greater Saint of Murder and Penitence, Saint Qali.</p><p>The Murderglaves were integral to the Battle of Binangku Medium, where five poweful Murderglaves stood their ground and staved off an entire Issohappan battalion and river fleet long enough for their allies to be saved by Sinuku war barges.</p><p>These passions of the Murderglave manifest as tendrils of darkness, of shadow. They understand that to embrace humanity is to embrace darkness. And that using that darkness, they can bring about life and light. By their pain, they create walls of obsidian.By their fear,they shield their allies. By their love, they grant others another chance.</p><p>If you become a Murderglave, ask yourself why you have chosen such a bloody path. The Left-Handed Path of the Blackened Blood is not the safest path, and is not the friendliest. Why do you suffer to help others? When you know that all your suffering is potentially in vain?</p>",
+    "violences": "<p><strong>Lance of Darkness [1]:</strong> <em>Strike with a giant weapon.</em> Area Earth Faith Attack vs all fighters in blast 2.</p><p><strong>Hand of Darkness [1]:</strong> <em>Rush forward upon wings of murder.</em> Melee Earth Faith Attack vs 1 close target. Push 1, and then Rush 1 into the square they vacated.</p><p><strong>Censer of Purity [1]:</strong> <em>Test your victim’s purity.</em> Choose 1 adjacent fighter. They can inflict 1 Hit against you. If they do, inflict 1 True Hit back at them and inflict <strong>Provoke (1)</strong>. If they choose not to, they suffer <strong>Stun (1)</strong>.</p>",
+    "traits": "<h3>Murder Monstrance</h3><p><em>Saint Qali is the Fell Lady of Murder, known as Mahadiwa Kalakatri Duumanun in the religions of the Central Sword Isles. Bloody Handed Redemption teaches all Murderglaves to properly channel them by piercing themselves. A Murderglave channeling Saint Qali is sheathed in night blackness, like a penitent veil, choking them as the one million hands of Kalakatri reach out into the field.<br>Murderglave armors are living iron maidens: they have spikes that dig deeper into the host, so that one never forgets their lifelong penitence, their pain, their sin for inflicting such violence upon this world.</em></p><p>At the beginning of violence, the Murderglave chooses either St Qali or Makayao, taking upon their aspect.</p><p>They can shift into the other Aspect by spending 1 Beat.</p><p><strong>Makayao/Mahakala:</strong> Multiple hands, Murderous Intent, Peaceful Smile. <strong>While in this aspect,</strong> When you suffer an attack, gain a <strong>Murder Charge</strong>, up to 5. You have +1 Defend against all attacks, but suffer -1 Speed.</p><p><strong>St. Qali/Kalakatri:</strong> Wicked Grin, Burning Eyes, Razor Weapons. <strong>While in this aspect,</strong> whenever you make a melee attack, you may consume X Murder Charges to turn X Hits on a Melee Attack into True Hits. Additionally, you have +1 Speed.</p><h3>One With Murder</h3><p><em>Mahakala is a forgotten aspect of Bloody Handed Redemption, but Ba-enon Murderglaves remember. Mahakala is the ancient destroyer aspect of Bataka-Malaun, who together, creates The Time That Destroys, or Inevitability. He is conflated with Makayao, the Child of God who has died once and will return to bring the ending of all things, known also as the Inevitability Maitreya.</em></p><p>When reduced to 0 HP, roll BRV + FTH, healing 1 HP per 8+ rolled, and 3 HP per pair rolled. This only triggers 1/Violence.</p>",
+    "weapon": "Colossal hammers, giant panabas, ceremonial swords, executioner’s axes, straight sword",
+    "armor": "Cuirasses, peaked helmets, greaves, tassets, steel sabatons, boots, shoulderguards, bracers, gloves"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684927369126,
+    "modifiedTime": 1684931275214,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "VZE3c1GeXvq2Q0xj",
+  "sort": 0,
+  "_key": "!items!VZE3c1GeXvq2Q0xj"
+}

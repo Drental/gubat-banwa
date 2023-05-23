@@ -1,0 +1,35 @@
+{
+  "name": "Sarimanok Knight",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "sentinel",
+    "techniques": [],
+    "hp": 20,
+    "description": "<p><strong>Emblazoned Chevaliers of the Throne, Guardians of Nature and Stewards of the Divine Wilds, Achievers of Concordance Through Communion with the Holy Raptor</strong></p><p>Sarimanok Knights are faithful and skillful cavaliers that fight both on land and in the air, as needed. They ride upon their faithful sarimanok, proud and powerful, and they make sure that their enemies are brought down to heel. They are trained as an elite cavalry, and usually only the richest of Datu can outfit and train an entire ten man unit of Sarimanok Knights, much less address the cost of maintaining Sarimanok.</p><p>Sarimanok have been there since the beginning of time, some say. They have been there ever since there has been the Rainbow, the sign of victory, born from the tears of the Sky to the Sea, Their love forbidden forever. The sarimanok are large, usually seven to eight foot tall roosters with rainbow feathers that glisten in the sun and sheen in the rain. Their large wingspans allow for limited flight, and their natural hard skin is enough to deter any assailant.</p><p>Sarimanok are holy winged mounts and representatives of Baginda Sumongsuklay. It is said that Jaris Akai met Sikhandag, the Moon Prophet, thanks to a sarimanok that Sihkandag rode upon, which glinted with the rainbow halo of the full moon. Sarimanok exemplify the Divine Striving to protect and engage in war to preserve. Sometimes this story is said to be the truth of the mythical tale of Rajah Indarapatra and Bayi Bulan, which means that Jaris Akai is commonly seen—among those that practice syncretized anitu-annuvara—as an Avatar of the Triumphant God Balahala Saiwa.</p><p>Sarimanok Knights must learn to grow and feed their own Sarimanok. They must establish a unique and special bond with them, binding them to their very souls. As long as they are alive, their sarimanok cannot die, cannot perish. Once a sarimanok and their knight are bonded, they are fated by some cruel watcher to die at the same time.</p><p>Sarimanok Knights learn to use longer weapons, larger swords or sibat. They generally wear heavier armor to protect themselves since they don’t need overly quick movement. However, they are more or less stuck to their sarimanok in combat. Sarimanok, while not bred for combat, are willing to brave the heat of the skirmish to bring their knight to victory.</p><p>While Sarimanok Knights were born in Akai, trained from the local warriors here who already rode upon Sarimanok when they unleashed their raids, Virbanwa has also taken to breeding these rainbow raptors to create a sarimanok cavalry of their own. However, theirs is smaller than the colorful plumage and gigantic wings of the sarimanok of the Kalanawan region.</p><p>If you choose to become a Sarimanok Knight, ask yourself when you started training, and for what reason? To protect your datu? To save yourself? Your family? Why would you bring a majestic creature into the heat of a skirmish, of a tactical engagement, where both of you are poised to die?</p>",
+    "violences": "<p><strong>Heaven’s Eye [1]:</strong> <em>Fire a burning weapon.</em> Ranged Air Bravery Attack vs 1 fighter in range 4. If the target is exactly 4 squares away, may rush 1 toward them.</p><p><strong>Lightning Javelin [1]</strong>: <em>Strike down with your weapon, letting rainbow blades cascade from it.</em> Melee Metal Bravery Attack vs 1 adjacent fighter, then cleanse 1 Status from self.</p><p><strong>Sarimanok Flight [1]:</strong> <em>Strike up with rainbow blades.</em> Melee Air Bravery Attack vs an adjacent fighter, inflicting Juggle (1) per 8+.</p>",
+    "traits": "<h3>Raptor Knight</h3><p><em>Sarimanok eggs are found at the end of a rainbow. They are hatched and trained by a Knight from birth. Sarimanok imprint upon their Knight and will only be ridden by their knight. Their rainbow feathers never disappear, and when they die they turn pale grey, and they bleed their color.</em></p><p>As a Sarimanok Knight, you might be mounted upon a sarimanok, or some other similar avian, though you can choose to not have a mount at all, and simply channel the spirit of a raptor. When you <strong>Rush</strong>, you Fly for the duration of the Rush.</p><h3>Arrows of Heaven</h3><p><em>Sarimanok exist across the isles, under a variety of different names. A king of these sarimanok can be found within Galura, the creator of Stormwinds, who erupts from the depths of volcanoes and summons thunderstorms crackling with crimson lightning. In his heavenly garden Jamiyun Kulisa of the Thunderbolt kept a thousand sarimanok to keep it beautiful. The most skilled of sarimanok knights are run through with the holy ancient lightning bolt of Galura, an aspect of Jamiyun Kulisa (some say mount, others say they have no correlation at all), which bolsters their abilities.</em></p><p><strong>Twice per your Fulmination,</strong> you can <strong>Smite</strong> a target in range 2: a burning razor feather ready to punish them for misdeeds. Smites don’t stack and vanish at the start of your Fulmination. Choose below:</p><ul><li><p><strong>Smite Indolence:</strong> If the target does not move at least 2 squares by the end of their Fulmination, consume the Smite to rush 3 toward them.</p></li><li><p><strong>Smite Ferocity:</strong> If the target makes an attack on an ally, consume the Smite to inflict 1 True Hit on the attacker.</p></li><li><p><strong>Smite Pride:</strong> If the target attacks you, consume the Smite to inflict <strong>Fray 2</strong> on them.</p></li><li><p><strong>Smite Indulgence:</strong> If the target is healed or gains Boons, consume the Smite to inflict <strong>Slide 1</strong>.</p></li><li><p><strong>Smite Hatred:</strong> If the target ends their Fulmination further than 5 squares from you, consume the Smite to you may <strong>Pull 3</strong>.</p></li></ul>",
+    "weapon": "Halberd, lance, spears, kampilan, bolo, pira, janap",
+    "armor": "Headwrap, cuirass, tassets, pants, metal boots, peaked helmets, elephant hide breastplate"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684876044397,
+    "modifiedTime": 1684881066948,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "qPTH32ZzDaLuCFyt",
+  "sort": 0,
+  "_key": "!items!qPTH32ZzDaLuCFyt"
+}

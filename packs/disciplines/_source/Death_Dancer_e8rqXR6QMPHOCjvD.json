@@ -1,0 +1,35 @@
+{
+  "name": "Death Dancer",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "raider",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Dancers along the lines of Cyclical Death, spirit mediums of Yamadiraja, Diwa of Death and Violence.</strong></p><p>With your knife fists and sword feet, dance along the lines of death, so that you may evermore be changed. Remember, faithful students, enact Cyclical Change to ensure the river ever flows.” Death Dancers channel the tenet of Cyclical Death to cleanse Gubat Banwa. They are the purest incarnation of Gubat Banwa, fighters that excel in the styles of martial art known as Empty Hand, as well as Lightning Feet.</p><p>Heed the truth, then: Death Dancers are actually spirit mediums that channel Yamadiraja, the God of Death and Violence. In a vast number of beliefs, Yamadiraja is considered an Aspect of Rajaraya Pintas, the Ancestor God of Violence, while other sects, like the Kayama-an religion in far east Gatusan, recognizes Yamadiraja as the Supreme God and the Creator God, who created this reality by murdering the past reality. In Kayama-an, Kalakatri is not seen as an Aspect of Mahadiwa but rather, an Aspect of Yamadiraja.</p><p>The martial art of Death Dancers, the Dance of Death, originated from deep within the mountains of the isles in far east Gatusan, where it is said that there is a cave that leads into the Underworld. There, Yamadiraja (who is said to be the same person as Sri Dapa, the God of War and Mortality in Southern Regions of the Sword Isles), came to them and taught them his Dance, as a way of achieving Hiyang with him, and to become agents of Cyclical Death (that is to say, death needed to continue the cycle, so that it is not corrupted with false immortals jockeying for power). Therefore the Dance of Death is at once an intricate ritual and a powerful martial art used to devastate. Many sages conjecture that this was actually a powerful turning point for Gubat Banwa: for the God of Death itself to teach their supreme art marked the beginning of the Eighth Star Era.</p><p>Various mediums of Yamadiraja have come down from that mountain and spread across the land, Mastery their art to those that would accept the channeling and worship of Yamadiraja, or Sri Dapa. In the Eighth Star Era, they have multiplied, and various settlements have created their own versions and manifestations of Yamadiraja’s supreme art.</p><p>There was a Mastery,however,that was given to the Death Dancers, as they were taught the final maneuver of the most lethal art in Gubat Banwa: “When you have attained the awe inspiring fires of death itself, which humbles even the gods, what do you do next? Use it with the same function as an especially sharp rock?”</p>",
+    "violences": "<p><strong>The Hundred Hands of Yamadiraja [1]:</strong> <em>There are a thousand deaths a day, and that is how many strikes you unleash.</em> This is dictated by your chosen Body As Weapon Paagi style.</p><p><strong>Sunyata Palm [1]:</strong> <em>Breathe and meditate upon the emptiness taught by Destined Death.</em> Make a <strong>Melee Metal Faith Attack (1 adjacent fighter)</strong> and then inflict <strong>RES Down (1)</strong>.</p><p><strong>Diamond Body [1]:</strong> <em>Perform an anyo ritual, striking each point of your body and hardening it to a thunderbolt.</em> Take on the <strong>Diamond Body Stance</strong> until the end of your next Fulmination. While in the Stance, you cannot be forcibly moved and when you move into an enemy's square, you collide with them (do not suffer Hits) but your movement does not end, and you push them 1. You can only use this 1/Fulmination.</p>",
+    "traits": "<h3>Many Handed Wheel-Turner</h3><p><em>Let Death speak for one last time: “There are things that are meant to cycle, such as the flow of the universe, and things that are not meant to cycle, such as the generational evils. Therefore with your internalization of Cyclical Death, you will know which cycles to kill, and which cycles to preserve. Remember, however, that no God shall ever be Immortal. Therefore killing God enacts Cyclical Death as much as severing a slave from their master enacts Cyclical Death. Let all things end with you.”</em></p><p><strong>Rush 1 when you take a stance. </strong>Additionally, you can now take upon more than one Stance at a time. If you do, gain a number of benefits equal to the number of stances you are currently in. These benefits are accumulative: having 3+ Stances means you also have the benefit of being in 2+ and 1 Stance:</p><ul><li><p><strong>2+ Stance:</strong> While you have at least 2 Stances, when you take on a new Stance, you may immediately rush 2, moving through enemies and hindering terrain.</p></li><li><p><strong>3+ Stances:</strong> Once you gain 3 Stances, you may inflict violence for free. When you end your Fulmination with 3+ Stances, inflict 1 Hit on all adjacent enemies.</p></li><li><p><strong>4+ Stances:</strong> While you have 4+ Stances,you are immune to Unbalance and Daze and all your melee attacks have <strong>Overwhelming</strong>.</p></li></ul><h3>Body As Weapon Paagi</h3><p><em>You take upon yourself the initiation of cyclical death. What does the cycles of violence see now? Dance along the lines of death.</em></p><p>Choose whether you're practicing the <strong>Heavy Handed Executioner</strong> or the <strong>Lightning Death Movement</strong> style when you go into combat:</p><ul><li><p><strong>Heavy Handed Executioner:</strong> Your Hundred Hands of Yamadiraja is slower but more powerful: Melee Earth Faith Attack vs 1 close Fighter, with Overwhelming, but you have <strong>-1 SPD</strong>.</p></li><li><p><strong>Lightning Death Movement:</strong> Your Hundred Hands of Yamadiraja is quicker but weaker: You may teleport 1 then make a Melee Air Faith Attack vs All Enemies in Burst 1 with <strong>Dullness</strong>.</p></li></ul>",
+    "weapon": "Hands, feet, head, elbows, knees;",
+    "armor": "Tattoos, bahag, sarongs, handwraps"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684837452932,
+    "modifiedTime": 1684846061293,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "e8rqXR6QMPHOCjvD",
+  "sort": 0,
+  "_key": "!items!e8rqXR6QMPHOCjvD"
+}

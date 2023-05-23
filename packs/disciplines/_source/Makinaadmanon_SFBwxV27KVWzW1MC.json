@@ -1,0 +1,35 @@
+{
+  "name": "Makinaadmanon",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "witch",
+    "techniques": [],
+    "hp": 12,
+    "description": "<p><strong>Wielders of Kinaadman: Enlightened Will, Practitioners of Kimat Kinaadman, Greater Than Cannons</strong></p><p>There has ever been magick in Gubat Banwa, and it is ever more concentrated here, in the Sword Isles, the Center of the Trichiliocosm. Kinaadman is a potent thing. It is less a source of power but a burning field of experiences. A differing state of being where one is exposed to the greater mysteries in life, and no answers are given to you. Only questions, questions, questions.</p><p>Across the isles, a common name for miraculous and paranormal powers is <strong>Kinaadman</strong>, which means “erudition”. Kinaadman can be gained with proper cultivation, study or meditation with the Cosmic Soul, while some might have kinaadman as a consequent of their nature, such as gods and demons.</p><p>There are many kind of kinaadman: magics to change the size of something, to summon mystic flame, to control the thunderbolt, to heal others (commonly known as busali), to levitate, to manipulate the elements, to become impervious to harm.</p><p>Makinaadmanon are those that master mudras (mystic hand gestures) and mentalas (esoteric words inscribed upon palm leaf or incanted), using that as a means to manifest their kinaadman kinetically. Not just that, but they have also mastered the art of ritual, having the ability to perform a vast number of rituals that inflict such effects that require another Makinaadmanon or a balyan or healer to be able to dispel.</p><p>Makinaadmanon in particular have chosen to step up and adapt their abilities to be able to be used in war and raids. This art is known as the art of Kimat Kinaadman (Lightning Erudition). It is the application of sorcery and spiritual gifts into combat. Makinaadmanon have become indispensable artillery in Warbands and armies henceforth in the Sword Isles, becoming natural counterparts to lantaka. Gatusan and Apumbukid, for example, use Makinaadmanon and Witches (Mambabarang) liberally to supplement their artillery.</p><p>The ability to mix mudra and mentala into a single seamless mystic martial art has proven to be exceedingly effective, however: Makinaadmanon fight with a mix of kinetic movement that interweave mudra gesturing with intricate kick katas, mentala utterings with dodges, and the planting of mentala-inscribed bamboo strips is combined with powerful lock-punches.</p><p>You hold limitless power in your hands, why inflict violence instead of healing the land? Your answer will never be enough, Makinaadmanon.</p>",
+    "violences": "<p><strong>Kinaadman Blast [1]:</strong> <em>You blast down with overflowing kinaadman.</em> Make an Area Metal Faith Attack vs all fighters in range 4 burst 1, then inflict <strong>Vulnerability</strong> on each target to the element of this attack.</p><p><strong>Curse [1]:</strong> <em>Inflict spite and perversion and make them bleed.</em> Mark 1 fighter in range 5 until the end of your next Fulmination. While marked, they suffer <strong>Eviscerate</strong> and cannot gain <strong>Boons</strong>.</p><p><strong>Clawed Witchstrike [1]:</strong> <em>With your hand in a clawed mudra, you rake at the victim of your scorn.</em> Make a Ranged Earth Faith Attack vs 1 fighter in range 5, and then slide them 2 (+ 1 per 7+).</p>",
+    "traits": "<h3>Thunderbolt Body</h3><p><em>The most common expression of Kinaadman is through sheer spiritual power. As a Makinaadmanon, your body changes in conjunction with the growing kinaadman within you. This is where the martial art Kimat Kinaadman gained its name: their bodies very often turned into burning lightning as they fought, as they cultivated their kinaadman to burning heights. They command the elements of the world as a poet commands words, with a mixture of stances and flowing body movements that replicate the characteristics of the elements they control. Sometimes they also rely on the use of palm leaf magic strips to empower their attacks.</em></p><p>At the start of your Fulmination, gain 1 Kinaadman, a mote of spiritual power. You can spend any number of Kinaadman when you make a <strong>Faith Attack</strong> to add that many dice to the Attack Teeth, or when you inflict a Bane to add that much duration to the Bane.</p><ul><li><p>At 1+ Kinaadman: your powers are bolstered. All your faith attacks inflict <strong>Slide 2</strong>.</p></li><li><p>At 2+ Kinaadman: all your Faith Attacks inflict <strong>Fray 2</strong>.</p></li><li><p>At 3+ Kinaadman: you start hovering as well, gaining <strong>Float (2</strong>).</p></li><li><p>At 4+ Kinaadman: your body becomes a Thunderbolt: all your Faith Attacks gain Overwhelming and you inflict 1 True Hit per Bane inflicted.</p></li><li><p>At 5+ Kinaadman, your body is overwhelmed, and you explode: you fall to Critical and inflict 3 True Hits on all fighters in burst 5.</p></li></ul><h3>Elemental Perfection</h3><p><em>The Makinaadmanon perfects the natural world around them, so that they can reach harmony through the violence they inflict.</em></p><p>When you make a <strong>Faith Attack</strong>, you can choose what the <strong>Element</strong> of the attack will be.</p>",
+    "weapon": "Meditations, vajras, staffs, mudras, mantras, bamboo prayer strips, burning bolts of energy",
+    "armor": "Meditational Robe, silk jackets, voluminous cloaks, flowing sarongs, gleaming paruka"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684842152566,
+    "modifiedTime": 1684846065435,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "SFBwxV27KVWzW1MC",
+  "sort": 0,
+  "_key": "!items!SFBwxV27KVWzW1MC"
+}
