@@ -1,0 +1,27 @@
+{
+  "name": "Slayer Pamaagi",
+  "type": "technique",
+  "_id": "Ev1CjWmQcUqK5LV0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Verse 49 - However, their head split into ten thousand skulls, and the Supreme Soul spoke: You have described me wrongly in your lessons, They said. I am no god. I am beyond go. You cannot describe me. In your hubris, you cannot kill me. I am beyond death. Now... achieve Hiyang.”<br>50 - This lesson cannot be written down, for it exists and does not exist all at once. I apologize on behalf of the Great Hero of Heroes, Noble Lord of Warrior-Slayers.” – Song Of Idda Mangubat</p></blockquote><p><strong>Spend 1 Beat</strong> to take on the <strong>Slayer Stance</strong> until you are forcibly moved by an enemy. While in this stance, you can move into enemy squares, but not end in them. When you move into an enemy's square that has <strong>1 HP</strong> left, immediately defeat them.</p><p><strong>Rip and Tear Stance: +1 Beat</strong> to gain <strong>+1 Speed</strong> while in the Stance.</p><p><strong>Jagganath Rouse: +1 Beat</strong> when you take this stance to make it so that when you are forcibly moved while in this stance, roll a Chance Die. On a 6+, you ignore that forced movement.</p>",
+    "discipline": "4IvnMd5v9LcDXEbn"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685010469093,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Ev1CjWmQcUqK5LV0"
+}

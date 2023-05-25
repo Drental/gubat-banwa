@@ -1,0 +1,27 @@
+{
+  "name": "Shadow Ritualist",
+  "type": "technique",
+  "_id": "nWEWB1XzlRvefaAw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Verse 22: “When Ba~Ta-La, That Supreme Soul, stepped into the world through the paradox of creation, Idda Mangubat vanished into the trees in Their path. The great universal consciousness' gaze seemed so serene that he felt themself melting into oneness just at Their gaze”. – Song of Idda Mangubat</p></blockquote><p><strong>Prereq:</strong> Owl Dance, Head Lopping Attack, Slayer Pamaagi</p><p><strong>Spend 1 Beat</strong> to rush 1 and then summon a <strong>shadow clone</strong> of yourself in the square you left, which is a <strong>Size 1 Object</strong>. When you are the target of an attack, you may swap squares with 1 Shadow Clone, teleporting, before the attack. You can only have up to 3 Shadow clones at a time. <strong>Shadow Clones</strong> are Cover Terrain.</p><p><strong>Spend 2 Beats</strong> to enact <strong>Umbral Assault:</strong> on the lines of shadowspeed and shade momentum you strike, a rippling culmination, as your shadow clones leap and strike your target: Melee Air Bravery (+1 Tooth per your Shadow Clone in the field) Attack vs an adjacent fighter. All your Shadow Clones then disappear.</p>",
+    "discipline": "4IvnMd5v9LcDXEbn"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685010884536,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!nWEWB1XzlRvefaAw"
+}

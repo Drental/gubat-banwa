@@ -1,0 +1,27 @@
+{
+  "name": "Owl Dance",
+  "type": "technique",
+  "_id": "xuNPWvWI1cnA28UB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Thread 2: Blood need not be so noisy, however.</p></blockquote><p><strong>Spend 1 Beat</strong> to gain an Owl Token. You can discard the <strong>Owl Token</strong> at any time to teleport 2.</p><p><strong>Owl Spreads Its Wings: +1 Beat</strong> to also give the Owl Token to all allies in burst 1.</p><p><strong>Owl Assassinates Night: +1 Beat</strong> to gain <strong>Stealth (2)</strong> when you discard the Owl Token.</p>",
+    "discipline": "4IvnMd5v9LcDXEbn"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685009898286,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!xuNPWvWI1cnA28UB"
+}

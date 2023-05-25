@@ -1,0 +1,27 @@
+{
+  "name": "Head Lopping Attack",
+  "type": "technique",
+  "_id": "KhBCw2j5X0RTv6Oa",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“To truly become the axe, you must be able to puncture the carapaces of all those that you wish to destroy. If you cannot, then you are ineffectual, useless.” - Si Batara Padakul, Diwata of Axes. Thread 1: Your axe will always find its mark.</p></blockquote><p><strong>Spend 1 Beat</strong> to strike down with a weapon and lop off heads: make a Melee Metal Bravery Attack vs 1 close target. If this brings them to 0 HP, inflict <strong>Daze (1)</strong> all enemies in burst 2 as your savage display sends them reeling.</p><p><strong>Present Their Head: +1 Beat</strong> to rush 3 after bringing the target to 0 HP but before inflicting the Daze.</p><p><strong>Phantom Hound: +1 Beat</strong> to mark one fighter in range 3 after making the attack. When that marked fighter moves, you may move after them, mirroring their movements.</p>",
+    "discipline": "4IvnMd5v9LcDXEbn"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685010194723,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!KhBCw2j5X0RTv6Oa"
+}

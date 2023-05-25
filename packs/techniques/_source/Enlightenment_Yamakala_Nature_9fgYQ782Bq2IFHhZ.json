@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Yamakala Nature",
+  "type": "technique",
+  "_id": "9fgYQ782Bq2IFHhZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Whenever you move through the shadows, the god of ritual killing sends merit, flashing out in shadowy arms, striking all about you.<br>One of the many Gods of Fated Death is said to be the god/goddess Yamakala Lakibayibatara (Male-Female Deity). It is said that the God of Cyclical Death, Yamadiraja, and the Goddess of Vengeance, Kalakatri, were once one being of all death.</p></blockquote><p>When you make Melee Attacks against enemies with Full HP, you may roll twice and take the better result.</p><p>When you make Melee Attacks against Staggered Enemies, once per your Fulmination, you can replace 1 Attack Tooth with a <strong>d12 Assassination Die</strong>. That die still Hits on 6+, and scores 2 Hits on 12+.</p><p>At <strong>Strike 4+</strong>, spend 2 Beats to kill all enemies who have 3 or less HP.</p>",
+    "discipline": "4IvnMd5v9LcDXEbn"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685011326997,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!9fgYQ782Bq2IFHhZ"
+}

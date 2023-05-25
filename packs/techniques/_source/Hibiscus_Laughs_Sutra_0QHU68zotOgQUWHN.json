@@ -1,0 +1,27 @@
+{
+  "name": "Hibiscus Laughs Sutra",
+  "type": "technique",
+  "_id": "0QHU68zotOgQUWHN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>One day the great Namulak, He Who Blossomed After 500 Thunderbolts, Paranirvana Royalty, the Batala-Buddha, was ruminating upon a giant hibiscus. The laughing dog warrior Shree Bangut Pangil came up to him, thinking he could take advantage of the buddha’s rumination. The Namulak spoke the mocking syllable U·Lol and split the greatest warrior to have ever lived into a thousand billion realms, and thus created the trichiliocosm.</p></blockquote><p><strong>Prereq:</strong> Ferocity Mantra</p><p><strong>Spend 2 Beats</strong> to take on the <strong>Hibiscus Laughs Stance</strong> until the end of your next Fulmination. While in this stance, all enemies in burst 2 of you suffer <strong>Dullness</strong>.</p><p><strong>Mockery of the Flowers: +1 Beat</strong> to also inflict <strong>Fray 1</strong> on every enemy that starts their Fulmination within burst 2 of you.</p><p><strong>Peaflower Meditation: +1 Beat</strong> to teleport 2 before taking on the stance.</p>",
+    "discipline": "Kfpk3SdUlwPTexYT"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685021878962,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!0QHU68zotOgQUWHN"
+}

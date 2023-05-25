@@ -1,0 +1,27 @@
+{
+  "name": "Butterfly Words Style",
+  "type": "technique",
+  "_id": "deGgBZLymqK7nSDs",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Master this utterance and command the battlefield with your words.” You utter A·Tas, warriors find themselves moving of their own accord.</p></blockquote><p><strong>Spend 1 Beat</strong> to manipulate a fighter's perceptions and movement: <strong>Slide 2</strong> a fighter in range 3.</p><p><strong>Superior Command: +1 Beat</strong> to slide two fighters in range 3 instead.</p><p><strong>Siwa Mandate: +1 Beat</strong> to Slide 4 instead.</p>",
+    "discipline": "Kfpk3SdUlwPTexYT"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685021037515,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!deGgBZLymqK7nSDs"
+}

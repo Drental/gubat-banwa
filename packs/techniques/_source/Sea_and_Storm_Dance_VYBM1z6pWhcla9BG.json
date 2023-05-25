@@ -1,0 +1,29 @@
+{
+  "name": "Sea and Storm Dance",
+  "type": "technique",
+  "_id": "VYBM1z6pWhcla9BG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Mastery Ninth: Be as water, formless but all form, thoughtless but all thought. The final conceit of the transcendental animism, this oneness with nature, this Hiyang, is to be as the bamboo, swaying in the wind, thinking not, but becoming that thing. Through thoughtlessness, become violence. This is a gentle fist, be not afraid to use it. With it, you shall toss boulders. Death crumbles all things, even mountains.</p></blockquote><p><strong>Spend 1 Beat</strong> to take on <strong>Forceful Wave Stance:</strong> All your Melee Attacks now <strong>Push 1</strong> per <strong>7+</strong> on the Attack Teeth and <strong>you can walk on water, ignoring water terrain.</strong></p><p><strong>Spend 2 Beats</strong> to take on <strong>Razing Storm Stance</strong> instead: As with Forceful Wave Stance, but you can consume the Stance when you <strong>Push</strong> a fighter, to teleport to a square adjacent to the fighter after the Push.</p>",
+    "discipline": "e8rqXR6QMPHOCjvD"
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685007599613,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!VYBM1z6pWhcla9BG"
+}

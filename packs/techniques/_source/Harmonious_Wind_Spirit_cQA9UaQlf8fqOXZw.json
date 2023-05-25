@@ -1,0 +1,27 @@
+{
+  "name": "Harmonious Wind Spirit",
+  "type": "technique",
+  "_id": "cQA9UaQlf8fqOXZw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The application of Hiyang Technique is favored by all tigpana: with an ululation, you summon a wind spirits in particular areas of the battlefield. When your arrows go through the spirits, they are infused with stronger Flow, bouncing off of them and accelerating.</p></blockquote><p><strong>Prereq:</strong> Everywhere All At Once Meditation</p><p><strong>For 1 Beat,</strong> Choose 1 square in range 3, placing Wind Spirits (Size 1/2 Summons) in them. An ally may target the wind spirit. If they do, they can change the origin point of the attack to the wind spirit, and the attack gains +1 range and +1 Attack Tooth.</p><p><strong>God Wind: +1 Beat</strong> to strengthen the Wind Spirits: any fighter of your choice that ends their turn adjacent to them suffer <strong>Push 1</strong>.</p><p><strong>Devil Hunting Wind: +1 Beat</strong> to increase the size of the spirit to <strong>Size 2</strong>.</p>",
+    "discipline": "z3tT5zcB03Q2LJ7g"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685020286729,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!cQA9UaQlf8fqOXZw"
+}

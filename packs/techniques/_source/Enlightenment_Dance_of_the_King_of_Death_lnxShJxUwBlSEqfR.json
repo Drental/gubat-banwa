@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Dance of the King of Death",
+  "type": "technique",
+  "_id": "lnxShJxUwBlSEqfR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You breathe out, and then break into the blissful dance, all to summon Sayawraja, the King of Dance, the most violent aspect of Yamadiraja: a six-armed, flaming-eyed Avatar of Violence. The Ultimate Hypocrite. They Who Will Kill Those That Threaten Ang Hiyang, Transcendent Dharmapala.<br>From your soul erupts two more sets of arms. Quoth Death: “The Four-Armed Thunderbolt Wielder is one of the primal versions of Yamadiraja. If there would be any that lights the wick of his ire, he will take upon this form to remind humans the most visceral and primordial face of death.”</p></blockquote><p>When you make a melee attack, you can choose to <strong>shed any number of Stances,</strong> dealing <strong>+1 Hit per Stance removed.</strong></p><p>At <strong>Strike 4+</strong>, spend 1 beat to summon the <strong>Death Avatar</strong>: all your melee attacks have <strong>Sharpness</strong> and have <strong>Overwhelming</strong>. When you become Critical for the first time after gaining the blissful dance, you explode in deathly energies: inflict 6 true hits upon all enemies in burst 3.</p>",
+    "discipline": "e8rqXR6QMPHOCjvD"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685009362994,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!lnxShJxUwBlSEqfR"
+}

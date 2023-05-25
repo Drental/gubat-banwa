@@ -1,0 +1,27 @@
+{
+  "name": "Future Arrow",
+  "type": "technique",
+  "_id": "9RTEcL1IrqEvmyYK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This Discipline was made by the Sikarom (bamboo longbows) wielders of Ibalnong. They stood upon bamboo watchtoweres known as bantara to be able to protect their settlements from every raid. With a meditation upon the Universal Flow, you fire an arrow meant for the future.</p></blockquote><p><strong>Spend 1 Beat</strong> to <strong>shoot an arrow into the air.</strong> At any point in the violence after your Fulmination, you can cause the arrows to fall onto any target that is within burst 5 of you, immediately inflicting <strong>1 True Hit per arrow.</strong></p><p><strong>Stillness: +1 Beat</strong> to gain <strong>Stealth (2)</strong> immediately after firing the arrows.</p>",
+    "discipline": "z3tT5zcB03Q2LJ7g"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685019213827,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!9RTEcL1IrqEvmyYK"
+}

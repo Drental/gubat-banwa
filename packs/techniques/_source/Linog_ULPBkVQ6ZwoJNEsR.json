@@ -1,0 +1,27 @@
+{
+  "name": "Linog",
+  "type": "technique",
+  "_id": "ULPBkVQ6ZwoJNEsR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Heed me, grandfather earth! Grant me thine earthquake! Linog!” The element of earth is said to be younger than his fathers, the element of wind and water, who were first in the cosmos. However, earth has always been very rebellious. The earth is associated with steadfastness, but when flipped, represents ultimate annihilation.</p></blockquote><p><strong>Prereq:</strong> Kilat</p><p><strong>Spend 1 Beat</strong> to perform <strong>Linog:</strong> launch yourself off of the earth, <strong>rush 3</strong> in a straight line, ignoring terrain, fighters, and elevation. Once you land on a square, raise 1 adjacent square to you by +1 Elevation. The square you left becomes Earth Terrain.</p><p><strong>Spend 2 Beats</strong> to perform <strong>Kusolinog:</strong> Any enemy you move over suffers <strong>1 Hit</strong> and <strong>Eviscerate (1)</strong>.</p><p><strong>Spend 3 Beats</strong> to perform <strong>Devalinog:</strong> As with Kusolinog, but once you land on a square, inflict <strong>1 Hit</strong> on each enemy adjacent.</p>",
+    "discipline": "SFBwxV27KVWzW1MC"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685014526653,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!ULPBkVQ6ZwoJNEsR"
+}

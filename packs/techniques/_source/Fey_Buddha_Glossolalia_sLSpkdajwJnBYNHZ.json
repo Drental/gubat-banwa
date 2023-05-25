@@ -1,0 +1,27 @@
+{
+  "name": "Fey Buddha Glossolalia",
+  "type": "technique",
+  "_id": "sLSpkdajwJnBYNHZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Master this utterance and know that the Absolute Reality is I, and the imperfect senses cannot comprehend perfection.” You utter Ka·Rik·Tan, and you show a warrior perfect beauty, so hard to comprehend that they are dazzled.</p></blockquote><p><strong>Prereq:</strong> Butterfly Words Style</p><p><strong>Spend 1 Beat</strong> to <strong>Daze (1)</strong> a fighter in range 3 with your words.</p><p><strong>Unfurling Lotus: +1 Beat</strong> to <strong>Daze (1)</strong> all enemies in burst 2.</p><p><strong>Hibiscus Enlightenment: +1 Beat</strong> to <strong>Stun (1)</strong> instead of Daze.</p>",
+    "discipline": "Kfpk3SdUlwPTexYT"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685021203140,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!sLSpkdajwJnBYNHZ"
+}

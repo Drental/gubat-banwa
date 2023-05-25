@@ -1,0 +1,27 @@
+{
+  "name": "Beyond Royalty Implicature",
+  "type": "technique",
+  "_id": "2jQgq3RzXdPvyQan",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Meditate on this poem, and then utter the words Kid·Lat, which is lightning. For enlightenment is like a burst of lightning. Batala in a humble warrior-king form gathered his warriors together, sitting atop a karakoa. “Gather round, o warriors, and open thine ears. I sing on the topic of Ego, and it is thus: Killing God and Becoming God are goals for the lesser-minded chained to the cycle of rebirth. Embrace Violence and find Glory beyond God.”</p></blockquote><p><strong>Prereq:</strong> Hibiscus Laughs Sutra</p><p><strong>Spend 1 Beat</strong> to dominate 1 fighter in range 3: they <strong>Inflict Violence</strong> if they can, with a target chosen by you.</p><p><strong>Headfirst Into Death: +1 Beat</strong> to let the target stride before or after Inflict Violence.</p><p><strong>Mass Domination: +1 Beat</strong> to choose any number of fighters in burst 2</p>",
+    "discipline": "Kfpk3SdUlwPTexYT"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685022834895,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!2jQgq3RzXdPvyQan"
+}

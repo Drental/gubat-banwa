@@ -1,0 +1,27 @@
+{
+  "name": "Foe Stepping Stance",
+  "type": "technique",
+  "_id": "bLWNOu2NVRrX0dgy",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Teaching twelfth: be as the wind. Be the thing that bends bamboo, the thing that becomes hurricanes, the thing that fights back waves. Be the thing that floats over it all.</p></blockquote><p><strong>Prereq:</strong> Sea and Storm Dance</p><p><strong>Spend 1 Beat</strong> to take on the <strong>Foe Stepping Stance</strong> until you suffer hits.While in this Stance,when you Rush and you end your movement in an enemy's or terrain's square, you can rush 2 more, and keep bouncing off of enemy's though you can only bounce off each enemy and terrain once. Vertical terrain counts (ie. Higher terrain).</p><p><strong>Eagle Stepping Style: +1 Beat</strong> to make it so that every fighter you bounce off of suffers 1 Hit.</p><p><strong>Dragon Road: +1 Beat</strong> to make it so that this works with Strides as well, not just Rush.</p>",
+    "discipline": "e8rqXR6QMPHOCjvD"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685008461160,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!bLWNOu2NVRrX0dgy"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Heaven To Earth Vajra",
+  "type": "technique",
+  "_id": "fJ1fz3coFsmSuFHg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Jamiyun Kulisa, offer me your thunderbolt. Habagat and Amihan, offer me your winds! Si Ginarugan, let the almighty Earthquake shake the foundations of this atrocious field, and Indira Suga grant me the authority to bring godly indignation! Sakuna!” You raise your hand and thunderclouds gather. You incant, writhing, spiking utterations and ululations. When heaven has had enough of your blasphemy, the holy powers of heaven send a fulminating lightning bolt to the earth, embodying all seven natural elements.</p></blockquote><p><strong>Concordance:</strong> At the start of your Fulmination, choose an <strong>Element you are Aligned to</strong>. All your attacks with that Element gain <strong>+1 Tooth</strong>, but you suffer <strong>+1 Hit</strong> from all attacks from that Element as well. All enemies marked by you also suffer <strong>Vulnerability</strong> to your Aligned Element.</p><p>At <strong>Strike 4+</strong>, for 3 Beats, you may summon the burning thunderbolt into the earth: inflict <strong>5 True Hits</strong> to every fighter beyond burst 2 (everywhere within burst 2 of you is safe). Then suffer 1 True Hit, and you also suffer a <strong>Wound Consequence</strong> after Violence.</p><p>If narratively appropriate, become <strong>Defeated</strong> to enact <strong>Sakuna:</strong> Inflict <strong>10 True Hits</strong> on all enemies in the battlefield, but then you die, annihilated by the strength of your own thunderbolt.</p>",
+    "discipline": "SFBwxV27KVWzW1MC"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685014821451,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!fJ1fz3coFsmSuFHg"
+}

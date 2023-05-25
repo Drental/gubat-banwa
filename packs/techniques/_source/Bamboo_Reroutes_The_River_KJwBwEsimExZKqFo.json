@@ -1,0 +1,27 @@
+{
+  "name": "Bamboo Reroutes The River",
+  "type": "technique",
+  "_id": "KJwBwEsimExZKqFo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The tigpana's reaction time is feared across the isles. Nothing matches them. In truth, this is the first lesson of the Tigpana: to catch an arrow from mid-air. The second lesson is this: throw the arrow back. Sri Taka is a legendary folk hero among Apumbukid, a Hinapanun noble who fought against a Virbanwan iron foundry village that seeked to kill the diwata of the forest Ibusi, Apu Ibusi.</p></blockquote><p><strong>Prereq:</strong> Wind Breathing Style</p><p><strong>Spend 1 Beat</strong> to ready yourself, taking on the <strong>Si Taka Catches Arrows Stance</strong> until you are forcibly moved. While in this stance, when you are the target of a ranged attack, roll a Chance Die. On a 4+, redirect the attack against any other fighter within range 4 or back at the attacker. Then Rush 2 after the attack.</p><p><strong>Pillars of Heaven: +1 Beat</strong> to immediately rush 3 and gain <strong>POS Up</strong> while in the Stance.</p><p><strong>Twin Naga: +1 Beat</strong> to ready yourself: at any point during your Fulmination, consume the Stance for 1 Beat to <strong>inflict violence twice</strong> without <strong>Combo Breaker</strong>.</p>",
+    "discipline": "z3tT5zcB03Q2LJ7g"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685019690197,
+    "modifiedTime": 1685023462839,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!KJwBwEsimExZKqFo"
+}

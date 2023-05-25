@@ -1,0 +1,27 @@
+{
+  "name": "Siga",
+  "type": "technique",
+  "_id": "pgjyfzRlX4Vw4xo4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Heaven crumbles and the seas boil! With nothing but my name writ across the stars... Siga!” A popular mudra amongst Makinaadmanon that truly encapsulates their position as magickal artillery. This spell was perfected by Makinaadmanon warriors that needed to sneak through ancient temples guarded by Akai invaders.</p></blockquote><p><strong>Spend 1 Beat</strong> to perform Siga: make a Ranged Fire Faith Attack vs 1 fighter in range 5, then inflict <strong>Fray 1</strong>.</p><p><strong>Spend 2 Beats</strong> to perform <strong>Kusiga:</strong> Change the attack to <strong>Area Fire Faith Attack vs range 4 burst 1.</strong></p><p><strong>Spend 3 Beats</strong> to perform <strong>Devasiga.</strong> As with Kusiga but with the following effect: all squares in the burst become <strong>Fire Terrain</strong>.</p>",
+    "discipline": "SFBwxV27KVWzW1MC"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685011590405,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!pgjyfzRlX4Vw4xo4"
+}

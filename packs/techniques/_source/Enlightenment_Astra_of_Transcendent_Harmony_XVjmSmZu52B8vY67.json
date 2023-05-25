@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Astra of Transcendent Harmony",
+  "type": "technique",
+  "_id": "XVjmSmZu52B8vY67",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You breathe out, and your breathe sparks with the rising drums of thunder. None can keep you down. Your aim is steady. In the gentleness arises the greatest of violences. This is the Rusakpana: the Bow of Annihiliation. Rusak weapons are weapons made of pure annihilating god-essence, the weapons of the gods and those that invoke them.</p></blockquote><p>Whenever a fighter in range 5 of you suffers an attack, inflict 1 Hit immediately, 1/Fulmination.</p><p>At <strong>Strike 4+</strong>, spend 1 Beat and choose any target in the battlefield. Roll your <strong>Bravery+Faith</strong> against them, each hit being a true hit. If they are still in play, they suffer <strong>Stun (1)</strong>.</p>",
+    "discipline": "z3tT5zcB03Q2LJ7g"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685020753412,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!XVjmSmZu52B8vY67"
+}

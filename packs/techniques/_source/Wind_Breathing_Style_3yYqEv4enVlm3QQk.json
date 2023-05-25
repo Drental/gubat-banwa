@@ -1,0 +1,27 @@
+{
+  "name": "Wind Breathing Style",
+  "type": "technique",
+  "_id": "3yYqEv4enVlm3QQk",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This concoction, known sometimes as the Hiyang Rasa (The Essence of Harmony), once crafted by baylan of Tigpana, has now become a common concoction taught to all beginner Tigpana. Made of fire, crocodile tears, hibiscus petals, and cinnamon bark, the concoction helps you align with the Flow. Once aligned with the Flow, you can use it to block off other’s connection with the world.</p></blockquote><p><strong>Prereq:</strong> Future Arrow</p><p><strong>Spend 1 Beat</strong> to imbibe Zephyr Essence: <strong>rush 2</strong>, ignoring <strong>elevation</strong>. The first square you left becomes <strong>Air Terrain</strong> until the end of your next Fulmination.</p><p><strong>Dragon Shoot: +1 Beat</strong> to fire a wind-infused arrow after rushing: Area Air Bravery Attack vs all chosen targets in path 6.</p><p><strong>Slicing Wind Form: +1 Beat</strong> to rush 6 in a straight line instead.</p>",
+    "discipline": "z3tT5zcB03Q2LJ7g"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685019461136,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!3yYqEv4enVlm3QQk"
+}

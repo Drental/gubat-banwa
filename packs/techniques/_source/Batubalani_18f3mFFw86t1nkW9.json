@@ -1,0 +1,27 @@
+{
+  "name": "Batubalani",
+  "type": "technique",
+  "_id": "18f3mFFw86t1nkW9",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Mentala are magical formulations that are usually read from the bamboo strip, but a very quick way of implementing them is by imbuing them upon something, and letting their effect trigger by dint of your Kinaadman.<br>\"Whisper, bleed and burst forth! The overwhelming oppressive force of the gods of the soil herald thee! Batubalani!\" You throw out a mentala that rends into pieces at it hits the ground, creating a magnetic field. Batubalani means magnetic rock. The concept of rocks having its own force of attraction is ubiquitous across the isles, and it is said that this is the reason why people are drawn to the earth: the earth gods have an innate spiritual attraction that brings all mortals down.</p></blockquote><p><strong>Prereq:</strong> Baha</p><p><strong>Spend 1 Beat</strong> to perform <strong>Batubalani:</strong> choose 1 square in range 5. All chosen targets in burst 2 of that square are <strong>Pulled 1</strong> toward that square. Any targets with Float or Fly lose this until the end of their next Fulmination.</p><p><strong>Spend 2 Beats</strong> to perform <strong>Kusobatubalani:</strong> pull 2 squares instead and inflict <strong>Unbalance (2)</strong>.</p><p><strong>Spend 3 Beats</strong> to perform <strong>Devabatubalani:</strong> As with Kusobatubalani, but every square in the burst becomes <strong>Air Terrain</strong> until the end of your next Fulmination.</p>",
+    "discipline": "SFBwxV27KVWzW1MC"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685012702499,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!18f3mFFw86t1nkW9"
+}
