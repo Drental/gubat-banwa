@@ -1,0 +1,27 @@
+{
+  "name": "Sinful Blade",
+  "type": "technique",
+  "_id": "PWNCuORrxdrvqaUB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>\"You must remember the pain of this, of trying to discover who you are. For now, keep quiet, fester in your trauma.\"<br>\"Sister, is this healthy?\"<br>\"Healthy? God no. But you are not here to be healthy. You are here to love yourself.\"</p></blockquote><p><strong>Spend 1 Beat</strong> to strike with the darkness of passion: Melee Earth Faith Attack vs an adjacent fighter, inflicting <strong>Provoke (1 +1 per 6+ on the Attack Teeth)</strong>.</p><p><strong>Antirepentance: +1 Beat</strong> to inflict <strong>SPD Down (1)</strong> on the target.</p><p><strong>Perversion: +1 Beat</strong> to also inflict <strong>BRV Down (1)</strong> on the target.</p>",
+    "discipline": "VZE3c1GeXvq2Q0xj"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685137677416,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!PWNCuORrxdrvqaUB"
+}

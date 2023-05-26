@@ -1,0 +1,27 @@
+{
+  "name": "Hito Mentala",
+  "type": "technique",
+  "_id": "tQjndSd7y7tHntCZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This technique was taught to Bladeweaver Master Sakamada, who earned it after beating a firebreathing naga that lived in the heart of a volcano to submission, and gained its respect. Of course, he was only able to do this after he gained the blessing of an ancient catfish master in the rivers of his hometown, who taught ancient techniques of the Bladeweaver.</p></blockquote><p><strong>Prereq:</strong> Firebird Mentala</p><p><strong>Spend 1 Beat</strong> to grant self or a fighter in range <strong>3 RES Up (2)</strong> and <strong>immunity to Fray (1)</strong>.</p><p><strong>Spend 2 Beats</strong> to grant yourself and every fighter in burst 3 <strong>POS Up (2)</strong> and <strong>RES Up (2)</strong>, and <strong>immunity to Fray (1)</strong>.</p><p><strong>Spend 3 Beats</strong> to grant every ally in the battlefield, including yourself, <strong>immunity to Fray (1)</strong>, <strong>POS Up (2)</strong> and <strong>RES Up (2)</strong>.</p>",
+    "discipline": "LhM37wrgylaO1paB"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685136251701,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!tQjndSd7y7tHntCZ"
+}

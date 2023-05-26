@@ -1,0 +1,27 @@
+{
+  "name": "Blade Chief Command",
+  "type": "technique",
+  "_id": "vOAgt6xAxBhqPmuw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Rajraya Pintas' greatest student, Ilakat Salandra, was said to have perfected what the Rajaraya could not in the beginning: she perfected the form of being one with your warband, coordination and cooperation with one another. They moved as one, and she became the warband's burning spirit, one with Nihawa.</p></blockquote><p><strong>Spend 1 Beat</strong> to give <strong>BRV Up (2)</strong> to yourself or a single ally in range 3.</p><p><strong>Spend 2 Beats</strong> to give <strong>BRV Up (2)</strong> to yourself and all allies in burst 3.</p><p><strong>Spend 3 Beats</strong> to give yourself and all allies in the battlefield <strong>+1 to BRV</strong> until the end of Violence.</p>",
+    "discipline": "Ua3X3o73UjtDHMet"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685139160588,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!vOAgt6xAxBhqPmuw"
+}

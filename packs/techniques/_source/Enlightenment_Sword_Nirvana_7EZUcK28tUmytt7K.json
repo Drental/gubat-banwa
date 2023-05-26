@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Sword Nirvana",
+  "type": "technique",
+  "_id": "7EZUcK28tUmytt7K",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>There is a secret importance to the Sword dichotomy of the intense study of the blade (to the detriment of everything else). The Bladesong once sang of the Great Unity which contained Dichotomy: unity is thus balance, and balance is achieved with two things against each other. Cause-Effect is a single thing that is not separate from each other: therefore they are not two different things but rather two parts of the same whole. This is exemplified in the beginning of time, where all of existence was nothing but Sky and Sea, both devoid of color or light, an endless undulation, a chaotic dialogue of winds and waves. The Sky and Sea was not separate but part of the same whole, that is the Chaos, the First Cause- Effect. Thus is the importance of learning the Cutting Art of the Sword: the Sword exemplifies that anything that is 2 was once 1, simply cut in twain.</p></blockquote><p>When you make an attack against a target, give them a <strong>Cut</strong>. <strong>When a target reaches 3 Cuts, they discard all cuts and suffer 1 True Hit</strong></p><p><strong>Spend 3 Beats to revel in the blade:</strong> halve the hp of all fighters in the field that have cuts, minimum 1. afterwards, you achieve <strong>Sword Nirvana:</strong> any fighter that moves into a square adjacent to you suffers <strong>1 True Hit</strong>.</p>",
+    "discipline": "6sHfpo6ZH2KCQnbV"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685143281060,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!7EZUcK28tUmytt7K"
+}

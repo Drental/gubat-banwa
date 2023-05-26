@@ -1,0 +1,27 @@
+{
+  "name": "Flying Blade Mentala",
+  "type": "technique",
+  "_id": "BnzqvNgIZdEG5LiQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You bow low and release your blade. It flies, turning the battlefield into its play space. To Guro Sajawadu, this is the ultimate learning of this style. The battlefield becomes one space.</p></blockquote><p><strong>Prereq:</strong> Musang Talon Mentala</p><p><strong>Spend 1 Beat</strong> strike with a flying blade: make a <strong>Melee Air Bravery Attack</strong> vs <strong>1 adjacent fighter</strong>, then, <strong>put down</strong> a <strong>Flying Sword (Size 1/2 object)</strong> <strong>adjacent to you</strong>. You can only have up to 2 Flying Swords at a time. All allies adjacent to Flying Swords gain <strong>+1 Attack Tooth</strong> on melee attacks.</p><p><strong>Peerless Blade Dance: +1 Beat</strong> to make a <strong>Bravery + Faith Attack</strong> instead.</p><p><strong>Sword Sattva: +1 Beat</strong> to put down a <strong>Flying Sword</strong> in range 4 instead.</p>",
+    "discipline": "LhM37wrgylaO1paB"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685136851691,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!BnzqvNgIZdEG5LiQ"
+}

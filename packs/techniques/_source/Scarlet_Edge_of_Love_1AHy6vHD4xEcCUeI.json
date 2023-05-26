@@ -1,0 +1,27 @@
+{
+  "name": "Scarlet Edge of Love",
+  "type": "technique",
+  "_id": "1AHy6vHD4xEcCUeI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Perfect your passion and let it cool. Others might let their passion flare and burn and it will peter out, as all fires do. You? You have tempered it, forged it into steel. This is a technique perfected by Saint Sagrado, who traveled the island chain known as Jamiyun Kulisa's arrows to learn from the sorcerers of Batu Perairan. He was killed for his heresy, and in his divine suicide he destroyed a cathedral in both a final act of atonement and to spite the Church, which had become nothing more but power-hungry capitalists who cling to the destructive teachings of the Pale Kings. His shade still wanders Virbanwa's countryside.</p></blockquote><p><strong>Prereq:</strong> Sinful Blade</p><p><strong>Spend 1 Beat</strong> to summon the <strong>Scarlet Blade:</strong> Ranged Earth Faith Attack vs 1 fighter in range 3, then <strong>Pull 1</strong> (+1 per 7+ on the Attack Teeth).</p><p><strong>Enforce Penitence: +1 Beat</strong> change the attack into: Area Earth Faith Attack vs all enemies in burst 2.</p><p><strong>Atonement Ritual: +1 Beat</strong> gain <strong>POS Up (2)</strong> after the attack.</p>",
+    "discipline": "VZE3c1GeXvq2Q0xj"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685138018727,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!1AHy6vHD4xEcCUeI"
+}

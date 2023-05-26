@@ -1,0 +1,27 @@
+{
+  "name": "Sword Judas | Blade of Self Acceptance",
+  "type": "technique",
+  "_id": "EVX7HbcSyRzxnvDd",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Preach the Blade Gospel: be as a sword, indiscriminate and betraying. To become a sword you must first betray yourself. The perfection of this technique is a recalling of its past version in the Bladesong: becoming the Sword is to realize one's self, the perfection of mindfulness within one's place in nature.</p></blockquote><p><strong>Prereq:</strong> Blade of Makaubos | Lawana Shrikes</p><p><strong>Spend 1 Beat</strong> to gain the <strong>Sword Judas Token</strong>, of which you can only have 1 of at a time. When you are the target of a <strong>Melee or Ranged Attack</strong>, you may discard the Token to immediately cancel that attack against you, and then inflict <strong>Unbalance (2)</strong> at the attacker.</p><p><strong>Sword Provocation: +1 Beat</strong> to also gain a <strong>Burst 2</strong> aura that moves with you. All enemies in the burst gain <strong>Provoke</strong> to you. Discarding the token removes the aura.</p><p><strong>Betrayal: +1 Beat</strong> to also <strong>teleport 2</strong> both you and the attacker after discarding the Token.</p>",
+    "discipline": "6sHfpo6ZH2KCQnbV"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685142015009,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!EVX7HbcSyRzxnvDd"
+}

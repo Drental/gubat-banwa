@@ -1,0 +1,27 @@
+{
+  "name": "Laksaman Whetstone",
+  "type": "technique",
+  "_id": "K7MZF563LCAoLPr8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Like Laksaman, the Monkey Warlord General, you lead others to victory, even against those unkillable. Bring to bear the great commander of our times, Laksaman, who led monkey kings to create bridges, and sailed the thunders to reach heaven.</p></blockquote><p><strong>Prereq:</strong> Lightning Lord Style</p><p><strong>Spend 1 Beat</strong> to take on the <strong>Laksaman Stance</strong> until the end of your next Fulmination. Whenever you suffer an attack while in this stance, any 1 or 2 allies that you can see may <strong>rush 2</strong>. When a fighter makes an attack against you while adjacent to you, consume this stance to <strong>Push 3</strong> the attacker, and then rush into any square they vacated.</p><p><strong>Lawana Slaying Whetstone: +1 Beat</strong> to give all allies adjacent to you <strong>Sharpness</strong> on their next attack when you first take on this stance.</p>",
+    "discipline": "Ua3X3o73UjtDHMet"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685140011919,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!K7MZF563LCAoLPr8"
+}

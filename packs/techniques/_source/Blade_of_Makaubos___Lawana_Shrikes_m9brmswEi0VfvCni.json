@@ -1,0 +1,27 @@
+{
+  "name": "Blade of Makaubos | Lawana Shrikes",
+  "type": "technique",
+  "_id": "m9brmswEi0VfvCni",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>All at once a prayer and a spell. With an intercession to Gattalim, Pintakasi (Patron Saint Intercessor) of Blades, Makaubos allows his blades to circle around the target of your scorn, ready to bring them down.</p></blockquote><p><strong>Spend 1 Beat</strong> to gain a <strong>Summoned Sword</strong>. While you have <strong>Summoned Swords</strong>, all ranged attacks against you have <strong>Dullness</strong>. When a fighter in range 3 suffers an attack, consume 1 Summoned Sword to add +1 Tooth to that attack.</p><p><strong>Sword Hurricane: +1 Beat</strong> to instead inflict <strong>1 Hit</strong> on all enemies in burst 1, and then gain a <strong>Summoned Sword</strong>.</p><p><strong>Sword Flurry: +1 Beat</strong> to gain 1 Summoned Sword and then fire any number of <strong>Summoned Swords</strong> at any fighter, object, or terrain in range 4, inflicting 1 Hit on them and then teleporting to a square adjacent to any chosen target.</p>",
+    "discipline": "6sHfpo6ZH2KCQnbV"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685141472112,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!m9brmswEi0VfvCni"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Shotgun Psalm",
+  "type": "technique",
+  "_id": "h0d7rGBC4lTIF7p1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Quoth Mangkukulam: “My Gun shall go against the Almighty. With this bullet, I shall spit in the face of God. Let Him face the force of the shooting star. I am Mangkukulam, and my flame shall never die. Not even God can extinguish my fire with His drool.” Send a barrage across the entire battlefield, as if you summon bullets and arrows from the gods. You impart the divine grace of your diwata upon the battlefield. 777 arms carry 777 guns about you.</p></blockquote><p><strong>Prereq:</strong> Crimson Steel Rain</p><p><strong>Spend 1 Beat</strong> to fire a psalm: Ranged Air Faith Attack vs 1 fighter in range 4, then inflict <strong>Fire Vulnerability (2)</strong>.</p><p><strong>Scarlet Mission: +1 Beat</strong> to change the attack to: Area Fire Faith Attack vs all fighters in <strong>Path 6</strong>.</p><p><strong>Fires of Mangkukulam: +1 Beat</strong> to turn the squares of the targets into <strong>Fire Terrain</strong>.</p>",
+    "discipline": "Bd3zoOLRYX0RNwLS"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685135740231,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!h0d7rGBC4lTIF7p1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lightning Lord Style",
+  "type": "technique",
+  "_id": "93F46wrKqZWh5Mp4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>After Rajaraya Pintas learned what he never could grasp from his student, he began asking Ilakat Salandra to teach what she had learned to the rest of the world, and so she did. She taught cooperation, diplomacy, a continued and cooperative violence that can be the only road to true peace. Not peace in word only, not peace for one or for some, but rather, a peace for all. “To achieve true peace, one must give up one’s self in some aspects. There is enough for us in this world.”</p></blockquote><p><strong>Prereq:</strong> Blade Chief Command</p><p><strong>Spend 1 Beat</strong> to make <strong>1 ally in range 3 rush 2</strong>.</p><p><strong>Spend 2 Beats</strong> to make yourself and 1 ally in range 3 <strong>rush 4</strong>.You and the ally can move through enemies. If you and the chosen ally move through the same enemy, inflict <strong>1 True Hit</strong> and <strong>Unbalance (1)</strong> on that enemy.</p>",
+    "discipline": "Ua3X3o73UjtDHMet"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685139724599,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!93F46wrKqZWh5Mp4"
+}

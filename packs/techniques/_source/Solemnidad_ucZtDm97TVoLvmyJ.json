@@ -1,0 +1,27 @@
+{
+  "name": "Solemnidad",
+  "type": "technique",
+  "_id": "ucZtDm97TVoLvmyJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Mahadiwa Kalakatri Duumanun has never been one for atonement. Only when framed by the Ashen Star religion does she understand. In Virbanwa, Mahadiwa Kalakatri Duumanun is known as Saint Qali, Patron of Vengeance. She doesn't like it herself. Who are they to name her differently? She cares not, of course. She knows her name, what mortals call her does not change her nature. Thus is the truth of nature.</p></blockquote><p><strong>Prereq:</strong> Sibat Caligo</p><p><strong>Spend 1 Beat</strong> to take on the <strong>Solemnidad Stance</strong> until the end of your next Fulmination. While in this Stance, you have <strong>Stability</strong>. When you are attacked, inflict <strong>1 Hit</strong> back at the attacker.</p><p><strong>Inflict Solmenity: +1 Beat</strong> to inflict <strong>FTH Down (2)</strong> on all enemies in burst 2 when taking on the stance.</p><p><strong>Redeemed Demon: +1 Beat</strong> to gain <strong>Float</strong> while in the Stance.</p>",
+    "discipline": "VZE3c1GeXvq2Q0xj"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685138455345,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!ucZtDm97TVoLvmyJ"
+}

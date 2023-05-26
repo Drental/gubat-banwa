@@ -1,0 +1,27 @@
+{
+  "name": "Passionflower Dance | Violent Bodhisattva Realm",
+  "type": "technique",
+  "_id": "3akKCHpWHQss6ANl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Sword is in a perpetual killing motion, is it not? This is the teaching of the Sword Saints. Of course, as with all things, this is a Corruption. In the Blade Song, from which it was bisected into the two kinds of Sword Saints, the teaching was of the perpetual cutting motion, in the sense that one must always be moving forward, changing things, not just others, but one's self. The Passionflower Dance is one of the only techniques created by a master from Ba-e, whose name was Passiflora in Virbanwa. He was executed for heresy, but his legacy lives on.</p></blockquote><p><strong>Prereq:</strong> Sword Judas | Blade of Self-Acceptance</p><p><strong>Spend 1 Beat</strong> to unsheathe your blade and materialize slashes: make a <strong>Ranged Air Faith Attack</strong> vs 1 enemy in range 4, then inflict 1 Hit on up to 3 enemies adjacent to thet arget.</p><p><strong>Sword Buddhakshetra: +1 Beat</strong> to change the attack to Area Air Faith Attack vs all enemies in blast 3, but you lose the base additional effect.</p><p><strong>Cutting Purelands: +1 Beat</strong> to put down a <strong>Slashing Field</strong> where on the target’s square. All fighters that end their Fulmination in the Slashing Field suffer 1 Hit.</p>",
+    "discipline": "6sHfpo6ZH2KCQnbV"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685142375491,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!3akKCHpWHQss6ANl"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Surat Wanang",
+  "type": "technique",
+  "_id": "Lm0FbG3McMNPlGzu",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You summon lightning from your blade to rend space itself, creating portals. Developed by elite Bladeweavers who went to fight in the Thundering Elephant War in the Southeastern Continent, who incorporated Continental Sorcery and Spirituality.</p></blockquote><p><strong>Prereq:</strong> Flying Blade Mentala</p><p><strong>Spend 2 Beats:</strong> Choose 2 squares within burst 5 of you. Rips emerge from the chosen squares. These can even be placed underneath fighters or objects to immediately teleport them.The rips last for the entire Violence, though new rips replace old ones.</p><p><strong>Rip: Terrain. When</strong> moved into, immediately teleport into an adjacent square on the other rip.</p>",
+    "discipline": "LhM37wrgylaO1paB"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685137242424,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Lm0FbG3McMNPlGzu"
+}

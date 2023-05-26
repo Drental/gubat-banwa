@@ -1,0 +1,27 @@
+{
+  "name": "Blackened God Body",
+  "type": "technique",
+  "_id": "HtE7fvN8uvETTzhZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Saint Qali is based on an ancient Issohappan wariorress who offered her life in exchange for her queen's freedom. She was the last bulwark against the encroaching invasion of Issohappa. She became beatified for dying for her queen to appease the warriors of her kingdom, and due to her bloodthirst against the Pale Kings, became the Patron Saint of Murderers and Penitents. When the Pale Kings went through the northern central region of Rusunuga they did the same with the faithfuls of Kalakatri, who wielded giant kalises that could bleed even rocks. Kalakatri's imagery was subsumed with Saint Qali, including her night skin, her triad eyes, and her four arms wielding blades.</p></blockquote><p><strong>Prereq:</strong> Solemnidad</p><p><strong>Spend 2 Beats</strong> to sheathe yourself in the <strong>Black God Armor:</strong> Until the start of your next fulmination, you ignore all difficult terrain and all non-attack Hits, even True Hits. However, all fighters in burst 2 of you become <strong>Provoked</strong> by you.</p><p><strong>Salt The Earth: +1 Beat</strong> to put down a <strong>Burst 1 Salted Earth Field centered on your square.</strong> All enemies that start their Fulmination in the Field suffer 1 Hit, and <strong>Pull 1</strong> to you.</p>",
+    "discipline": "VZE3c1GeXvq2Q0xj"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685138625983,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!HtE7fvN8uvETTzhZ"
+}
