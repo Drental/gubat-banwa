@@ -1,0 +1,27 @@
+{
+  "name": "Litany of The Porcelain Lady",
+  "type": "technique",
+  "_id": "A3TTXpgOyTkRxfsR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This is a song that sings of Bayi Makadiyah, Porcelain Lady of Mournful Miracles, a healer-witch who was also the incarnation of Mother Madiyah, the Virgin Bearer of the One Destined to Die, Maiden of the Valley of Tears. Madiyah is a goddess brought from the bloody faith of Issohappa and indigenized across the islands where the Sanguine Missionaries reached. As an avatar of Mother Madiyah, she was revered by her settlement, and she could summon rains during dry spells, and kill with just a word. She was eventually killed by a jealous datu, but her death curse was that his name would never be remembered. Bayi Makadiyah is now revered as a god, and has a number of cults about the Sword Isles dedicated to her. Her idol is usually a weeping woman (her face is never shown) made of porcelain or earthenware, never earth. Her icon is very frequently an enclosed square with a triangle within.</p></blockquote><p><strong>Prereq:</strong> Paean to the Unexalted</p><p><strong>For 1 Beat,</strong> choose self or1 Fighter in range 4 and give them <strong>Block 2</strong> and <strong>Stability (2)</strong>.</p><p><strong>For 2 Beats:</strong> Give all allies in burst 2, including yourself, <strong>Block 2</strong> and <strong>Stability (2)</strong>.</p><p><strong>Antifragility: +1 Beat</strong> to also grant the chosen targets an <strong>Antifragile Token</strong>. When you suffering a Melee or Ranged Attack, may discard the Antifragile Token to immediately Inflict Violence against the attacker.</p>",
+    "discipline": "n5pPpsV1jpAaW0zE"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685058293868,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!A3TTXpgOyTkRxfsR"
+}

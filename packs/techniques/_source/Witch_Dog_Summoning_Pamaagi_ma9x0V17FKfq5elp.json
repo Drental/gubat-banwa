@@ -1,0 +1,27 @@
+{
+  "name": "Witch Dog Summoning Pamaagi",
+  "type": "technique",
+  "_id": "ma9x0V17FKfq5elp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Witch dogs are diwata that guard the forests. The fabled witch dogs or asonanggubat (forest dog) are some of the most vicious dogs, that only the most skilled of hunters can summon. These black-mouthed, large and wide-shouldered dogs have severely sharp claws that regularly shed, making it so that their claws are always sharp.</p></blockquote><p><strong>Prereq:</strong> Pit Trap Technique, Gilded Hound Nails</p><p><strong>Spend 1 Beat</strong> to summon a <strong>Size 1 Witch Dog</strong> in a square adjacent to you, which shares your <strong>Martial Abilities</strong>. At the start of your Fulmination, the Witch Dog may rush 3. All enemies adjacent to the Witch Dog cannot make attacks that do not include the Witch Dog as a target.</p>",
+    "discipline": "6MkcKsvxDnyw8JNQ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685049195345,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!ma9x0V17FKfq5elp"
+}

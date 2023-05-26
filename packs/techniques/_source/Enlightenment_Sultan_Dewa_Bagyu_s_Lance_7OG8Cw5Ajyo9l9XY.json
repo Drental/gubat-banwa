@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Sultan Dewa Bagyu's Lance",
+  "type": "technique",
+  "_id": "7OG8Cw5Ajyo9l9XY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Sultan Dewa Bagyu is the ancient god of monsoon season storms, the most powerful of all the storms. He is very frequently said to be an aspect of Jamiyun Kulisa, and is the grandfather of the four monsoon winds. Ancient stories quote that Shah Vayu believed himself to be his incarnation, and was his key to becoming an ancient God King of his now crumbling kingdom in the Fourth Heaven. Sultan Dewa Bagyu can control all the winds of the Monsoons to change the entire world.</p></blockquote><p>Your allies can now use you as Blocking Terrain against ranged attacks and area attacks.</p><p>At <strong>Strike 3+</strong>, for 1 Beat, fly into the sky, removing yourself from the battlefield. At the start of your next Fulmination, choose a burst 1 area and plummet into the middle of the burst, then deal Bravery+Faith against all fighters within. All enemies in the burst gain <strong>Juggle (3)</strong>, and you become <strong>Flying</strong> for the rest of violence.</p><p>Afterwards, change the weather into the Consummate Storm. Within the Consummate Storm, all non-attack hits are canceled and all air attacks have <strong>Overwhelming</strong>. All allies have cover against all attacks of all fighters, and all opponents suffer <strong>Daze</strong>.</p>",
+    "discipline": "qPTH32ZzDaLuCFyt"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685053853622,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!7OG8Cw5Ajyo9l9XY"
+}

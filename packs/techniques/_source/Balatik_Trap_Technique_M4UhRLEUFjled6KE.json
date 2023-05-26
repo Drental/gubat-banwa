@@ -1,0 +1,29 @@
+{
+  "name": "Balatik Trap Technique",
+  "type": "technique",
+  "_id": "M4UhRLEUFjled6KE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Balatik are the most well known contraption and trap of hunters in The Sword Isles: they are small bamboo ballistas and arbalests that, when triggered, skewers the unsuspecting prey with a long bamboo spike. It turns out that this is just as effective for humans as it is for wild boar and deer.</p></blockquote><p>You begin Violence with <strong>3 Balatik Traps</strong>.</p><p><strong>Spend 1 Beat:</strong> consume and activate a balatik trap: choose a square in range 5 as the origin point for a <strong>Line 6</strong>. All enemies in the line suffer <strong>1 True Hit</strong>, <strong>SPD Down (2)</strong>, <strong>Bleed (2)</strong>.</p>",
+    "discipline": "6MkcKsvxDnyw8JNQ"
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685047669020,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!M4UhRLEUFjled6KE"
+}

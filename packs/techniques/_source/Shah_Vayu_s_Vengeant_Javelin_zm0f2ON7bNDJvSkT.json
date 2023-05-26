@@ -1,0 +1,27 @@
+{
+  "name": "Shah Vayu’s Vengeant Javelin",
+  "type": "technique",
+  "_id": "zm0f2ON7bNDJvSkT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Sarimanok are also the loyal steeds of Shah Vayu, known also as the Storm Prince, who ruled an ancient empire of floating isles to the east of the Footsteps of the Gods. It was destroyed when Jamiyun Kulisa released his arrows to kill the great Fen Ying, God of Heaven Mountain in the continent that is now known as Baik Hu. As apology, Shah Vayu’s kingdom was turned into an eternal city in the fourth heaven. He is seeking revenge now, however. In his ambition, he seeks to take Jamiyun Kulisa’s Thunderbolt for himself and become the new God of Thunder and Lightning.</p></blockquote><p><strong>Prereq:</strong> Kartike’s Arrow</p><p><strong>Spend 1 Beat</strong> to choose 1 square in range 4, sending a fulminating rainbow lightning spear at it. The lightning spear explodes, creating a Burst 1 <strong>Lightning Field</strong> from the chosen square. Any enemy within the field is considered <strong>Vulnerable to Metal and Air</strong>.</p><p><strong>Fen Ying’s Demise: +1 Beat</strong> to <strong>Daze (1)</strong> all enemies in the burst when the Field is created. </p><p><strong>Dyavu Pitara Field: +1 Beat</strong> to upgrade the Field to <strong>Shah Vayu’s Monstance:</strong> all enemies in the field are <strong>Vulnerable</strong> to all elements and any enemy that ends their Fulmination within must roll a Chance Die. On a 7+, they end their Fulmination and then gain <strong>Juggle (1)</strong>.</p>",
+    "discipline": "qPTH32ZzDaLuCFyt"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685053602232,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!zm0f2ON7bNDJvSkT"
+}

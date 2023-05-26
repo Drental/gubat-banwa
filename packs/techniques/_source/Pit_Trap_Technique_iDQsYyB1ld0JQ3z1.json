@@ -1,0 +1,27 @@
+{
+  "name": "Pit Trap Technique",
+  "type": "technique",
+  "_id": "iDQsYyB1ld0JQ3z1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Perfect for heavier creatures. This is a shallow pit that has multiple bamboo spikes with firehardened tips at the bottom. Learning to create and use this trap effectively necessitates harmony with the land.</p></blockquote><p><strong>Prereq:</strong> Balatik Trap</p><p>You begin Violence with <strong>3 Pit Traps</strong>.</p><p><strong>Spend 1 Beat:</strong> consume and activate a Pit trap: choose a square in range 5 as the origin point for a burst 1. The Burst 1 falls down -1 Elevation, and all enemies within suffer Unbalance (1) and Stun (1). Cannot bring an Elevation below -2 in this way.</p>",
+    "discipline": "6MkcKsvxDnyw8JNQ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685048308466,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!iDQsYyB1ld0JQ3z1"
+}

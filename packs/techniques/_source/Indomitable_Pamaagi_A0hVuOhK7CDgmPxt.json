@@ -1,0 +1,27 @@
+{
+  "name": "Indomitable Pamaagi",
+  "type": "technique",
+  "_id": "A0hVuOhK7CDgmPxt",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Moon's Holy Blade has express techniques for dealing when you are hobbled or disarmed. In fact, you are taught to be even more dangerous when you are in this state, as you are driven to a corner, and you must become more than a beast.</p></blockquote><p><strong>Prereq:</strong> Crescent Cleaving The Earth</p><p><strong>Spend 1 Beat</strong> to take on the Indomitable Stance until the end of your next Fulmination. While in this stance, you have <strong>Stability</strong>, cleanse all <strong>Banes</strong> and <strong>Fray</strong>, and you become immune to any incoming Banes or Fray.</p><p><strong>Purity Before Goddess: +1 Beat</strong> to <strong>rush 3</strong> and cleanse all <strong>Fray</strong> from an adjacent ally after taking the Stance.</p><p><strong>Consume Corruptions: +1 Beat</strong> to make it so that you can now consume the stance when you suffer a bane to make your next attack <strong>Overwhelming</strong>.</p>",
+    "discipline": "qM2zQFjzG4mkSURG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685051790693,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!A0hVuOhK7CDgmPxt"
+}

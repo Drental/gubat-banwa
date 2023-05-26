@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Glory In Striving",
+  "type": "technique",
+  "_id": "UzA3SclqYUFx7UUH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“The Moon shall descend. And so, submit, and be faithful. The Moon shall cleave the earth.” - Book of the New Moon, Chapter 4, Verse 36, Lunar Scriptures.<br>The Martyr rejoices in the glory of combat. You ready your weapon, and engage in violence. Your wounds only make you stronger. In Violence You Are Born And In Violence You Will Perish. Your Fury Is A Fire That Cannot Be Extinguished, It Shines In The Void After The End Of The Creation. Remember This, Martyr: When Peace Is Achieved, You Will Cease To Exist. Let Us Achieve Bliss, Then.</p></blockquote><p>While you are <strong>Staggered</strong>, all your melee attacks generate <strong>2 Hits</strong> on 9+ instead of 1.</p><p>At <strong>Strike 5+</strong>, while <strong>Staggered</strong>, spend 1 Beat to partake in <strong>ritual death</strong>. At the beginning of your next fulmination and every fulmination after that, you have 4 beats per fulmination. however, should you fall to <strong>Critical</strong>, you immediately die.</p>",
+    "discipline": "qM2zQFjzG4mkSURG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685052250950,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!UzA3SclqYUFx7UUH"
+}

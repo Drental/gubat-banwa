@@ -1,0 +1,27 @@
+{
+  "name": "Crescent Cleaving The Earth",
+  "type": "technique",
+  "_id": "F4iowWuEuC3t0YcB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You hurl your weapon, guided by your faith in the Moon. Wield the Moon's Holy Blade, which is you. You! This is your strength, let Baginda Sumongsuklay, peace be unto her, wield you and bring the final triumph of victory. Who else could it be but you? With this internalization, you wield the holy blade of tenacity, and nothing shall ever stop your advance.</p></blockquote><p><strong>Prereq:</strong> Faith Unending</p><p><strong>Spend 1 Beat to throw your weapon:</strong> make an <strong>Area Earth Faith Attack vs all fighters in line 4</strong>, then your weapon falls onto a free square adjacent to the last target of the line. It becomes <strong>Size 1 Object</strong>.</p><p><strong>For 1 Beat</strong> while you're within burst 3 of the weapon, you may call it back, marking a <strong>path</strong> that starts adjacent to the weapon and ends with 1 square adjacent to you. Inflict <strong>1 Hit</strong> to each fighter in the Path.</p>",
+    "discipline": "qM2zQFjzG4mkSURG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685051049158,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!F4iowWuEuC3t0YcB"
+}

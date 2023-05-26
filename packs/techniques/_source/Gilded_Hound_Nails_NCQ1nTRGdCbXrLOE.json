@@ -1,0 +1,27 @@
+{
+  "name": "Gilded Hound Nails",
+  "type": "technique",
+  "_id": "NCQ1nTRGdCbXrLOE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Brandish nails of gilded iron, burning, meant to melt through the hardened carapaces of elder monsters. A technick crafted by Guro Dugu Ido, the Bloodhound, who famously hunted down his game not with spears or bows, but with talons crafted from gold.</p></blockquote><p><strong>Prereq:</strong> Tiger Hunting Meditation</p><p><strong>Spend 1 Beat</strong> to strike with gilded claws: inflict Fray 1 on a fighter in range 2 and then mark them until the end of your next Fulmination. While marked, all their Defenses suffer -1.</p><p><strong>Asura-Shearing Claws: +2 Beats</strong> to upgrade the mark: while marked, they suffer <strong>Sunder</strong> as well.</p>",
+    "discipline": "6MkcKsvxDnyw8JNQ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685048876388,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!NCQ1nTRGdCbXrLOE"
+}

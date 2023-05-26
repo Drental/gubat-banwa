@@ -1,0 +1,27 @@
+{
+  "name": "Moon Princess Style",
+  "type": "technique",
+  "_id": "eDV8sjeiLtdR1wjm",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Moon is perfectly intertwined with the sea. It is long said that an aspect of the Moon, Tsandila Dayawa, came down as a beautiful winged lunar woman, named Ayakassa Ravena, and Hakasalug fell in love with her, which caused him to stop teaching Hiling Makar the rest of his knowledge. Thus the Coral Knight Art is eternally imperfect, but there is a sect of Swordfish Cavalier's that argue that this is good, and is their responsibility to continue mastery.<br>This Technique exemplifies this story: the moon becomes a sign of the times, a mark of glory. You summon moon spirits with a prayer and you shoot it with an arrow, or pierce it with a lance, exploding the moon and letting it splash in every direction.</p></blockquote><p><strong>Prereq:</strong> Ocean Joust Style</p><p><strong>Spend 1 Beat</strong> to call the Moon to the field: place the Moon in a free square in range 3 as an Object.</p><p>If the Moon suffers any Hits (it does not have any defenses), it explodes, dealing 2 True Hits to all enemies in burst 2 of it.</p><p><strong>Hunting Moon: +1 Beat</strong> to make it so that all enemies adjacent to the Moon suffer <strong>Eviscerate</strong>.</p><p><strong>Full Moon: +1 Beat</strong> to give the Moon <strong>5 HP</strong> before it explodes.</p>",
+    "discipline": "uolp52dOs2ud4Jha"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685059781480,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!eDV8sjeiLtdR1wjm"
+}

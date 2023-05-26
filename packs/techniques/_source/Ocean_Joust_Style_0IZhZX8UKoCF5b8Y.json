@@ -1,0 +1,27 @@
+{
+  "name": "Ocean Joust Style",
+  "type": "technique",
+  "_id": "0IZhZX8UKoCF5b8Y",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Seek true glory before the water that nourishes you becomes your blood,” – Agi Sindarak, a Swordfish Cavalier warlord from the polity of Ikadan in Kalanawan. With this Technique, you embody the Satariya. You are heralded by the sounds of bodyong resound, kettlebells against sharp coral weapons.</p></blockquote><p><strong>Prereq:</strong> Sea Lantaka</p><p><strong>For 1 Beat,</strong> you can <strong>rush 5 in a straight line</strong>, moving through enemies. Inflict 1 True Hit on every enemy you move through.</p><p><strong>Liquid Lightning: +1 Beat</strong> to rush 6 but not constrained to a single straight line, but you cannot move through a square you’ve already moved through.</p><p><strong>Flying Fish: +1 Beat</strong> to <strong>Fly</strong> for the duration of the Rush, and you gain <strong>Flying</strong> until the end of your next Fulmination.</p>",
+    "discipline": "uolp52dOs2ud4Jha"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685059636574,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!0IZhZX8UKoCF5b8Y"
+}

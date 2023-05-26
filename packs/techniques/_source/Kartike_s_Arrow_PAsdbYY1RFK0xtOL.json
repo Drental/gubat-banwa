@@ -1,0 +1,27 @@
+{
+  "name": "Kartike’s Arrow",
+  "type": "technique",
+  "_id": "PAsdbYY1RFK0xtOL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The First Sarimanok Knight was said to have been the son of Siwa, the Triumphant and Auspicious God, who is very frequently known as Rajah Indarapatra of the Thunderclouds in more modern Akai literature. His eldest son, Yskanda Kartike, Archer of the Rainbow Raptor, was said to have come down upon the world upon the Sarimanok that took his father to the moon. There he taught the truths of the Sarimanok Knight, and how to properly befriend them, and how to treat them not as a horse but as a fierce brother. Yskanda Kartike eventually helped the ancient Put’wanon King Sri Bata Shaja conquer much of the Gatusan Isles in an ancient war, now lost to memory.</p></blockquote><p><strong>Prereq:</strong> Sky Cloak Pamaagi</p><p><strong>Spend 1 Beat</strong> to fire a burning arrow of incandescent fulgur: Ranged Fire Bravery Attack vs 1 target in range 4. Mark the target until the end of your next Fulmination.</p><p><strong>Kartike’s Lance: Spend +1</strong> Beat to turn the attack into an <strong>Area Fire Bravery Attack</strong> vs all enemies in line 5. All enemies in the line suffer the mark until the end of your next Fulmination.</p><p>Whenever a fighter marked by this technique makes an attack, inflict 1 Hit on them after the attack resolves.</p>",
+    "discipline": "qPTH32ZzDaLuCFyt"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685053446945,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!PAsdbYY1RFK0xtOL"
+}

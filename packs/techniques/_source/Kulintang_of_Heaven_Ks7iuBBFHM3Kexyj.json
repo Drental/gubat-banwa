@@ -1,0 +1,27 @@
+{
+  "name": "Kulintang of Heaven",
+  "type": "technique",
+  "_id": "Ks7iuBBFHM3Kexyj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Bear rapture and sorrow.” A song taught by the great warlord-paraawit apo-apo Singpuksa and since adapted by Awitan all across the archipelago. A song that quickens the hearts and souls of the beings that hear it, inexplicably, sometimes bringing heroes to jovial tears. Sing full and true, Singer. Your song, your steps... It shall culminate in this moment. Your song shall be the song of a thousand weary ghosts, that sorrowsong: let them hear the cries of your heart, the blood of your soul.</p></blockquote><p><strong>Prereq:</strong> Respite in Tranquility</p><p><strong>Spend 1 Beat</strong> to conduct a grand orchestra: put down a <strong>Burst 1 Kulintang Field</strong> on your square. You and all allies that start their turn within the square <strong>Heal 1</strong>.</p><p><strong>Heavenly Kulintang: +1 Beat</strong> when you put down the field to upgrade it to a <strong>Heavenly Kulintang Field:</strong> you or any ally that starts their turn within may <strong>Rush 1</strong>.</p><p><strong>Yaksha Songfield: +1 Beat</strong> to inflict <strong>1 Hit</strong> on every enemy in the Burst and Heal 1 every ally in the burst when you first put down the Field.</p>",
+    "discipline": "n5pPpsV1jpAaW0zE"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685058953996,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Ks7iuBBFHM3Kexyj"
+}
