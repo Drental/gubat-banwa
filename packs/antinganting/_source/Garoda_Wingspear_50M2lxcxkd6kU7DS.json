@@ -1,0 +1,26 @@
+{
+  "name": "Garoda Wingspear",
+  "type": "antingAnting",
+  "_id": "50M2lxcxkd6kU7DS",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A golden spear with the wings of the Garoda twining about it. It sings with a heavenly tune, like one sung by kinnara, and is perfectly weighted.</em></p><p><strong>Effect:</strong> Your Combo Breaker Penalty becomes -1 Attack Teeth/-3 Attack Teeth instead of -2/-3.</p><p><strong>Garoda Set (1/3):</strong> You are considered a <strong>Garoda Knight</strong>. You have 1 set Garoda Wings, which you can wear for 1 Beat. If you do, gain <strong>Garoda Flight x3</strong>, wherein you can teleport when you move or are moved.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226181710,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!50M2lxcxkd6kU7DS"
+}

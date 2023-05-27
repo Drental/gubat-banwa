@@ -1,0 +1,26 @@
+{
+  "name": "Protective Amulet",
+  "type": "antingAnting",
+  "_id": "XWtvDtXHs0qitKeT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A stone inscribed with mentala. Protects from bullets and all.</em></p><p><strong>Effect:</strong> Gain <strong>metal conditioning</strong> but suffer <strong>water and air vulnerability</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225721798,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!XWtvDtXHs0qitKeT"
+}

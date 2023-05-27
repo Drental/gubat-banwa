@@ -1,0 +1,26 @@
+{
+  "name": "Godtree Kalasagdako",
+  "type": "antingAnting",
+  "_id": "iULgn0Hw79QatBTY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Kalasagdako is “Large Shield”. This is a giant kalasag made of holy strangler fig fibers and wood, strengthened by shaman ritual.</em></p><p><strong>Effect:</strong> From <strong>Strike 1 to 3</strong>, when you roll <strong>POS</strong>, you gain <strong>Defends</strong> on <strong>5+</strong> on your Defense Teeth. Lose this benefit at Strike 4+.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226360882,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!iULgn0Hw79QatBTY"
+}

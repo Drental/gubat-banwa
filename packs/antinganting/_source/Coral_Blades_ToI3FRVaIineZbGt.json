@@ -1,0 +1,26 @@
+{
+  "name": "Coral Blades",
+  "type": "antingAnting",
+  "_id": "ToI3FRVaIineZbGt",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Weapons made up of pink-red coral harvested from pristine seas.</em></p><p><strong>Effect:</strong> When you make a melee attack, you can convert any <strong>2 or 3 on the Attack Teeth</strong> into <strong>Bleed (1)</strong> or <strong>Water Vulnerability (1)</strong> against the target.</p><p><strong>Coral Knight Set (1/3):</strong> You become a <strong>Coral Knight</strong>. You gain <strong>water conditioning</strong>, ignore <strong>water terrain</strong>, and all your water attacks inflict <strong>1 True Hit</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685223991117,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!ToI3FRVaIineZbGt"
+}

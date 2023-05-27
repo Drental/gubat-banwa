@@ -1,0 +1,26 @@
+{
+  "name": "Copper Claws",
+  "type": "antingAnting",
+  "_id": "GipFV6wPnqCg7buP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Fingernail ornaments that create the visage of musang claws. Can rend entire ships.</em></p><p><strong>Effect:</strong> Inflict <strong>Bleed (1)</strong> per <strong>9+</strong> on the Attack Teeth.</p><p><strong>Copper Cat Demon Set (1/3):</strong> You ignore elevation when you move on your Fulmination, and you do not suffer fall damage.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226918197,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!GipFV6wPnqCg7buP"
+}

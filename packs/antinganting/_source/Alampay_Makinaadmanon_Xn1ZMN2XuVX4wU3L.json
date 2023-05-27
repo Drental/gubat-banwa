@@ -1,0 +1,26 @@
+{
+  "name": "Alampay Makinaadmanon",
+  "type": "antingAnting",
+  "_id": "Xn1ZMN2XuVX4wU3L",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>“Sage’s Robe-Cloak.” Long flowing hooded robes that look similar to a raincoat or a poncho, decorated with textiles depicting dragons and skies and seas and leviathans and devil-apes.</em></p><p><strong>Effect:</strong> You can Surge twice per Violence.</p><p><strong>Path of Concordance Set (1/3):</strong> When you spend <strong>2-3 Beats</strong> on a single Technique, gain <strong>Overwhelming</strong> on your next Attack.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685227572667,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Xn1ZMN2XuVX4wU3L"
+}

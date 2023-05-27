@@ -1,0 +1,26 @@
+{
+  "name": "Coral Plate",
+  "type": "antingAnting",
+  "_id": "0DY3M4fcipQNw7zw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A breastplate of large coral plates stitched together with sea serpent tendons.</em></p><p><strong>Effect:</strong> When you first become <strong>Staggered</strong>, you gain <strong>Block 2</strong>.</p><p><strong>Coral Knight Set (1/3):</strong> You become a <strong>Coral Knight</strong>. You gain <strong>water conditioning</strong>, ignore <strong>water terrain</strong>, and all your water attacks inflict <strong>1 True Hit</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685224281523,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!0DY3M4fcipQNw7zw"
+}

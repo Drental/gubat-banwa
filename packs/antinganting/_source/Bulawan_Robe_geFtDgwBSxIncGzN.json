@@ -1,0 +1,26 @@
+{
+  "name": "Bulawan Robe",
+  "type": "antingAnting",
+  "_id": "geFtDgwBSxIncGzN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Bulawan is that reddish Bloodgold, but it is also a holy color, of scarlet, that has pine-like fibers soaked in the reddest of reds–so red that they are gold. The bulawan color is only saved for the most brave of warriors, and within it is the unyielding spirit of one thousand warriors. Ashr are beings that have six arms and three heads, considered demigods in the sense that they are partly divine, thrown out of heaven for having drunk too much of Divine Shura, the drink of immortality from Heavenly Banana Trees. Ashr wander the world looking for things to do to Be Unifed once again, becoming Hiyang.</em></p><p><strong>Effect:</strong> Begin Violence with <strong>Stability (2)</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228587838,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!geFtDgwBSxIncGzN"
+}

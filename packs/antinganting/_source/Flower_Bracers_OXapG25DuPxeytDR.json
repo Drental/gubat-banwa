@@ -1,0 +1,26 @@
+{
+  "name": "Flower Bracers",
+  "type": "antingAnting",
+  "_id": "OXapG25DuPxeytDR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Bracers twined together with flower petals. The flowers do not die.</em></p><p><strong>Effect:</strong> All your Earth attacks have +1 Attack Tooth, but your Fire Attacks suffer -1 Attack Tooth.</p><p><strong>Flower Set (1/2):</strong> You are immune to difficult and dangerous terrain.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685224714053,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!OXapG25DuPxeytDR"
+}

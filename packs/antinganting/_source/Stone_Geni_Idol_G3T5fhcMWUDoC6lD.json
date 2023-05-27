@@ -1,0 +1,26 @@
+{
+  "name": "Stone Geni Idol",
+  "type": "antingAnting",
+  "_id": "G3T5fhcMWUDoC6lD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Geni is the god of fire found in the isles. This idol is made of stone from the depths of ancient volcanoes across the isles. Confers the ability to become completely immune to fire. The first to find and wield this stone was known as the Magmabreaker Tunggadiraja, who conquered the volcano naga of the isle of Kadaki.</em></p><p><strong>Effect:</strong> Inflict <strong>Fray 1</strong> per <strong>10</strong> on the Attack Teeth. Fray inflicted through this Anting-Anting with a single attack is counted as just a single instance of Fray.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228812884,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!G3T5fhcMWUDoC6lD"
+}

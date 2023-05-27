@@ -1,0 +1,26 @@
+{
+  "name": "Coral Shield",
+  "type": "antingAnting",
+  "_id": "RVJ9CJtmFOTBL8qo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A shield of burning pink-red coral, blossoming like an ocean flower.</em></p><p><strong>Effect:</strong> When you rush, inflict 1 Hit on every enemy you move through during that rush, 1/Fulmination.</p><p><strong>Coral Knight Set (1/3):</strong> You become a <strong>Coral Knight</strong>. You gain <strong>water conditioning</strong>, ignore <strong>water terrain</strong>, and all your water attacks inflict <strong>1 True Hit</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685224188305,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!RVJ9CJtmFOTBL8qo"
+}

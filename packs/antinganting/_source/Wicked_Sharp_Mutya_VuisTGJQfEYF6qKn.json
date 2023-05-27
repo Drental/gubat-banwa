@@ -1,0 +1,26 @@
+{
+  "name": "Wicked Sharp Mutya",
+  "type": "antingAnting",
+  "_id": "VuisTGJQfEYF6qKn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>You have ingested a mutya that has sharpened your violent intent into a killing spirit.</em></p><p><strong>Effect:</strong> Your first Hit in a Melee Bravery Attack is a <strong>True Hit</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225039825,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!VuisTGJQfEYF6qKn"
+}

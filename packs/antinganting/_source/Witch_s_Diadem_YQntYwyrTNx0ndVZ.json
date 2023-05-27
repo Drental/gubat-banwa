@@ -1,0 +1,26 @@
+{
+  "name": "Witch's Diadem",
+  "type": "antingAnting",
+  "_id": "YQntYwyrTNx0ndVZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A bone diadem that stretches down to one’s eyes. Gives one the visage of a wicked sorcerer.</em></p><p><strong>Effect:</strong> All bursts, lines, blasts, and paths on your <strong>Area Attacks</strong> have +1 to their size.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226698263,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!YQntYwyrTNx0ndVZ"
+}

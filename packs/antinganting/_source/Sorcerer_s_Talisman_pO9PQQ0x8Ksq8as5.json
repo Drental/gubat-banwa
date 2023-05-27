@@ -1,0 +1,26 @@
+{
+  "name": "Sorcerer's Talisman",
+  "type": "antingAnting",
+  "_id": "pO9PQQ0x8Ksq8as5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A talisman with a magical beast’s tooth, nail, eye, or hair lock tied to it.</em></p><p><strong>Effect:</strong> When you put down a Field, increase it’s size by 1 (ie., Burst 1 becomes Burst 2.)</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226607067,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!pO9PQQ0x8Ksq8as5"
+}

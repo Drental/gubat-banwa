@@ -1,0 +1,26 @@
+{
+  "name": "Stingray Shield",
+  "type": "antingAnting",
+  "_id": "BK1lkb9zbHsJGVN3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Gatusanon would coat their shields with stingray skin, treated to the point that they almost had a pearloid quality. This dulls blades.</em></p><p><strong>Effect:</strong> You gain <strong>water conditioning</strong>, but gain <strong>fire vulnerability</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226859777,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!BK1lkb9zbHsJGVN3"
+}

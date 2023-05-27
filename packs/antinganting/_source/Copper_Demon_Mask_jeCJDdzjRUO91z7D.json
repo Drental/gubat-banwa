@@ -1,0 +1,26 @@
+{
+  "name": "Copper Demon Mask",
+  "type": "antingAnting",
+  "_id": "jeCJDdzjRUO91z7D",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A mask depicting a tusked bearcat, grinning indefinitely, in defiance of the sun.</em></p><p><strong>Effect:</strong> When you forcibly move a fighter, inflict 1 True Hit on them, 1/Fulmination.</p><p><strong>Copper Cat Demon Set (1/3):</strong> You ignore elevation when you move on your Fulmination, and you do not suffer fall damage.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685227015900,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!jeCJDdzjRUO91z7D"
+}

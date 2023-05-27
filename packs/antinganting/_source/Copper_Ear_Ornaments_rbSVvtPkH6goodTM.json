@@ -1,0 +1,26 @@
+{
+  "name": "Copper Ear Ornaments",
+  "type": "antingAnting",
+  "_id": "rbSVvtPkH6goodTM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Copper ear ornaments that, instead of depicting the wings of an eagle, showcase razor sharp feline ears.</em></p><p><strong>Effect:</strong> Whenever you are attacked while you’re flanked, gain <strong>SPD Up (1)</strong>.</p><p><strong>Copper Cat Demon Set (1/3):</strong> You ignore elevation when you move on your Fulmination, and you do not suffer fall damage.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685227110417,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!rbSVvtPkH6goodTM"
+}

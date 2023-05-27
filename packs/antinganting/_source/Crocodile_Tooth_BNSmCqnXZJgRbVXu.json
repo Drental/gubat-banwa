@@ -1,0 +1,26 @@
+{
+  "name": "Crocodile Tooth",
+  "type": "antingAnting",
+  "_id": "BNSmCqnXZJgRbVXu",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Your attacks pierce deeper now, like the blessing of the crocodile.</em></p><p><strong>Effect:</strong> You have <strong>1 Crocodile Tooth Charge</strong> every Violence. When a fighter that you have inflicted Fray upon rolls their Fray Teeth, you may spend the Charge to make it so that their Fray Teeth scores <strong>True Hits</strong> on a 5+.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225561307,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!BNSmCqnXZJgRbVXu"
+}

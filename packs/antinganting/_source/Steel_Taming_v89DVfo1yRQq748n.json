@@ -1,0 +1,26 @@
+{
+  "name": "Steel Taming",
+  "type": "antingAnting",
+  "_id": "v89DVfo1yRQq748n",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A taming shield made for blocking all sorts of attacks.</em></p><p><strong>Effect:</strong> You start every Violence with <strong>2 Steel Charges</strong>. When you suffer a <strong>Faith Attack</strong>, you can consume a Steel Charge to use <strong>POS</strong> instead of <strong>RES</strong> against it.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225835646,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!v89DVfo1yRQq748n"
+}

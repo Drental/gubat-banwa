@@ -1,0 +1,26 @@
+{
+  "name": "Flower Cape",
+  "type": "antingAnting",
+  "_id": "D7ISzmxM09nsfOok",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A cape made of beautiful flowers. The flowers are kept in a perpetual state of blossoming.</em></p><p><strong>Effect:</strong> Gain <strong>Earth Conditioning</strong>, but <strong>Fire Vulnerability</strong>.</p><p><strong>Flower Set (1/2):</strong> You are immune to difficult and dangerous terrain.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685224617510,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!D7ISzmxM09nsfOok"
+}

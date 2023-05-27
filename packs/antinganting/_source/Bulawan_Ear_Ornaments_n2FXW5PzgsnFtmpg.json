@@ -1,0 +1,26 @@
+{
+  "name": "Bulawan Ear Ornaments",
+  "type": "antingAnting",
+  "_id": "n2FXW5PzgsnFtmpg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>The reddish gold, known as Bloodgold, is the purest form of gold in the Isles, and is said to represent the God of Crimson War Idda Mangubat, the Greatest Warrior of the Echoing Annals. These ear-wing ornaments attune your soul to the slaughter, and causes you to sink into ultraviolence when you can smell blood. Idda Mangubat now travels the isles as a warrior-for-hire for those datu that he chooses is worthy.</em></p><p><strong>Effect:</strong> Making melee attacks against <strong>Staggered fighters</strong> inflicts 1 True Hit on them.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228510504,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!n2FXW5PzgsnFtmpg"
+}

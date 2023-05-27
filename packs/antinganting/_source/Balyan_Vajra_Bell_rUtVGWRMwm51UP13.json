@@ -1,0 +1,26 @@
+{
+  "name": "Balyan Vajra-Bell",
+  "type": "antingAnting",
+  "_id": "rUtVGWRMwm51UP13",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A vajra with a bell on the other end, rang when performing important rituals. Diwata dance nearby, ancestor gods look down at you. Sometimes given by Sri Dewi Wetsuwan in the northern regions of the Footsteps of the Gods, where she makes her ministry as one of the Four Warlords Under Heaven, ruling over the northern quadrant of Gubat Banwa, where she sits wielding her embroidered sarapang Makarishula and consorts of 180 Valkyrie Poet-Warriors, each one married to her.</em></p><p><strong>Effect:</strong> Once on your Fulmination, when you heal a fighter, gain <strong>+1 Attack Tooth</strong> on your next attack.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228416397,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!rUtVGWRMwm51UP13"
+}

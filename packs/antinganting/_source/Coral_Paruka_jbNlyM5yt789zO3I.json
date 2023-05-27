@@ -1,0 +1,26 @@
+{
+  "name": "Coral Paruka",
+  "type": "antingAnting",
+  "_id": "jbNlyM5yt789zO3I",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Sandals made up of coral. Ragged and rough, bristling, to keep you awake.</em></p><p><strong>Effect:</strong> Ignore Water and Earth Terrain when you Stride.</p><p><strong>Coral Knight Set (1/3):</strong> You become a <strong>Coral Knight</strong>. You gain <strong>water conditioning</strong>, ignore <strong>water terrain</strong>, and all your water attacks inflict <strong>1 True Hit</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685224501256,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!jbNlyM5yt789zO3I"
+}

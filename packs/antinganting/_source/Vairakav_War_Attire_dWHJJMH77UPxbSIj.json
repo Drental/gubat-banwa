@@ -1,0 +1,26 @@
+{
+  "name": "Vairakav War Attire",
+  "type": "antingAnting",
+  "_id": "dWHJJMH77UPxbSIj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>Golden armor with a sun-tiger on the chest plate. This includes a set of armor: a peaked helmet, gold-and-brass lamellar, gilded dragon bracers, a golden dragonfly belt woven with a veil-thin silk as a skirt, and golden tail-eating dragon bangles. Once belonged to the ancient warriors of Put'wan. Vairakav is one of the fierce forms of the great god Rayasaiwa, who destroyed the past world to pave the way for  this one.</em></p><p><strong>Effect:</strong> Gain <strong>+4 HP</strong> to your base HP.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228980080,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!dWHJJMH77UPxbSIj"
+}

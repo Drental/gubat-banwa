@@ -1,0 +1,26 @@
+{
+  "name": "Kawaca",
+  "type": "antingAnting",
+  "_id": "nMVnJibfkGGBVEre",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A cuirass with the face of a vengeant deity in front. Worn by high-ranking warriors.</em></p><p><strong>Effect:</strong> Begin the fight with <strong>Block 2</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225958845,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!nMVnJibfkGGBVEre"
+}

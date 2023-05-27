@@ -1,3 +1,15 @@
-2023/05/26-22:30:31.549 3088 Recovering log #77
-2023/05/26-22:30:31.566 3088 Delete type=0 #77
-2023/05/26-22:30:31.567 3088 Delete type=3 #76
+2023/05/27-23:34:36.529 ec4 Recovering log #81
+2023/05/27-23:34:36.539 ec4 Delete type=0 #81
+2023/05/27-23:34:36.539 ec4 Delete type=3 #80
+2023/05/28-01:18:06.171 588 Level-0 table #85: started
+2023/05/28-01:18:06.175 588 Level-0 table #85: 23114 bytes OK
+2023/05/28-01:18:06.179 588 Delete type=0 #83
+2023/05/28-01:18:06.180 588 Manual compaction at level-0 from '!items!0CgiCBFAMaTdAJL4' @ 72057594037927935 : 1 .. '!items!zRdmr2hDVammkGeN' @ 0 : 0; will stop at (end)
+2023/05/28-01:18:06.199 588 Manual compaction at level-1 from '!items!0CgiCBFAMaTdAJL4' @ 72057594037927935 : 1 .. '!items!zRdmr2hDVammkGeN' @ 0 : 0; will stop at '!items!zRdmr2hDVammkGeN' @ 36 : 1
+2023/05/28-01:18:06.199 588 Compacting 1@1 + 1@2 files
+2023/05/28-01:18:06.203 588 Generated table #86@1: 59 keys, 23114 bytes
+2023/05/28-01:18:06.203 588 Compacted 1@1 + 1@2 files => 23114 bytes
+2023/05/28-01:18:06.205 588 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/28-01:18:06.206 588 Delete type=2 #5
+2023/05/28-01:18:06.206 588 Delete type=2 #85
+2023/05/28-01:18:06.206 588 Manual compaction at level-1 from '!items!zRdmr2hDVammkGeN' @ 36 : 1 .. '!items!zRdmr2hDVammkGeN' @ 0 : 0; will stop at (end)
