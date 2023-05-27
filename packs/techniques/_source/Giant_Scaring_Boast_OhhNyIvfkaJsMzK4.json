@@ -1,0 +1,27 @@
+{
+  "name": "Giant Scaring Boast",
+  "type": "technique",
+  "_id": "OhhNyIvfkaJsMzK4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You shout so loud that it throws your opponents off. A classic tactic.<br>“WALAAAAAA PUKININGINA MO DUKHA WALA ANG HINA MO TANGINA HAHA TANGINA BA’T KA PA NAGLALARO TANGINAMO WEAKSHIT KALANG EH ANO ANO ANO ANO IIYAK KA ANO ANO ANO—“ - Boasting by Team Naga-nagaan in the Match in the Cold Lonely Valley deep in Kalanawan.</p></blockquote><p><strong>Prereq:</strong> Sidereal Setup Style</p><p><strong>Spend 1 Beat</strong> to inflict <strong>RES Down (1)</strong> or <strong>POS Down (1)</strong> on every enemy in blast 3.</p><p><strong>Armor Rending Scream: +1 Beat</strong> to also inflict <strong>Sunder (1)</strong>, but every enemy gains <strong>Provoke (1)</strong> to you.</p><p><strong>Send Them Running!: +1 Beat</strong> to slide 2 every chosen fighter in the blast.</p>",
+    "discipline": "C5vdUrcwXKyVTgFG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685147783174,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!OhhNyIvfkaJsMzK4"
+}

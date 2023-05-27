@@ -1,0 +1,27 @@
+{
+  "name": "Rising Lightning",
+  "type": "technique",
+  "_id": "y142rECpGm0U5nqX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You crouch down low, and then like lightning wishing to return to the heavens, you bolt up, sudden, unimpeded. Taught by Abusung Samudela, a once master of low moving Skysea Raiding, he perfected this after mixing the styles together, and created one of the most dangerous attacks in Heaven Rending.</p></blockquote><p><strong>Prereq:</strong> Plummeting Thunder</p><p><strong>Spend 1 Beat</strong> to burst up like lightning from your soul: make an <strong>Metal Bravery Attack vs 1 adjacent fighter</strong>. Inflict +1 Hit if the target has <strong>Juggle</strong>, <strong>Flying</strong>, or <strong>Float</strong>. Inflict +1 Hit if the target has higher HP than you.</p><p><strong>Antiroyal Blade: +1 Beat</strong> to turn one of the defender’s Defense Teeth into a d6.</p><p><strong>Kingkiller Vajra: +1 Beat</strong> to change the attack to an <strong>Area Bravery Attack vs all enemies in burst 1</strong>.</p>",
+    "discipline": "IHuYAz4gU9u25fFi"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685145937889,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!y142rECpGm0U5nqX"
+}

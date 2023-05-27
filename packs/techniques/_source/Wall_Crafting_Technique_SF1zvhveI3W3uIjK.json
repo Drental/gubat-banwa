@@ -1,0 +1,27 @@
+{
+  "name": "Wall Crafting Technique",
+  "type": "technique",
+  "_id": "SF1zvhveI3W3uIjK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Quickly craft a wall. A popular technick of warsmiths, who are taught it since the first day of their training. Perfected by Panday Pira, it consists of both muscle memory, rigorously trained movement techniques, and meticulously prepared materiel to pull off.</p></blockquote><p><strong>Prereq:</strong> Hammer Shatters Earth</p><p><strong>Spend 1 Beat</strong> to put down a wall on any side of your own square.</p><p><strong>Kota Rising: +1 Beat</strong> to put down a <strong>path 5 wall</strong> instead. The walls must be contiguous.</p><p><strong>Nagacharges: +1 Beat</strong> to attach an explosive on the wall. When the wall is broken, inflict 1 True Hit to all enemies in burst 1 of the wall.</p>",
+    "discipline": "uJuh26trijbEfLGJ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685148967163,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!SF1zvhveI3W3uIjK"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Manifest The Godbody",
+  "type": "technique",
+  "_id": "yVluB4sDL8j2WKxe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Godbody is the magnum opus of Warsmiths. Warsmith training is usually done in conjunction with the formation of a personal Godbody. When they achieve Master level, only then will they have the techniques required to finish the crafting of the ancient Godbody, which will become their holy implement against darkness and violence.</p><p>You submerge yourself into the blood of the battle and you are quenched. The battlefield becomes your anvil. Your arms become your hammers. And the VIOLENCE YOU BRING WILL BE THE SWORD YOU FORGE!</p></blockquote><p>When you start violence, choose 1 God-Body Manifestation, which you have for the entire violence:</p><p><strong>Sheathe of Ghatotkacha:</strong> You can use POS against Faith Attacks.</p><p><strong>Crown of Kuwanchin:</strong> When you forcibly move an enemy, they suffer Unbalance (1) at the end of the forced movement.</p><p><strong>Foot of Sagarawivara:</strong> When you end your Fulmination, inflict SPD Down 1 on all adjacent enemies.</p><p><strong>Spend 1 Beat on Strike 3+ to summon and wear the GodBody. Gain the following benefits:</strong></p><ul><li><p>You become Size 2.</p></li><li><p>Gain Block 4.</p></li><li><p>Whenever you start or end your Fulmination slide 2 all adjacent enemies.</p></li><li><p>All melee attacks against you have <strong>Dullness</strong>.</p></li><li><p>All your Area Attacks with Areas of Effect gain +1 to their size.</p></li><li><p>May spend 2 Beats to inflict 1 Hit on all adjacent enemies, and then inflict Stun (1).</p></li></ul>",
+    "discipline": "uJuh26trijbEfLGJ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685149664718,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!yVluB4sDL8j2WKxe"
+}

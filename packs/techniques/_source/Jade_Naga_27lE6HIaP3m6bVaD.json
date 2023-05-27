@@ -1,0 +1,27 @@
+{
+  "name": "Jade Naga",
+  "type": "technique",
+  "_id": "27lE6HIaP3m6bVaD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Naga are water and air serpent-spirits of protection, and are one of the dragonkind in the Sword Isles, the others being the Sawa earth-underworld serpents, and the Buwaya earth-water crocodiles. By brandishing a Jade Naga you create a spiritual boundary that prevents the targets of your hatred from inflicting violence.</p></blockquote><p><strong>Prereq:</strong> Gilded Kinnara</p><p><strong>Spend 1 Beat</strong> to summon a <strong>Jade Naga:</strong> choose a <strong>path 3</strong>. Summon a Jade Naga on that path, a <strong>Durability 6 Object</strong>. The object is <strong>blocking terrain</strong> that cannot be climbed and cannot be shot over, as the naga now guards it. Push 1 any target in the chosen path away from the path.</p><p>Nagaraja: +1 Beat to exalt the naga, and now it swims: every end of your Fulmination, you may choose a new Path that is adjacent to at least one of the Naga’s squares. The Naga teleports into those squares.</p><p>Breathing Violence: +1 Beat to choose a square adjacent to one of the squares of the naga. That square becomes Fire Terrain for as long as it is adjacent to the naga, and cannot be changed.</p>",
+    "discipline": "uJuh26trijbEfLGJ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685149444366,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!27lE6HIaP3m6bVaD"
+}

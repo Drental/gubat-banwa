@@ -1,0 +1,27 @@
+{
+  "name": "Blasting Jarlet",
+  "type": "technique",
+  "_id": "OHzDEGeeuMVSUFgD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>An jarlet filled with an oil and alcohol concoction created by ancient healer Temiak Parelang born from coconut wine, secret mangrove fish eggs, explosive fire serpent scales found in the mouths of underwater volcanoes, used during the War of Rosy Golds to stop the assault of Tundun warriors wearing gilded armor borne from technology of Samrasat.</p></blockquote><p><strong>Prereq:</strong> Ultrasoul Palm</p><p><strong>Spend 1 Beat</strong> to throw the jarlet, letting it explode: make an <strong>Area Fire Faith Attack</strong> vs all enemies in <strong>range 3 burst 1</strong>. Then a <strong>Blazing Field</strong> erupts in the burst. All allies in the blazing field gain <strong>+1 Attack Tooth</strong> on all attacks, and can make their attacks <strong>Fire</strong>.</p><p><strong>Deva of Flame: +1 Beat</strong> when you make the attack to upgrade the Field to a <strong>Sigadeva Field</strong>: All allies that start their Fulmination in the Field gain <strong>SPD Up (1)</strong> and all enemies that start their Fulmination within suffer <strong>Fray 1</strong>.</p>",
+    "discipline": "pH22B4aJoizufwpZ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685146683549,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!OHzDEGeeuMVSUFgD"
+}

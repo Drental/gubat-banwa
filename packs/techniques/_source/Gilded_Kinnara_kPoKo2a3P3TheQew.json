@@ -1,0 +1,27 @@
+{
+  "name": "Gilded Kinnara",
+  "type": "technique",
+  "_id": "kPoKo2a3P3TheQew",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Kinnari are protective maidens, part swan and part bamboofolk. They descend upon the world from the Forests of Himavala, the Sacred Mountain of the Continent, which Jamiyun Kulisa struck down. These beautiful beings have become the subject of many goldsmiths' art and expression. Kinnari Vessels draw projectiles toward it, as a Kinnari is created to protect her royalty. Gold is a holy metal in the isles. It is abundant, but only because the spirits grant it. Gold is so abundant, in fact, that entire houses are covered in sheets of it. However, it is still a mark of royalty. Gold is often used in sorcerous pursuits as well.</p></blockquote><p><strong>Prereq:</strong> Wall Crafting Technique</p><p><strong>Spend 1 Beat</strong> to put down a kinnara statue in a square in range 3, a <strong>Size 1 Object</strong>. Any ranged attack that has its line of effect go through within burst 1 of the kinnara instead targets the kinnara.</p><p><strong>Pure Gold: +1 Beat</strong> to gild the kinnara. A gilded kinnara has 8 Durability. All squares adjacent to the Kinnara become <strong>Metal Terrain</strong>.</p><p><strong>Tigmamanukan Statue: +1 Beat</strong> to increase the size of the kinnara to <strong>Size 2</strong>.</p>",
+    "discipline": "uJuh26trijbEfLGJ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685149072809,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!kPoKo2a3P3TheQew"
+}
