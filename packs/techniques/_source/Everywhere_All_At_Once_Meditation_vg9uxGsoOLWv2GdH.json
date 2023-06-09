@@ -1,0 +1,27 @@
+{
+  "name": "Everywhere All At Once Meditation",
+  "type": "technique",
+  "_id": "vg9uxGsoOLWv2GdH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Becoming Naghiyang is an enlightened state but is not a final salvation or liberation from the sufferings of life. When one is Naghiyang, one moves in accordance with the wants of nature, with the bouncing gods that live in every single thing, including one's self. They do everything naturally, easily, without thinking, action without thought. However, mindfulness is still required to stay Naghiyang: one can be very easily brought out of harmony. Those in Naghiyang revel in the absolute joy in being accordance with the trichiliocosm.</p></blockquote><p><strong>Prereq:</strong> Bamboo Reroutes The River</p><p><strong>Spend 1 Beat</strong> to gain a <strong>Watchtower Token</strong>. When a fighter leaves a square within burst 5, discard a Watchtower Token to inflict <strong>1 True Hit</strong> on them before they leave the square.</p><p><strong>God Eye: +1 Beat</strong> to gain a <strong>God Eye Token</strong> instead. When you discard a God Eye Token, you may <strong>inflict violence</strong> on the target instead.</p>",
+    "discipline": "z3tT5zcB03Q2LJ7g"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685020034748,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!vg9uxGsoOLWv2GdH"
+}

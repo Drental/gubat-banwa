@@ -1,0 +1,26 @@
+{
+  "name": "Peakflower Diadem",
+  "type": "antingAnting",
+  "_id": "jxLLSqChvOBRaYb0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>The Peakflower is a colorful blossom with multiple petals, reminiscent of chrysanthemum, that can only grow in the coldest areas at the peak of mountains in the Sword Isles, where the caps are sheathed in frost and snow. This sheathes the wearer in a veil of chill, and causes them to cough out peakflower petals. As this antinganting is refined, its flower grows, and begins strangling you.</em></p><p><strong>Effect:</strong> You gain <strong>Wind Conditioning</strong>, but <strong>Earth Vulnerability</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228901471,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!jxLLSqChvOBRaYb0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Naga Helm",
+  "type": "antingAnting",
+  "_id": "biFXYyBTU3sPGXo1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A helmet made of bone and gold in the shape of a naga's head.</em></p><p><strong>Effect:</strong> Your melee attacks gain <strong>+1 Attack Tooth</strong> against all fighters that are Marked, even if it's not by you.</p><p><strong>Naga Set (1/4):</strong> You become a <strong>Naga Knight:</strong> gain Bravery +2 while you’re Flanked by enemies.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225459405,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!biFXYyBTU3sPGXo1"
+}

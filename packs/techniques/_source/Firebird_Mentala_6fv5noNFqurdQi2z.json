@@ -1,0 +1,27 @@
+{
+  "name": "Firebird Mentala",
+  "type": "technique",
+  "_id": "6fv5noNFqurdQi2z",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Developed by elite Bladeweavers who went to fight in the Thundering Elephant War in the Southeastern Continent, who incorporated Continental Sorcery and Spirituality.</p></blockquote><p><strong>Spend 1 Beat</strong> to inflict <strong>1 Hit</strong> on a target in range 3, then teleport to a square adjacent to them.</p><p><strong>Fire Yajna: +1 Beat</strong> to teleport an adjacent ally with you.</p><p><strong>Boar Offering: +1 Beat</strong> to inflict <strong>Fire Vulnerability (2)</strong> on the target.</p>",
+    "discipline": "LhM37wrgylaO1paB"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685136108274,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!6fv5noNFqurdQi2z"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Thunderbolt Spear Pamaagi",
+  "type": "technique",
+  "_id": "hZP3n9laGbnrdtmZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“The cosmos, the sky, the heavens and the earths and the hells: they will pass, fade away, like sand washed away by the waves of time. And our kind, all we do is fight. We engage in such violence that the gods look away, and the devils bow down in the grandeur of our bloodshed. Like a river, it flows. It ever cycles: our violence flows to the sea of time, and then simply returns to the peak of the mountain through the rain. Will there ever be a time that our warring nations will achieve peace? Or is peace simply not a portion of our nature? Who is to dictate our nature?<br>I bring this spear and shield before you, great Brother Thunderbolt, so that I may slay you, and perhaps I will free my people from this horrible cycle. The river flows, Diwasin Kilat, God of Lightning, but perhaps I can stop it.” - The Song of the Rajaraya</p></blockquote><p><strong>Prereq:</strong> Panglima Palms</p><p><strong>Spend 1 Beat</strong> to push 2 an adjacent enemy, and then an ally in range 3 may inflict violence.</p><p><strong>Yaksha Decapitating Kampilan: +1 Beat</strong> to Inflict Violence instead of Pushing.</p><p><strong>Crimson Pudong Attainment: +1 Beat</strong> to let all allies that you can see inflict violence if they can or want to instead.</p>",
+    "discipline": "Ua3X3o73UjtDHMet"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685140840575,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!hZP3n9laGbnrdtmZ"
+}

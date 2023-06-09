@@ -1,0 +1,26 @@
+{
+  "name": "Parrying Palisay",
+  "type": "antingAnting",
+  "_id": "S9vMvrywWdahbp0a",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A palisay is a smaller shield, almost a buckler, as opposed to the full body kalasag. Only the greatest of warriors can afford to wield a palisay–the lightness lets them be quick in their parrying. Sumpoy is the Slaver of Souls and Batara Yamakala is the God of the Underworld, the Keeper of Justice, and of all Death. The God of Life, funnily enough, belongs to Si Dapa, The Kneeling One, whom many–due to the fact that Life is an antecedent of Death–worship wrongfully as the God of Death. By bearing Si Dapa's face upon the shield, you can enact the retort of the living.</em></p><p><strong>Effect:</strong> When you <strong>Deflect</strong>, bank <strong>2 Defends</strong> instead of <strong>1.</strong></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685229182110,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!S9vMvrywWdahbp0a"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Paean To The Unexalted",
+  "type": "technique",
+  "_id": "4Pr7dV3CTeBrVhZl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>A song that hearkens to ancient warriors that have died in fight and ascended to the Sky upon the rainbow. There was one particular warband, a troop, who followed the Datu Kinalagtuman, Consummate Brightness, who stayed behind to defend against the  assault of Ratu Kyai Gede, Crucible of Weeping, Queen of Ancient Medang. The Datu defended his island when he and that warband, forever remembered as the Unexalted, beseeched the diwata of their island: a Serpent God named Maharaya, the Great Streaking, to let them keep fighting. The Unexalted were granted this: instead of ascending to the Sky, their souls instead became Umalagad that protected their island even in death. And so Ancient Medang was not able to conquer their island, and to this day the Unexalted still protect that island.</p></blockquote><p><strong>Spend 1 Beat</strong> to grant 1 fighter in burst 3 or self, the blessing of the porcelain lady: the target gains <strong>Protect (2)</strong>.</p><p><strong>Spend 2 Beats</strong> to grant all allies in burst 3, including yourself, <strong>Protect (2)</strong>.</p><p><strong>Spend 3 Beats</strong> to grant all ally in the battlefield, including yourself, <strong>Protect (2)</strong>.</p>",
+    "discipline": "n5pPpsV1jpAaW0zE"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685058056593,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!4Pr7dV3CTeBrVhZl"
+}

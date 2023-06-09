@@ -1,0 +1,26 @@
+{
+  "name": "Devil Idol",
+  "type": "antingAnting",
+  "_id": "th4l3ViVIX4AC2sB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>An Idol upon a gold necklace. Represents a malevolent deity.</p><p><strong>Effect:</strong> When you are forcibly moved, inflict 1 True Hit on the one forcibly moving you.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685224796442,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!th4l3ViVIX4AC2sB"
+}

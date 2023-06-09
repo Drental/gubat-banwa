@@ -1,0 +1,27 @@
+{
+  "name": "Pinamaskan Pamaagi",
+  "type": "technique",
+  "_id": "7vHwxrDjo9N7Y468",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You leap up like lightning, and then crash down like the vajra. In Gatusan, the Pinamaskan is an heirloom spear that is important to the wielder, named and decorated with gold flame inlays, and are usually longer and have longer blades than the usual spears.</p></blockquote><p><strong>Prereq:</strong> Ghokong Vaults Heaven</p><p><strong>Spend 1 Beat</strong> to leap into the air: inflict Juggle (1) on an adjacent fighter, then take on the <strong>Pinamaskan Stance</strong> until the start of your next Fulmination. While in this stance, you are <strong>Flying</strong>, and all your attacks against <strong>Juggled</strong> fighters gain +1 Attack Tooth.</p><p><strong>Thunderbolt Vanquisher: +1 Beat</strong> to make an <strong>Area Metal Bravery Attack vs all enemies in burst 1 instead,</strong> inflicting <strong>Juggle 1</strong> on each fighter, instead of inflicting Juggle 1 on 1 fighter before taking on the Stance.</p><p><strong>Jamiyun Kulisa's Spiralling Lightning: +1 Beat</strong> to upgrade the stance. When you lose the stance, immediately teleport adjacent to any enemy in range 2 or any enemy with Juggle or Unbalance, and then inflict violence.</p>",
+    "discipline": "IHuYAz4gU9u25fFi"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685145493716,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!7vHwxrDjo9N7Y468"
+}

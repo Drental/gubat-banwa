@@ -1,0 +1,26 @@
+{
+  "name": "Raiding Rope",
+  "type": "antingAnting",
+  "_id": "bBvgZN7ay1zHirG1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A rope made of abaca, with a hook at the end. Used for boats, but equally useful against warriors.</em></p><p><strong>Effect:</strong> When you Rush, you can choose to <strong>swing on a Rope instead:</strong> choose 1 square in burst 2.Move yourself to any space that is exactly 2 squares away from that square. If there is a fighter on the square you move into, inflict push 1.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228351143,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!bBvgZN7ay1zHirG1"
+}

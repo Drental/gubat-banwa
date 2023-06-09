@@ -1,0 +1,35 @@
+{
+  "name": "Martyr",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "raider",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Warriors of the Most High, Sacrifical Berserkers, Those Who Will Die For The Moon Goddess, They Who Triumph In Adversity</strong></p><p>Martyrs triumph in adversity. They kill and die in the name of their conviction. While Faith in the Moon Goddess isn't a prerequisite to mag-sabil, conviction is. A conviction to die in the face of imminent, andsometimes quite certain, death.</p><p>All warriors can perform the sabil, that sacrosanct war-ritual. However, Martyrs dedicate their entire lives to the sabil. Every venture they go out on is a venture they are prepared to die for their faith in. This has caused Martyrs to be particularly feared, due to their total lack of self-preservation.</p><p>They vest themselves in the trappings of burial: wear white, anointed in oil by the pandita. And then they go to battle to die, bringing as many as they can with them, so that they can arrive in heaven and stand alongside Baginda Sumongsuklay.</p><p>The first Martyr was said to be Baginda Sumongsuklay herself. She arrived upon the islands in times now longgone, and traveled into the sky palace of Indira Suga and Jamiyun Kulisa, and immediately went into a frenzy. She succeeded in breaking the sky gates, and in her total lack of self-preservation, leapt onto the Thunderbolt and wounded him. Brother Lightning and Mother Sun have since left that sky palace, and now Baginda Sumongsuklay commands the faith and trust of the warriors of Akai.</p><p>Those that become Martyrs dedicate their entire lives to the emulation of that art, with the knowledge that they shall ascend to the bladed moon heaven of Baginda Sumongsuklay should they die in the act of pag-sabil.</p><p>The death violent art of mag-sabil has been known since the dawn of time, once practiced in supreme deference and respect for the datu, they will dress themselves in the vestures and raiment of death and go on berserk fury, or as it is known in the Archipelago: pag-sabil. You sharpen this glorious fury into your weapon. You have forged yourself into the ultimate killing machine: your heart is a sword, the pain you suffer is fire to the furnace.</p><p>During the end of the Seventh Moon Era, pag-sabil has been easier to initiate and invoke with the help of sugapa and other drugs to elevate the fury to one transcendental, communing with the spirits of war.</p><p>The most well known mag-sabil do give themselves to the mad fury of the moon, of the Moon Goddess Baginda Sumongsuklay, to whom adoration and respect is required, and dying in their name is the ultimate way to reach her Palace in the Sky.</p><p>Martyrs can also be found all across the archipelago, especially those that have the same amount of zeal and loyalty to their leaders and the spirits of their settlements. They are, however, few and far in between in number, a small number of warrior braves who are always ready to die for their leader and faith.</p><p>Before going out on a venture, you dress yourself in the raiment of death and then anoint yourself with oils, as if you were being carried off to be buried, and then dress yourself in your best jewelry, to make sure that you bring with you your earthly wealth to the next life and be accepted into heaven with open arms.</p><p>If you chose the violent life of the Martyr, ask yourself who you profess your faith to. Why? Do you wish heaven? Or is this a convenient excuse for you to inflict indiscriminate violence?</p>",
+    "violences": "<p><strong>Holy Berserk [1]:</strong> <em>Let loose for Goddess!</em> Melee Fire Faith Attack vs an adjacent fighter with Skewering, then you suffer Eviscerate (1) afterward.</p><p><strong>Overwhelming Force [1]:</strong> <em>Break through,</em> IDA IDA! Push 4 a close target, inflict Unbalance (1) on them afterward.</p><p><strong>Purification [1]:</strong> <em>Become holy before Goddess!</em> Melee Fire Faith Attack vs an adjacent fighter, then gain Block 1.</p>",
+    "traits": "<h3>Death Trance</h3><p><em>You clad yourself in the raiments of death, white to reach the Moon Goddess' eternal blissful palace. Breathe now, breathe. If it be your time, then it is your time. Be not afraid. Be not afraid. Who are they to say that your faith-rage is unjustified? This world is sundered and torn: break it even further, and in so doing bring light to bear. This is the Principle of Fury: kill all things indiscriminately to attain true Harmony. Remember, loved one. Your rage is not simply anger, wrath. It is justice, God’s Vengeance, Holy Moon Striving. You fulfill the purpose of your life in this, submit wholly to the Moongleam.</em></p><p>Performing the Sabil gives you benefits according to what Strike it is. The longer the fight goes, the more powerful you become, but the more reckless you become as well. These benefits are accumulative.</p><p><strong>Strike 1: Lunar Fury.</strong> When you bring a target to 0 HP, you may Rush 2 and Inflict Violence again, ignoring Combo Breaker.</p><p><strong>Strike 2: Rising Beat.</strong> Your Combo Breaker penalty becomes -1 for the Second Attack, and -2 for every third attack and beyond.</p><p><strong>Strike 3: Glory To God.</strong> You gain <strong>+2 Attack Teeth</strong> to all attacks for the rest of violence, but you lose all Defenses: your POS/RES become 0 and cannot be modified.</p><p><strong>Strike 4: Ritual Offering.</strong> You gain <strong>Regen</strong> for the rest of violence, but if you are Defeated at this point, you are not removed from play, but you die at the end of violence.</p><p><strong>Strike 5+: Berserk.</strong> All your Attacks are now True Hits, and you may Inflict Violence for free, ignoring Combo Breaker, every end of your Fulmination.</p><p>Every end of Strike, look if you have suffered any HP loss during that Strike. If not, then you lose the Sabil’s benefits until you suffer HP loss. You can spend 1 Beat to suffer 1 Hit.</p><h3>Whet The Body</h3><p><em>Wield the Moon’s Holy Blade, which is you. You! This is your strength, let Baginda Sumongsuklay, peace be unto her, wield you and bring the final triumph of victory. Who else could it be but you? With this internalization, you wield the holy blade of tenacity, and nothing shall ever stop your advance.</em></p><p><strong>1/Fulmination:</strong> When you suffer an attack, gain <strong>FTH Up (2)</strong>.</p>",
+    "weapon": "Panabas, gunong, barong, kalis, kampilan, golok, pira",
+    "armor": "Bare chest, silk jackets, white headwraps, white bahag, silk slippers"
+  },
+  "effects": [],
+  "folder": "v1UE1XuCpKQMsHxI",
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684866188071,
+    "modifiedTime": 1684881063708,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "qM2zQFjzG4mkSURG",
+  "sort": 0,
+  "_key": "!items!qM2zQFjzG4mkSURG"
+}

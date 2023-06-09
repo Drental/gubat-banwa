@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment King",
+  "type": "technique",
+  "_id": "SELS7pvHaLZMgLRV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“For many datu in the isles, some sort of divinity is a useful claim to royalty. This is because a ruler's powerbase in the isles depend on how much virtue or merit the commonfolk see that you have. If they realize that another, different warrior-brave or king has a more powerful claim to royalty, whether it be divine heritage, bloodline, or superior ultraviolence, then they will switch allegiance on a dime, following the more powerful one. Why would you follow a nonvirtuous person? If you followed a virtuous leader, then you will cultivate virtue yourself.” - Sermons on Virtue and Rulership by Sri Kadasiga Mahawagas</p></blockquote><p>Your adjacency is increased to all squares within range 2 of you, instead of just everything within 1 square of you.</p><p><strong>At Strike 2+, for 1 Beat,</strong> you can give the greatest command: All allies in the battlefield gain <strong>5 Thunderbolt Tokens</strong>.</p>",
+    "discipline": "Ua3X3o73UjtDHMet"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685141040319,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!SELS7pvHaLZMgLRV"
+}

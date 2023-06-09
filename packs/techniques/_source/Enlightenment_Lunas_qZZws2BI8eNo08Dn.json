@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Lunas",
+  "type": "technique",
+  "_id": "qZZws2BI8eNo08Dn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Lunas is the panacea, made up of 20 different herb leaves, 15 animal blood parts, 13 moth, butterfly, and dragonfly wings, and 8 different healing waters from 8 different springs, placed within a clay jarlet engraved with the name of the healing diwata that helped the Mender that brewed this lunas.<br>0 - Discord is an excuse for harmony. In the beginning all things were harmonious. Assemble souls that have become sundered from each other. Rejoin with that supreme soul, that supernal consciousness, and find enlightenment. Only then shall you achieve Conjunction.</p></blockquote><p>Whenever you Heal an ally, heal them +1 and you also heal 1.</p><p><strong>At Strike 5+</strong> you can <strong>spend 1 Beat</strong> to bring all allies up to Full <strong>HP</strong>, bringing any Defeated Ally back to play.</p>",
+    "discipline": "pH22B4aJoizufwpZ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685147173390,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!qZZws2BI8eNo08Dn"
+}

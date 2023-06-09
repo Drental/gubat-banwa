@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Vesper of The Conquering King",
+  "type": "technique",
+  "_id": "qgu3bOnYtasO8oqe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The song of Rajaraya is lost now, no doubt a sad consequence of his great ambition. His mission and his achievements were liable to make him the most famous of all ancestors: he was the Conquering Giant-King, the one who will seize heaven's thunderclaps, who will destroy the gates of the sky and seize Jamiyun Kulisa's Thunderbolt. It is said that he succeeded, but that he  also failed. The truth is now long forgotten, and some say that the Conquering Giant-King still walks this world, or that his corpse can be found within the deep cavern complexes that can be found near the mountain of Tauhaw, where the grand Rajahnate of Gatusan stakes its center.</p></blockquote><p>At the beginning of Violence, you and all allies gain a <strong>Perfect Tempo</strong>. When you are the target of an attack, you can consume the Perfect Tempo to immediately rush 3 before the attack.</p><p><strong>At Strike 4+,</strong> for 1 Beat, All allies in the battlefield can take 4 Beats on their next Fulmination.</p>",
+    "discipline": "n5pPpsV1jpAaW0zE"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685059199943,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!qgu3bOnYtasO8oqe"
+}

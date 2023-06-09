@@ -1,0 +1,27 @@
+{
+  "name": "Death Comet",
+  "type": "technique",
+  "_id": "8lpFjrkOzzhgLIKb",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Death Dancers practice the art of Holistic Violence, one of the main Rituals of Yamadiraja. This means that they are not simply inflicting violence, but they are violence. Death Dancers that practice this Technique understand and apply it to their martial art: they are capable of taking on multiple stances at a time, as if they are all violence at once. Quoth Death: “The Dance of Death is not just a physical dance, but rather, a way of life. Death, remember, is not the end, but rather, the next step to the next life. Therefore embrace death, and you shall be mercurial.” The ultimation of this Technique is the ability to strike the air so quick with kicks that you summon a burning comet.</p></blockquote><p><strong>Prereq:</strong> Foe Stepping Stance, Hornbill Bladekick</p><p><strong>Spend 1 Beat</strong> to kick the air rapidly, and send a ball of pure fraying death upon a target: Ranged Earth Faith Attack vs 1 fighter in range 5.</p><p><strong>Death River: +1 Beat</strong> to turn this into a starstreak: Change the target to all fighters in line 5.</p><p><strong>Death Souled: +1 Beat</strong> to store the ball instead, turning it into a <strong>Death Charge</strong>.When you next make a Faith attack, consume the Death Charge to make that attack <strong>Overwhelming</strong>.</p>",
+    "discipline": "e8rqXR6QMPHOCjvD"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685008992824,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!8lpFjrkOzzhgLIKb"
+}

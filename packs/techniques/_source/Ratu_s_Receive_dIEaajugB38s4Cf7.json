@@ -1,0 +1,27 @@
+{
+  "name": "Ratu's Receive",
+  "type": "technique",
+  "_id": "dIEaajugB38s4Cf7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Leap down and recieve an attack. “The Great Iwas-Iwas Has Dodged The Dimakausog's Fireball Strike! His Counterattack Is Set To Finish This Match!” - Shoutcaster Basaka Tagaka, during the semifinals match point of the Shooting Star Massacre.</p></blockquote><p><strong>Spend 1 Beat</strong> to raise your feet and ready: take on the <strong>Receiving Stance</strong> until the end of your next Fulmination. While in this stance, you have <strong>SPD Up</strong> and <strong>Stability</strong>, and any ally can target you to make you the origin square of any ranged attack that has a target with range, giving the ranged attack +1 Attack Tooth.</p><p><strong>Lightning Dribble: +1 Beat</strong> to gain the following effect: whenever you are made the origin square of a ranged attack, <strong>rush 2</strong> before releasing the attack.</p>",
+    "discipline": "C5vdUrcwXKyVTgFG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685147367830,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!dIEaajugB38s4Cf7"
+}

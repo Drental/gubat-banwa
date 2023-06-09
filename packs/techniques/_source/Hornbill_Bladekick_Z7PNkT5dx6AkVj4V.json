@@ -1,0 +1,27 @@
+{
+  "name": "Hornbill Bladekick",
+  "type": "technique",
+  "_id": "Z7PNkT5dx6AkVj4V",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Duality-Rending Sutra: do what is assigned to you, to your utmost ability, to the quality closest to the one expected. Strike, and when you do, strike with utmost intent. To perform the Hornbill Bladekick you must be close enough to Yamadiraja that you can manifest his leg, which is a burning monitor lizard claw.</p></blockquote><p><strong>Prereq:</strong> Deathly Clinch</p><p><strong>Spend 1 Beat</strong> to strike an adjacent fighter either down or up with a bladekick. <strong>If up:</strong> inflict 1 Hit and <strong>Juggle (1)</strong>; <strong>if down:</strong> inflict 1 Hit and inflict <strong>Unbalance (1)</strong>.</p><p><strong>Deep Earth Axe: +1 Beat</strong> if you strike them down to embed them into the earth. While embedded, they cannot move or be moved, and they must spend 1 Beat to remove the embed.</p><p><strong>Sky Render: +1 Beat</strong> if you strike them up to launch them into the sky, removing them from play. They fall down at the start of their next Fulmination, suffering 1 True Hit.</p>",
+    "discipline": "e8rqXR6QMPHOCjvD"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685008819516,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Z7PNkT5dx6AkVj4V"
+}

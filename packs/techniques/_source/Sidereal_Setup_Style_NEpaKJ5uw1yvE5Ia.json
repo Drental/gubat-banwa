@@ -1,0 +1,27 @@
+{
+  "name": "Sidereal Setup Style",
+  "type": "technique",
+  "_id": "NEpaKJ5uw1yvE5Ia",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You dig down and kick a projectile up into the air, and your allies see this as a proper signal. The Star of Morning is a style that turns play into violence. An important aspect of Sipa is the rule that you lose if you lose your volley. The ball must always be in the air. Therefore so do you keep your burning star aloft.</p></blockquote><p><strong>Prereq:</strong> Ratu’s Receive</p><p><strong>Spend 1 Beat</strong> to call out your targets: mark a single fighter in range 5.The next attack against the mark consumes the mark and inflicts -1d on the target’s Defense Teeth.</p><p><strong>Kabugwason Star: +1 Beat</strong> to mark up to 3 targets in burst 3 instead.</p><p><strong>Dual-Tailed Constellation: +1 Beat</strong> to stack <strong>2 marks</strong> on a target.</p>",
+    "discipline": "C5vdUrcwXKyVTgFG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685147636842,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!NEpaKJ5uw1yvE5Ia"
+}

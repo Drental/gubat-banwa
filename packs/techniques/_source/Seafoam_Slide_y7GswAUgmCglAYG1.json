@@ -1,0 +1,27 @@
+{
+  "name": "Seafoam Slide",
+  "type": "technique",
+  "_id": "y7GswAUgmCglAYG1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Taught by Hiling Makar as he was well versed in the arts of the bow before becoming the first Swordfish Cavalier. With this, you fire a piercing jet of water from your bow, shredding through armor.</p></blockquote><p><strong>Spend 1 Beat</strong> to <strong>Rush 3</strong> and then gain +1 Attack Tooth on your next Water Attack. This Rush ignores Water Terrain.</p><p><strong>Soak: +1 Beat</strong> to inflict <strong>Water Vulnerability (2)</strong> on all enemies adjacent to you after the Rush.</p>",
+    "discipline": "uolp52dOs2ud4Jha"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685059355401,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!y7GswAUgmCglAYG1"
+}

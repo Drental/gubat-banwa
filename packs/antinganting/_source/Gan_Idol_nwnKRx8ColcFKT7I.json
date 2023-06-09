@@ -1,0 +1,26 @@
+{
+  "name": "Gan Idol",
+  "type": "antingAnting",
+  "_id": "nwnKRx8ColcFKT7I",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>An idol depicting the elephant-headed god Gan, brought to the isles by Ashinin Missionaries. Gan is the God of Beginnings and Intelligence.</em></p><p><strong>Effect:</strong> Gain <strong>earth conditioning</strong> but suffer <strong>metal vulnerability</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685227463082,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!nwnKRx8ColcFKT7I"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Naga Maw Periapt",
+  "type": "antingAnting",
+  "_id": "XibQNwBJ0bYV3d5H",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>This is a maw made of gold that wraps around the lower half of the face and flanges into two wing-shaped peaks that elongate the ears, giving the illusion that the wearer is a naga itself. Worn by gods and kings of The Sword Isles, one can only wear this periapt when allowed by Balyan. If not, both spirits and demons will follow you. Naga are dragons, but commonly are guardians against fire, while serpents are guardians against earth, sickness, and beast, while crocodiles are guardians against water and death.</em></p><p><strong>Effect:</strong> Whenever you make <strong>Faith Attacks</strong>, you gain a <strong>Dragon Token</strong>. When you reach <strong>3 Dragon Tokens</strong>, you gain a <strong>Dragon Install</strong>, which you can only have 1 at a time. You can spend the Dragon Install when you make any attack to immediately make one die into a <strong>10</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685229059834,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!XibQNwBJ0bYV3d5H"
+}

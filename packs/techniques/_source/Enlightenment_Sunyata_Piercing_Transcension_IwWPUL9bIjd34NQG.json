@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Sunyata-Piercing Transcension",
+  "type": "technique",
+  "_id": "IwWPUL9bIjd34NQG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>That ultimate Mastery of Lawu, The Sun Eating Eagle: impale the sun and make the sky bloody with rebellion. With this, you become gathering storm clouds, waiting for the perfect opportunity to strike. Then, like that lightning dog, you descend upon the world. “There is no god, in fact there is no self, there is only thought,” you state, as your weapon pierces the heart of creation.</p></blockquote><p>You have a <strong>Lightning Token</strong> at the beginning of Violence. You can discard it at any point to immediately <strong>teleport to any free square anywhere in the battlefield.</strong></p><p>At <strong>Strike 4+</strong>, spend 1 Beat to rush 8 in a straight line, 4 times. Every enemy you move through suffers 1 True Hit. Then, make an <strong>Overwhelming Skewering Air Melee Bravery + Faith</strong> attack vs all enemies in a burst 1 centered on one of the enemies that you moved through, each Hit being a True Hit, and then teleport to a square adjacent to that target.</p>",
+    "discipline": "IHuYAz4gU9u25fFi"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685146123473,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!IwWPUL9bIjd34NQG"
+}

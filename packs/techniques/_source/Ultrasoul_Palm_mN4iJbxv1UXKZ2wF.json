@@ -1,0 +1,27 @@
+{
+  "name": "Ultrasoul Palm",
+  "type": "technique",
+  "_id": "mN4iJbxv1UXKZ2wF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Clasp your hands together to produce a healing oil made of crushed flowers, cinnamon bark, and deepsea coral snake blood. Utter a mantra, and a mandala erupts from the crushed ingredients. When you bring your hands apart, Rumsua's Eye opens in the middle of your palm: the symbol fo health and spiritual strength. With Rumsua's Eye in your palm, you strike down, and blast both the enemy’s physical and spiritual forms.</p></blockquote><p><strong>Prereq:</strong> Agas</p><p><strong>Spend 1 Beat</strong> to push 4 an adjacent fighter.</p><p><strong>Spend 2 Beats</strong> to push an adjacent fighter's soul from them instead, pushing their soul into a square that is 3 squares behind them in a straight line. Anything that happens to the soul happens directly to the original fighter. The fighter must move into their soul to reunite with them. The soul still collides, and it ignores terrain. It cannot move or be moved (if it suffers forced movement, the original fighter suffers it instead).</p>",
+    "discipline": "pH22B4aJoizufwpZ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685146528347,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!mN4iJbxv1UXKZ2wF"
+}

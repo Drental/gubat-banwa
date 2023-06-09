@@ -1,0 +1,26 @@
+{
+  "name": "Spiraling Dagger",
+  "type": "antingAnting",
+  "_id": "FhUgmcdXv2re7q5L",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A dagger that spins around, like a furling wave.</em></p><p><strong>Effect:</strong> All your melee attacks against <strong>close targets</strong> always deal <strong>1 Hit</strong> minimum in a Violence Cast. This does not ignore immunity and conditioning.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225643658,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!FhUgmcdXv2re7q5L"
+}

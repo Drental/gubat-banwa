@@ -1,0 +1,27 @@
+{
+  "name": "Naga Breaker Straight",
+  "type": "technique",
+  "_id": "47KAIChbPEbLMm1A",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>He’s Done It! He Has Performed A Perfect Shooting Star Set Up! Kabaka Takes The Setup And Performs That Immortal Forbidden Technique, The One To End It All: Naga! Breaker! Straight!!!” - Shoutcaster Sinuka-ang-bala, during the grand finals of the Shooting Star Massacre between the Balangiga Crimson Pudongs and Obertura Straightened Axes.</p></blockquote><p><strong>Prereq:</strong> Rolling Thunder</p><p><strong>Spend 1 Beat</strong> to perform the Imperfect Naga Straight: Area Air Bravery Attack vs all fighters in line 4.</p><p><strong>Spend 2 Beats</strong> to perform the <strong>Reincarnated Naga Straight:</strong> Area Air Bravery+Faith Attack vs all fighters in line 10.</p><p><strong>Spend 3 Beats</strong> to perform the <strong>Perfected Naga Breaker Straight:</strong> Area Air Bravery+Faith Attack vs all fighters in Path 10.</p>",
+    "discipline": "C5vdUrcwXKyVTgFG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685148266558,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!47KAIChbPEbLMm1A"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Hati Tiyempo",
+  "type": "technique",
+  "_id": "sF0PxsDTHk4GDD7T",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>An incantation mixed with three mudra that speak of swiftness, cutting, and endings. The target of this benefit is imbued with the speed of an unsheathing sword.<br>An advanced technique that is hard to perfect but unfortunately is probably the most important ability of all Bladeweavers. This is a favorite of Master Samasida, a wily hermit found in the island of Bakara near the Ruins of Samrasat, where he studies with wandering souls of that ancient civilization.</p></blockquote><p>When you make a melee attack,choose 1 ally in range 3 (or yourself). They gain <strong>1 Tiyempo</strong>. When they gain <strong>3 Tiyempo</strong>, they immediately gain <strong>Haste</strong> for the next Strike. While they have Haste, they move first in a Strike, before any other fighter.</p><p><strong>At Strike 3+, spend 1 Beat</strong> to can activate Minor Liberation. Every time you Stride, Move, or Rush, you may teleport that much instead. At <strong>Strike 4+</strong>, inflict1 True Hit on every enemy in the battlefield when you teleport.</p><p>If you are <strong>Defeated</strong> while you have Minor Liberation Activated, you vanish from reality, unravelling from material.</p>",
+    "discipline": "LhM37wrgylaO1paB"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685137376657,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!sF0PxsDTHk4GDD7T"
+}

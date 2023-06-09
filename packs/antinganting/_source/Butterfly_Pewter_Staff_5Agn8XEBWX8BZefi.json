@@ -1,0 +1,26 @@
+{
+  "name": "Butterfly Pewter Staff",
+  "type": "antingAnting",
+  "_id": "5Agn8XEBWX8BZefi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A pewter staff that wherein cocoons blossom from, wherein scarlet butterflies erupt whenever the bell is rung. The scarlet butterfly is an important symbol of metamorphosis and symbiosis for the First Makinaadmanon, who ascertained that it was nature's beauty, cyclical nature and inherent unity condensed into a single being. Its fluttering and beauty is brief, but the fact that it ends make it important, and the spores it spreads with its wings ensure that life continues evermore.</em></p><p><strong>Effect:</strong> Whenever you end your Fulmination, <strong>heal 1</strong> all adjacent allies.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228700098,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!5Agn8XEBWX8BZefi"
+}

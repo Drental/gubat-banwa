@@ -1,0 +1,26 @@
+{
+  "name": "Explosion Inscriptions",
+  "type": "antingAnting",
+  "_id": "te5U0fb598rpQ422",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>You have surat inscribed upon your weapons burning red, which burn hotter and hotter and eventually explode as the fight continues.</em></p><p><strong>Effect:</strong> Whenever you make an area or ranged attack, gain 1 Explosion Charge. When you reach 3 Explosion Charges, immediately trigger the following effect.</p><blockquote><p>Gatling Fulmination: Deal 1 True Hit to all enemies adjacent to you, then lose all Explosion Charges.</p></blockquote>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685227176030,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!te5U0fb598rpQ422"
+}

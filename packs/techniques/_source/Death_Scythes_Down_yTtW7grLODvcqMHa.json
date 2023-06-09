@@ -1,0 +1,27 @@
+{
+  "name": "Death Scythes Down",
+  "type": "technique",
+  "_id": "yTtW7grLODvcqMHa",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Thread 1: When blood is drawn, maybe then we shall revel in ultraviolence.</p></blockquote><p><strong>Prereq:</strong> Shadow Ritualist</p><p><strong>Spend 1 Beat</strong> to leap down like Sri Dapa's Scythe: Make a Melee Air Bravery Attack vs 1 fighter on an Elevation lower than yours in range 3, then Rush to a square adjacent to them.</p><p><strong>Sri Dapa's Harvest: +1 Beat</strong> to give this attack <strong>Overwhelming</strong>.</p><p><strong>Flitting Death: +1 Beat</strong> to increase the range to <strong>range 5</strong>.</p>",
+    "discipline": "4IvnMd5v9LcDXEbn"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685011140874,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!yTtW7grLODvcqMHa"
+}

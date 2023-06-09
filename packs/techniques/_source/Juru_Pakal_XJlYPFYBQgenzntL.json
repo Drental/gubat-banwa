@@ -1,0 +1,27 @@
+{
+  "name": "Juru Pakal",
+  "type": "technique",
+  "_id": "XJlYPFYBQgenzntL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Juru Pakal is an ancient, holy blade, used by Raja Sulayman and Indarapatra to cleanse the Sword Isles of primordial demons and monsters. Many still exist today. Many shy away from Juru Pakal's power.</p></blockquote><p><strong>Prereq:</strong> Indomitable Pamaagi</p><p><strong>Spend 1 Beat</strong> to strike with the burning white blade of Goddess: Melee Fire Faith Attack vs an adjacent fighter, add +1 Attack Teeth per Bane on the target.</p><p><strong>Swallow Vigor: +1 Beat</strong> to add +1 Attack Teeth per Status effect on the target instead of just Banes.</p><p><strong>Violent Exorcism: +1 Beat</strong> to cleanse all chosen status effects on the target and then <strong>Surge</strong> for free after the attack resolves.</p>",
+    "discipline": "qM2zQFjzG4mkSURG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685051951351,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!XJlYPFYBQgenzntL"
+}

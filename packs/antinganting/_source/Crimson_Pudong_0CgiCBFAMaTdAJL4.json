@@ -1,0 +1,26 @@
+{
+  "name": "Crimson Pudong",
+  "type": "antingAnting",
+  "_id": "0CgiCBFAMaTdAJL4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A large headwrap bathed in deep crimson blood. Represents burning courage and bravery.</em></p><p><strong>Effect:</strong> When a fighter in the battlefield is <strong>Defeated</strong>, <strong>heal 2</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685224877269,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!0CgiCBFAMaTdAJL4"
+}

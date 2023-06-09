@@ -1,0 +1,27 @@
+{
+  "name": "Ghokong Vaults Heaven",
+  "type": "technique",
+  "_id": "dKuc4Eb6TkvJRI6O",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You use your weapon to vault over your enemy, confusing them, befuddling them, overwhelming them with your superior movement.<br>Ghokong is an ancient monkey warrior, one of the best to have lived, who helped the ancient ascetic shaman-monk Tulopitaka to the far Southeast to collect ancient manuscripts lost to time in ancient Stillshrines. He is one of the greatest Kadungganan to ever live, and is himself a namulak, having found Glory.</p></blockquote><p><strong>Prereq:</strong> Hornbill Lance</p><p><strong>Spend 1 Beat</strong> to vault over an enemy: choose1 adjacent fighter and then rush into any other adjacent square to them, and the target suffers <strong>BRV Down (2)</strong>.</p><p><strong>Crashing Dive: +1 Beat</strong> to instead crash into the target's square instead of ending in an adjacent square, inflict Push 2, and then inflict 2 Hits.</p><p><strong>Leaping Dodge: +1 Beat</strong> to choose a fighter in range 3 instead.</p>",
+    "discipline": "IHuYAz4gU9u25fFi"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685145327028,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!dKuc4Eb6TkvJRI6O"
+}

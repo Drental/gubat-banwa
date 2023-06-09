@@ -1,0 +1,27 @@
+{
+  "name": "Sibat Caligo",
+  "type": "technique",
+  "_id": "uZZW9VAUT5To076z",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Bloody Handed Redemption sings of horrible, horrible love. A love that forces you to give too much of yourself. This is the love of lowly mortals that toil evermore. Evisceration is nothing to the gods, but everything to us. Death is spoken of in soft tunes, like a lover.</p></blockquote><p><strong>Prereq:</strong> Scarlet Edge of Love</p><p><strong>Spend 1 Beat</strong> to strike with a spear of pure murder, the <strong>Sibat Caligo:</strong> <strong>Melee Earth Bravery Attack</strong> vs 1 enemy in range 2,then mark each target until the end of their next Fulmination. While marked, if they end their Fulmination not closer to you,they suffer <strong>1 True Hit</strong>.</p><p><strong>Left Hand of Darkness: +1 Beat</strong> to make the attack Area Earth Bravery Attack vs all enemies in Line 2.</p><p><strong>Weight: +1 Beat</strong> to inflict <strong>Slow (1)</strong>on the last target in the line.</p>",
+    "discipline": "VZE3c1GeXvq2Q0xj"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685138237976,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!uZZW9VAUT5To076z"
+}

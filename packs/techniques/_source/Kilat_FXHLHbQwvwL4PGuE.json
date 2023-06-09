@@ -1,0 +1,27 @@
+{
+  "name": "Kilat",
+  "type": "technique",
+  "_id": "FXHLHbQwvwL4PGuE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“As I gather my fulminations, the violences upon my heart bursts forth! Uncontainable like the lightnings: I shall streak brighter than Jamiyun Kulisa! Now feel my sun-searing spite: Kilat!” The element of lightning is the purest condensation of wind, and is the weapon of the gods. This technique was perfected by Busalian Keravu, from the highest mountains of Rusunuga in Sinuku, who was said to have been struck by lightning ten times and Deflected each one. He was granted the technique by Galura himself, who incarnated as Gat Alti Alaya, God-Hero of the Lightning Bolt, who brandished four arms. Mudras are magicked hand gestures that stem from ancient foreign religions. These gestures have metaphysical meaning, and performing them in certain manners, or projecting passionate faith upon them, calls magick upon the world.</p></blockquote><p><strong>Prereq:</strong> Batubalani</p><p><strong>Spend 1 Beat</strong> to summon a fulminating lightning bolt, <strong>Kilat:</strong> make a Ranged Metal Faith Attack vs 1 fighter in range 5.</p><p><strong>Spend 2 Beats</strong> to perform <strong>Kusokilat:</strong> Make the attack a snaking thunderbolt across the battlefield: change the attack to <strong>Area Metal Faith Attack vs all enemies in path 6</strong>.</p><p><strong>Spend 3 Beats</strong> to perform <strong>Devakilat</strong>, as with Kusokilat but also turn every square in the path into Metal Terrain <strong>before</strong> the attack.</p>",
+    "discipline": "SFBwxV27KVWzW1MC"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685014075992,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!FXHLHbQwvwL4PGuE"
+}

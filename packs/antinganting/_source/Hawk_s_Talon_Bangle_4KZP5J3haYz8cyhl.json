@@ -1,0 +1,26 @@
+{
+  "name": "Hawk's Talon Bangle",
+  "type": "antingAnting",
+  "_id": "4KZP5J3haYz8cyhl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A bangle made up of gold and talons of hawks. You can aim down it when you aim with your bow.</em></p><p><strong>Effect:</strong> All your ranged attacks with ranges gain <strong>+2 range</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228136646,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!4KZP5J3haYz8cyhl"
+}

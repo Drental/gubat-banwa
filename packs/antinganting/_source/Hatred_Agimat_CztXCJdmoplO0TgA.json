@@ -1,0 +1,26 @@
+{
+  "name": "Hatred Agimat",
+  "type": "antingAnting",
+  "_id": "CztXCJdmoplO0TgA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A talisman with the face of a grinning demon. Feared and hated by all.</em></p><p><strong>Effect:</strong> All enemies in burst 1 of you are considered as suffering <strong>provoke</strong> to you, which cannot be overridden.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225911355,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!CztXCJdmoplO0TgA"
+}

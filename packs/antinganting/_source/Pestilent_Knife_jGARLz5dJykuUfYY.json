@@ -1,0 +1,26 @@
+{
+  "name": "Pestilent Knife",
+  "type": "antingAnting",
+  "_id": "jGARLz5dJykuUfYY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A ritual knife crusted with the blood of divine beings. When used to attack, brings pestilence upon the target of your scorn. Virulences and plagues are said to belong to the old Sky God, who was so distant from mortals that he does not know the threat of plagues upon them.</em></p><p><strong>Effect:</strong> Every 10 on Attack Teeth against fighters inflict a stack of <strong>Pestilence</strong>. While they have Pestilence, they cannot be healed, cannot gain Boons, and suffer <strong>-1d</strong> to all Defense Teeth.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685229305634,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!jGARLz5dJykuUfYY"
+}

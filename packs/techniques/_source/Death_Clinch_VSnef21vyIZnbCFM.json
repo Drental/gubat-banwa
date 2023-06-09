@@ -1,0 +1,27 @@
+{
+  "name": "Death Clinch",
+  "type": "technique",
+  "_id": "VSnef21vyIZnbCFM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Yamadiraja, as Sri Dapa, measures the lives of every mortal on earth upon a tree on the Mountain of Kibalu, in Sonyoh. There, those that would travel to the Tree of Life would be met by him, and taught by him. He emphasizes thus. Quoth Death: “You are not beyond death. None are. Even immortality is temporary. Even the gods face death, for everything is part of the cycle of Diwa. Therefore, learn: something can only be beautiful if it ends.</p></blockquote><p><strong>Spend 1 Beat</strong> to strike quickly with a chopping bolo punch which weaves into a grapple. 1 adjacent fighter to you becomes <strong>Clinched</strong>. While Clinched, they suffer <strong>Stop</strong>, but they lose Clinched at the end of their Fulmination.</p><p><strong>Fight Ender: +1 Beat</strong> to immediately inflict violence, gaining <strong>Skewering</strong>. Clinch stays.</p><p><strong>Hurl Gods At Mountains: +1 Beat</strong> to immediately throw the target: <strong>push 5</strong> and if they collide, they suffer <strong>Slow (1)</strong>. Clinch ends.</p>",
+    "discipline": "e8rqXR6QMPHOCjvD"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685008206378,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!VSnef21vyIZnbCFM"
+}

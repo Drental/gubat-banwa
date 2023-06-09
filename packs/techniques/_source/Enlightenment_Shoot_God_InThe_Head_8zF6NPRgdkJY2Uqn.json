@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Shoot God InThe Head",
+  "type": "technique",
+  "_id": "8zF6NPRgdkJY2Uqn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Anything it takes,” the ancestors tell you. Anything it takes to win? You’ve forged such an intimate connection with your GUN. “The gun is but a tool,” BALAHARI GILUSOT tells you. “Do not get attached to beings that have never been human. Fool, kill it! Kill it now! Before it realizes your soul and shoots itself through you! A Gun Diwata is new and excited, and it does not know yet its power. The power to level entire nations. Now KILL IT! Bask in the bullet hell you’ve made, witch!”</p></blockquote><p>Whenever you inflict a True Hit, inflict 1 Hit on every enemy adjacent to the target of the True Hit.</p><p><strong>At Strike 4+, Spend 3 Beats</strong> to shoot the god of your gun, releasing bullet hell upon the battlefield: For the rest of violence, whenever an enemy leaves a square, they suffer 1 true hit.</p>",
+    "discipline": "Bd3zoOLRYX0RNwLS"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685135975022,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!8zF6NPRgdkJY2Uqn"
+}

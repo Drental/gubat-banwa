@@ -1,0 +1,26 @@
+{
+  "name": "Razor Bracers",
+  "type": "antingAnting",
+  "_id": "zRdmr2hDVammkGeN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>You wield bracers that are fitted with razor sharp obsidian blades.</em></p><p><strong>Effect:</strong> Whenever you end your Fulmination adjacent to <strong>2+ enemies</strong>, inflict 1 Hit on one of them.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226809191,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!zRdmr2hDVammkGeN"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Dalagang Bakal: Self-Love",
+  "type": "technique",
+  "_id": "DVgivHP76rme9IqX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Makayao's death promises the end of all things, and so you bring it with you. As your bladed armor bites into your skin you remember your penitence. How do you have space for Want? The Dalagang Bakal bleeds. Murderglave armors are living iron maidens: they have spikes that dig deeper into the host, so that one never forgets their lifelong penitence, their pain, their sin for inflicting such violence upon this world. This technique was crafted by the First Murderglave, Saint Lorenzo, who died performing it. His armor still exists somewhere in the Sword Isles, with his corpse kept within, as the Church considered it heresy to keep it in their vaults, and has since thrown it away.</p></blockquote><p>Whenever you suffer Melee or Ranged Attacks, every <strong>1-2</strong> on the Attack Teeth inflicts 1 True Hit on the attacker.</p><p><strong>At Strike 3+,</strong> Spend 1 Beat to summon the <strong>Shadow of your Self-Love, for who else can love yourself but yourself?</strong> Place a Shadow version of you in any square in range 5. The Shadow is you, and Fulminates like you do, has your traits, martial abilties, and techniques. Any thing done to the shadow is considered as done to you instead.</p>",
+    "discipline": "VZE3c1GeXvq2Q0xj"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685138864250,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!DVgivHP76rme9IqX"
+}

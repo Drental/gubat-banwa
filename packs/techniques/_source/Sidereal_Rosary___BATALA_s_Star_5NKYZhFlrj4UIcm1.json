@@ -1,0 +1,27 @@
+{
+  "name": "Sidereal Rosary | BATALA's Star",
+  "type": "technique",
+  "_id": "5NKYZhFlrj4UIcm1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>\"Aba, aba, gunitain ka makapangyarihang Makayao! You died for us, we are not worthy of you. Let your corpse bled dry cover us, let the shadow of your torture wrap around us and bring us bliss upon this land of sorrows! Let your broken ribs be my sword, your shattered halo my shield!\" You strike in the form of an Asterfix where great Makayao, the Son of God, was bled and dried until his corpse became desiccated and mummified.</p></blockquote><p><strong>Prereq:</strong> Passionflower Dance | Violent Bodhisattva Realm</p><p><strong>Spend 1 Beat</strong> to tether a fighter in range 3 to you by a rosary. At any point, you can sever the tether (removing it) to instantly teleport the fighter to an adjacent square. Any fighter can also spend 1 Beat while adjacent to the tethered fighter to sever it.</p><p><strong>Ashen Binding: +1 Beat</strong> to choose an adjacent square. They are tethered to that square instead: they are pulled 3 toward the square and suffer <strong>SPD Down</strong> while tethered.</p><p><strong>Asterfixion: +1 Beat</strong> to also drive an asterfix through the target's heart. When the tether is severed, the target also suffers <strong>1 True Hit</strong>.</p>",
+    "discipline": "6sHfpo6ZH2KCQnbV"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685142777735,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!5NKYZhFlrj4UIcm1"
+}

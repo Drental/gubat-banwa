@@ -1,0 +1,27 @@
+{
+  "name": "Hammer Shatters Earth",
+  "type": "technique",
+  "_id": "TlKOADL4IB6QqF96",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Use your hammer to make a better world. Warsmiths wield all sorts of weapons, constantly shifting, masters of every possible armament so that they are never caught off-guard. Their strikes are thus universal, across all weapons, a skill and feature that makes them feared across the martial arts world.</p></blockquote><p><strong>Spend 1 Beat</strong> to strike down with a hammer: make a <strong>Melee Metal Bravery Attack</strong> vs 1 adjacent fighter, inflicting <strong>Knockdown</strong>. While knocked down, they cannot move voluntarily. They must spend 1 Beat to stand up, removing Knockdown.</p><p><strong>Gada Breaker: +1 Beat</strong> to change the attack into an <strong>Area Earth Bravery Attack</strong> vs all enemes in blast 3. All free squares in the blast become <strong>Earth Terrain</strong> until the end of your next Fulmination.</p><p><strong>Armor Carver: +1 Beat</strong> to inflict <strong>POS Down (2) </strong>on all targets.</p>",
+    "discipline": "uJuh26trijbEfLGJ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685148745952,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!TlKOADL4IB6QqF96"
+}

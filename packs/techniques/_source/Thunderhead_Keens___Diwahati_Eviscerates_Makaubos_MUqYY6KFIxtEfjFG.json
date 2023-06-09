@@ -1,0 +1,27 @@
+{
+  "name": "Thunderhead Keens | Diwahati Eviscerates Makaubos",
+  "type": "technique",
+  "_id": "MUqYY6KFIxtEfjFG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You let the tension rise, and the perfect slashing moment approaches, fulminates, echoes. All sound is dulled away, and the only thing you can hear is the screaming keening thunderhead as it reaches an unstoppable crescendo and you cut.<br>This is the Technique taught by the peerless master of sword-murder Alberto Sakaran Penitente, who was bisected in the process.</p></blockquote><p><strong>Prereq:</strong> Sidereal Rosary | BATALA's Star</p><p><strong>Spend 1 Beat</strong> to go into <strong>Sheathed Stance</strong> until you suffer a Hit. While in Sheathed stance, you cannot make any attacks, but you have +1 to POS.</p><p><strong>Spend 1 Beat</strong> while in Sheathed Stance to teleport your SPD. When you teleport, inflict 1 True Hit against all adjacent enemies.</p><p><strong>Spend 2 Beats</strong> while in Sheathed Stance to end Sheathed Stance, inflict <strong>2 True Hits</strong> to every fighter in <strong>blast 4</strong>, and then end your Fulmination.</p>",
+    "discipline": "6sHfpo6ZH2KCQnbV"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685143075939,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!MUqYY6KFIxtEfjFG"
+}

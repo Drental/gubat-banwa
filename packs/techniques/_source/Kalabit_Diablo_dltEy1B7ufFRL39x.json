@@ -1,0 +1,27 @@
+{
+  "name": "Kalabit Diablo",
+  "type": "technique",
+  "_id": "dltEy1B7ufFRL39x",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Art of Piercing is exemplified by serpents that can burrow into the thick soils and foliage of the great deep forests. Thus follow their way: burrow, spiral, destroy. All things will be broken through. That is the art of piercing. Who needs a spear when bullets can pierce through hearts just as well?</p></blockquote><p><strong>Spend 1 Beat</strong> to take on the <strong>Kalabit Diablo Stance</strong> until the end of your next Fulmination. When you deal 2+ Hits on an attack, consume the stance and then roll a d4: fire a number of bullets equal to the result of the d4 at any enemy in range 3, inflicting 1 True Hit per Bullet. Each possible target must be struck at least once first before inflicting Bullets at the same enemy more than once.</p>",
+    "discipline": "Bd3zoOLRYX0RNwLS"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685135035353,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!dltEy1B7ufFRL39x"
+}

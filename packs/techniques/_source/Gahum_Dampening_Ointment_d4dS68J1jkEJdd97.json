@@ -1,0 +1,27 @@
+{
+  "name": "Gahum Dampening Ointment",
+  "type": "technique",
+  "_id": "d4dS68J1jkEJdd97",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This ointment forcibly causes The Power to be pushed out from the body for a setsuna instant, causing them to lose all autonomy and strength for a few crucial moments. You ready it upon a kris leaf upon your palm, and then strike your opponent with it.</p></blockquote><p><strong>Prereq:</strong> Blasting Jarlet</p><p><strong>Spend 1 Beat</strong> to give the ointment on a fighter in range 3: their next attack gains <strong>Dullness</strong>.</p><p><strong>Dampening Concoction: +1 Beat</strong> to create a <strong>Burst 1 Dampening Field</strong> centered on the original target’s square. All enemies in the Dampening Field have their attacks suffer <strong>Dullness</strong>.</p><p><strong>Bladebreak Herb: +1 Beat</strong> to discard <strong>2 Hits</strong> on the target on their next attack.</p>",
+    "discipline": "pH22B4aJoizufwpZ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685146891987,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!d4dS68J1jkEJdd97"
+}

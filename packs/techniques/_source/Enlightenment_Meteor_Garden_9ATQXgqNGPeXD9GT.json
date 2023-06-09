@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Meteor Garden",
+  "type": "technique",
+  "_id": "9ATQXgqNGPeXD9GT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This technique, taught only to those fully inducted into the arts of the Starshooter, emulates the first Sipa game with the comet god. In this alternative interpretation, Bulalakaw kills all of the 85 that saw the first game, and in the violence, the 85 became the 85 Sidereal Mansions, burning in the sky and dictating destinies if one should seek them. To this day, the Sidereal Mansions play this violent star-version of Bulalakaw's game, and it is said that they were the ones that taught this violent version of the game to the first Starshooters.</p></blockquote><p>When you deal no successful Hits on an attack, gain <strong>+1 Tooth</strong> on your next attack. This stacks until you score successful hits on an attack.</p><p><strong>Spend 1 Beat at Strike 2+</strong> to summon a falling meteor, which can be seen atop the battlefield, bursting through the clouds. It starts at Size 2. Every beginning of Strike, it increases in Size by 1. <strong>For 1 Beat,</strong> teleport to the sky and then axe kick the meteor to the ground, dealing <strong>1+Size True Hits</strong> on every enemy in the battlefield.</p>",
+    "discipline": "C5vdUrcwXKyVTgFG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685148525355,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!9ATQXgqNGPeXD9GT"
+}

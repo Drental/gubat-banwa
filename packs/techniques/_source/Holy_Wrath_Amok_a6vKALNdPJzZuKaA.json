@@ -1,0 +1,27 @@
+{
+  "name": "Holy Wrath Amok",
+  "type": "technique",
+  "_id": "a6vKALNdPJzZuKaA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Verily, I say unto you: should you shed blood for your Goddess, thus shall you find eternal life. But should you rip open Heaven in the name of the Moon, then shall you achieve Concordance.” - Masteries of Pandita Ashakarwa</p></blockquote><p><strong>Prereq:</strong> Juru Pakal</p><p><strong>Spend 1 Beat</strong> and 1 HP to run amok: <strong>Rush 1</strong> and then make an <strong>Overwhelming Melee Fire Faith Attack</strong> vs 1 adjacent fighter.</p><p><strong>Divine Devastation: +1 Beat</strong> to increase the range to all fighters in blast 3.</p><p><strong>Earth-Wrecking Expungement: +1 Beat</strong> to also destroy every object and terrain adjacent to you.</p>",
+    "discipline": "qM2zQFjzG4mkSURG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685052113434,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!a6vKALNdPJzZuKaA"
+}

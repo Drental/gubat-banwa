@@ -1,0 +1,27 @@
+{
+  "name": "Guardian Lion",
+  "type": "technique",
+  "_id": "iWC1BZkp4ksHUG2T",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Guardian Lions, known locally as Simha, Singa, or Chinde, are faithful and legendary lion-dogs made of stone that guard royal enclaves and temples. The Guardian Lions are the protectors of dharma, and in so doing, protect kings and queens who must be essential to the keeping of dharma. Recently, however, the guardian lions have slowly shirked from their responsibility.</p></blockquote><p><strong>Prereq:</strong> Gilded Kinnara</p><p><strong>Spend 1 Beat</strong> to summon a stone guardian lion in a square adjacent to you, which is a <strong>Size 1 Object</strong>. Any chosen fighter that ends their Fulmination adjacent to the guardian lion suffers 1 Hit.</p><p><strong>Lion Dance: +1 Beat</strong> to animate the guardian lions: every end of your Fulmination, the lions may <strong>rush 1</strong>.</p><p><strong>Gnashing Simha: +1 Beat</strong> to strengthen the guardian lions: they inflict 1 Hit to any chosen fighter that ends their Fulmination within burst 2 of them.</p>",
+    "discipline": "uJuh26trijbEfLGJ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685149278089,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!iWC1BZkp4ksHUG2T"
+}

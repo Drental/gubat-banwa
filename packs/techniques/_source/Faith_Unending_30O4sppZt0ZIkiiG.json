@@ -1,0 +1,27 @@
+{
+  "name": "Faith Unending",
+  "type": "technique",
+  "_id": "30O4sppZt0ZIkiiG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Lunar Goddess has seen it fit for you to strive. Coat yourself in the holy oils. Battle is always death, battle is always death. Let out your rage, mighty Martyr! The Lunar Palace Upon The Moon beckons you! If you are to fall, then you shall bring all those around you with you!</p></blockquote><p><strong>Spend 1 Beat</strong> to anoint yourself with oils: gain <strong>+2 Attack Teeth</strong> on your next Melee Attack.</p><p><strong>Shared Striving: +1 Beat</strong> to give this benefit to all adjacent allies as well.</p><p><strong>Heavenly Rend: +1 Beat</strong> to immediately make the following attack: Melee Fire Faith Attack vs 1 adjacent fighter, inflict <strong>Sunder (1)</strong>.</p>",
+    "discipline": "qM2zQFjzG4mkSURG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685050915723,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!30O4sppZt0ZIkiiG"
+}

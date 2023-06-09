@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Knight-Lord of The Seas",
+  "type": "technique",
+  "_id": "X5wBAcmxj9qEolQO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>In the ancient of days there was a great deluge that brought all of the Sword Isles underwater. This deluge was said to be the wrath of Baginda for all the cruelty in thee world. Unfortunately, their punishment did not end the cycles of violence. It was said that this deluge is what buried the great ancient continent of Samrasat under the sea.<br>You envelop yourself in rushing waves and salt sea brine, which takes on the form of the King of the Sea, high and mighty, with a crown of coral reefs and a mount of six thousand balu. You and your Balu share each other's eyes. Spirit torrents guide your arrow shots. Your weapon turns into a shrike of pure jet water, which you hurl against your enemy. Your balu becomes as the royal balu of Tuwan Margosatubig.</p></blockquote><p>When you move into or start your Fulmination in water terrain, <strong>heal 2</strong>. You also become Immune to Slides.</p><p><strong>For 2 Beats</strong> at <strong>Strike 4+</strong>, slide 2 every chosen target in the field, and then every square of water terrain explodes, dealing <strong>2 True Hits</strong> to every target in burst 1 of them.</p>",
+    "discipline": "uolp52dOs2ud4Jha"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685060270599,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!X5wBAcmxj9qEolQO"
+}

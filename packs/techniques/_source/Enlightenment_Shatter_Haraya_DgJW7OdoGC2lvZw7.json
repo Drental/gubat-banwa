@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Shatter Haraya",
+  "type": "technique",
+  "_id": "DgJW7OdoGC2lvZw7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Batala is the “I leave you with this final mentala. Inscribe these upon your souls, or your bamboo slates, or your swords. This is Ni·Ba·Ta·La. Thus is the word for all my followers. All my followers will have my enlightenment, and know the truth of the Trichiliocosm. All things are Haraya, or Imagination. To find the truth of the world, one must find me.” These are the words of Batala upon the Lake of Pulilan, before riding upon a water lotus to the grand unending seas and returning to His abode. Speak Ha·Ra·Ya and manipulate the illusion itself.</p></blockquote><p>Whenever you inflict a <strong>Bane</strong> upon a fighter, put down an <strong>illusion</strong> adjacent to them. You can only put down up to <strong>3 illusions</strong>: if you put down another one while you already have 3, choose any illusion to remove first.<br>When you <strong>Stride</strong>, you can instead choose to switch places with one of your illusions, teleporting.</p><p>These illusions have <strong>1 HP</strong> and can be attacked, but they do nothing else. You can choose what they look like, but most Warspeakers tend to make them look like clones of themselves.</p><p><strong>Spend 1 beat at Strike 4+ to shatter the illusion:</strong> inflict <strong>1 Srue Hit</strong>, <strong>Stun (1)</strong>, and <strong>Sunder (1)</strong> on each enemy adjacent to each illusion. each illusion is shattered, removed from play.</p>",
+    "discipline": "Kfpk3SdUlwPTexYT"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685023119101,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!DgJW7OdoGC2lvZw7"
+}

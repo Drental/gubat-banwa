@@ -1,0 +1,35 @@
+{
+  "name": "Baril Witch",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "sharpshooter",
+    "techniques": [],
+    "hp": 12,
+    "description": "<p><strong>Devil Witches of the Battlefield, Masters of Witchpowder, The Bullet Through God’s Skull</strong></p><p>“The First Technique of Gun is this: No amount of running can save you. Pay fealty, and prostrate yourself upon the bullet throne of Balahari Gilusot.”</p><p>Baril Witches, otherwise known as balapari, are riflemen that use powerful arquebuses gained through trade and replicated by native panday sa luthang (gunsmiths). Baril Witches are peerless experts in the art of using the arquebuses, and they have the immaculate ability to be able to reload quickly, as if they were a bow and an arrow. Firearms in Gubat Banwa can only be fired with Witchpowder: colorful powders made by witchcraft.</p><p>Guns in Gubat Banwa are slow and ponderous. To reload them is a tedious, multi-stepped endeavor. They are dangerous, but better treated as opening fire, nothing more but something to level the field.</p><p>However, Baril Witches use a variety of gun sorceries, special spells specifically only usable with guns, to blast through the enemies' defense. With their skill, they can instantly reload their guns, sorcerously bypassing the limits of the gun.</p><p>Baril Witches are trained to be hopelessly intimate with their weapon, learning the diwata of their particular gun--not just guns in general--to be able to be efficient in the battlefield. With hand mudras and incanted mantras they can summon bullets and change their trajectories even in mid-flight. They can spin and juggle guns and hit their target without seeing the target, due to their intimate connection with their gun.</p><p>Training a Baril Witch takes years, thus making them wanted in Kadungganan parties and war armies. They’re in high demand, but there are a low number of Baril Witches. They are thus treated as elite artillery and long ranged units, and elite skirmishing parties that are intended to kill will always have at least one in their ranks. Baril Witches, however, are almost always strange in the head. Their soul has been shaped into a bullet, after all.</p><p>Baril Witches arose from the ranks of the Lakanate after the witches of the wood were given the chance to serve the Lakan and be treated as nobility if they helped with the war efforts against Issohappa. A large contingent agreed, but other witches disagreed, going off to fight Issohappa on the sides of the Rajahnate or Apumbukid. Those that joined the Lakanate were given the moniker of “Star-knelt”, for they knelt to the power of the Ashen Star.</p><p>Thus, there is a tradition among the more conventional witches in Rusunuga to spite or even pity baril witches.</p><p>The Star-knelt worked with these guns to create the Gun God Engraves, which gave rise to Baril Witches. Baril Witches are chosen from an early age, usually those who have aptitude to sorcery. Thus, many baril witches in the ranks of the Lakanate are not too happy with their forced setup. Baril Witches have since spread across the archipelago, with the other notable creator of baril witches being the Akai Sultanate, who harness moondust to strengthen their guns. If you choose to become a Baril Witch, ask yourself why you have taken up secret knowledge only to inflict violence. Why do you use your knowledge and power to inflict violence? Why have you picked up the gun?</p><p>No blood on your gun; it is the bullets and sorcery that kill. Did you pick up the gun out of necessity or out of cowardice?</p>",
+    "violences": "<p><strong>Sinful Bullet [1]:</strong> <em>Shoot a bullet infused with the sins of your own excess.</em> Ranged Metal Faith Attack vs 1 fighter in range 5, inflict 1 Hit on a square adjacent to the target, then gain 1 Guncharge.</p><p><strong>Impyerno [1]:</strong> <em>Overload your gun and let out a stream of flame.</em> Area Fire Faith Attack vs all fighters in blast 3.</p><p><strong>Juggle Guns [1]:</strong> <em>Shoot, toss, reload, then shoot again using your kinaadman to telekinetically pull the trigger while the gun twirls in the air.</em> Area Fire Faith Attack vs all fighters in burst 1, then gain <strong>1 Defend</strong> until the start of your next Fulmination.</p>",
+    "traits": "<h3>Gun Mastery</h3><p><em>You have peerless control of your gun, surpassing the limits of matchlock, flintlock, and arquebus. Through your skill, you bond with a spirit that has arisen from your gun.<br>Guns were invented in the ancient of days by a god, who was killed by the Sage of Spears, he who had perfected the art of piercing. “With this implement piercing shall become a lesser art!” The Sage of Spears hath said. Therefore thou must keep in mind the art of piercing. It is no frail, baser art. It is, in fact, the most perfect art, a forgotten art. The Art of Cutting reminds one of dichotomy. The Art of Piercing shows you that all things can become one.</em></p><p>When you make an attack against any <strong>marked target</strong>, gain <strong>Skewering</strong> for that attack.</p><h3>Channel The Gun god</h3><p><em>The originator of the Baril Witch's Blasphemous Bullet was a gun foundry owner in old Tundun who communed with Balahari Gilusot, the King of Bullets, and learned the secrets of piercing, an ancient art that is sister only to the sacred act of cutting. The secret of piercing has a branch of knowledge that deals with bullets, which always pierce through. It is called the art of Lodging.</em></p><p>Whenever you start your Fulmination you load your Gun: gaining 1 Guncharge. Every <strong>1-3</strong> on Fire Attack Teeth grants <strong>1 Guncharge</strong>.</p><p>You can gain up to 6 Guncharges. If you gain a Guncharge that puts you over 6, your gun explodes, dealing 2 True Hit to you and all fighters in burst 2.</p><p>While you have Guncharges, gain the following benefits, equal to the number of Guncharges you currently have:</p><p><strong>1+ Guncharge:</strong> Mark all enemies that you <strong>Hit</strong> with your ranged and area attacks.</p><p><strong>3+ Guncharge:</strong> When you make a ranged attack, spend all Guncharge to give the attack Overwhelming.</p><p><strong>5+ Gun Charge:</strong> When you make a ranged attack, spend all Guncharge to make another Inflict Violence immediately after, ignoring Combo Breaker.</p>",
+    "weapon": "Terakuls, matchlocks, arquebuses, lantakas, cetbangs, baril",
+    "armor": "Silk jackets, war jackets, war hats, aristocrat vestments, sarongs, bahag, pants, boots"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684920373457,
+    "modifiedTime": 1684931271542,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "Bd3zoOLRYX0RNwLS",
+  "sort": 0,
+  "_key": "!items!Bd3zoOLRYX0RNwLS"
+}

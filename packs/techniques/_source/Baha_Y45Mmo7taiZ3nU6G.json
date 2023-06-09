@@ -1,0 +1,27 @@
+{
+  "name": "Baha",
+  "type": "technique",
+  "_id": "Y45Mmo7taiZ3nU6G",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“I hold you to your word, giver of waters! Grant me thine strength to vanquish ere enemies! Water churns and overtakes chaos: Baha!” Sorcery is the ability to use your own energy to affect the world at large, which you perform by harnessing your Kinaadman. You bring this storm down to bear upon your enemies. Baha is the spell used to summon water and to let it surge across the world.</p></blockquote><p><strong>Prereq:</strong> Siga</p><p><strong>Spend 1 Beat</strong> to launch a wave of water, Baha: Ranged Water Faith Attack vs 1 fighter in range 4.</p><p><strong>Spend 2 Beats</strong> to perform <strong>Kusobaha:</strong> Area Water Faith Attack vs all enemies in blast 3. All free squares in the burst become <strong>Water Terrain</strong>.</p><p><strong>Spend 3 Beats</strong> to perform <strong>Devabaha:</strong> As with Kusobaha, but also inflict <strong>Slow (1)</strong> to each chosen target.</p>",
+    "discipline": "SFBwxV27KVWzW1MC"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685012488174,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Y45Mmo7taiZ3nU6G"
+}

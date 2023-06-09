@@ -1,0 +1,27 @@
+{
+  "name": "Sea Lantaka",
+  "type": "technique",
+  "_id": "IOpT4GZOnkh2CuZr",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>A skill invented by the old Balu Warlord Panglima Sumarak, who brought with him a giant lantaka cannon as a weapon to destroy stone fortifications. By using this technique, you channel that old Balu Warlord, and summon his lantaka.</p></blockquote><p><strong>Prereq:</strong> Seafoam Slide</p><p><strong>Spend 1 Beat</strong> to fire your sea cannon: Area Water Faith Attack vs all fighters in Range 5 burst 1.</p><p><strong>Riptide: +1 Beat</strong> to also inflict <strong>Pull 2</strong> to all chosen targets.</p><p><strong>Coral Lagoon: +1 Beat</strong> to put down a <strong>Burst 1 Sea Field</strong> in the burst area. Any ally in the field can make their attack into <strong>Water</strong> and they <strong>heal 1</strong> when they start their Fulmination within.</p>",
+    "discipline": "uolp52dOs2ud4Jha"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685059474010,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!IOpT4GZOnkh2CuZr"
+}

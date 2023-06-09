@@ -1,0 +1,27 @@
+{
+  "name": "Song of The Ancients",
+  "type": "technique",
+  "_id": "Qlg6ZMTHiXMdifb1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>This song was sung by the first singer, a demigoddess whose name has been lost to time. She sang it to calm the two mountains that warred in a distant land. She died in the process, but became the clouds and the sky. The mountains continued on and killed each other, however, as they were bolstered by grief.</p></blockquote><p><strong>Prereq:</strong> Litany of the Porcelain Lady</p><p><strong>Spend 2 Beats</strong> to Inflict Violence, and then slide 2 the target. At any point in the slide, you or an ally may inflict violence against them.</p><p><strong>Echoing Ancient Psalm: +1 Beat</strong> to increase the slide to Slide 4.</p><p><strong>Twice-Loved: +1 Beat</strong> to let another ally to also inflict violence.</p>",
+    "discipline": "n5pPpsV1jpAaW0zE"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685058528345,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Qlg6ZMTHiXMdifb1"
+}

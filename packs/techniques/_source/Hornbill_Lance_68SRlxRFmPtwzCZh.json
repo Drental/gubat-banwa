@@ -1,0 +1,27 @@
+{
+  "name": "Hornbill Lance",
+  "type": "technique",
+  "_id": "68SRlxRFmPtwzCZh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>A technique mastered by winged eaglefolk Nawilani, who perfected it when they resolved to ignore their weakness as someone that cannot fly. The Heavenspear is not impeded by the battlefield. All obstacles are simply things that must be vaulted over. Heavenspear Hinalus sped through an entire forest to strike at a warrior resting within the mouth of a river.</p></blockquote><p><strong>Spend 1 Beat</strong> to strike heavenward with your weapon: make a <strong>Melee Air Bravery Attack</strong> vs 1 adjacent fighter, and then inflict <strong>Juggle (1)</strong> on the target.</p><p><strong>Sky Rave: +1 Beat</strong> to gain a Hawk Eagle Token. When an enemy in range 3 ticks down their Juggle duration, discard the Token to teleport to a square adjacent to them and inflict violence.</p><p><strong>Hawk Eagle Dance: +1 Beat</strong> to change the attack to <strong>Area Metal Bravery Attack vs all enemies in Line 5</strong>.</p>",
+    "discipline": "IHuYAz4gU9u25fFi"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685145173184,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!68SRlxRFmPtwzCZh"
+}

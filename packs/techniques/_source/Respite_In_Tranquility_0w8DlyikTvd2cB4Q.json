@@ -1,0 +1,27 @@
+{
+  "name": "Respite In Tranquility",
+  "type": "technique",
+  "_id": "0w8DlyikTvd2cB4Q",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>A remembrance to the ancient times of the Sword Isles, when it was called the Isles of Gold, back when war was the furthest from the minds of warriors. Back when songs were sung under peach trees, songs about play, about the great conflict of the Twin Gods of the Northwest Wind and the Southeast Monsoon, about the dancing of monkeys and mouse deers. The Tranquil Missionaries from the Far Southeast brought with them Gods of Tranquility.</p></blockquote><p><strong>Prereq:</strong> Song of the Ancients</p><p><strong>Spend 2 Beats</strong> to heal 1 all allies in burst 2 of you, and then take on the <strong>Resounding Stance</strong> as you begin playing a healing tune. While in the Resounding Stance, All allies that start their Fulmination in burst 2 of you may <strong>Heal 1</strong>. When you end your Fulmination, you may end Resounding Stance to give <strong>POS Up (2)</strong> and <strong>RES Up (2)</strong> to yourself and all allies in burst 2.</p>",
+    "discipline": "n5pPpsV1jpAaW0zE"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685058757554,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!0w8DlyikTvd2cB4Q"
+}

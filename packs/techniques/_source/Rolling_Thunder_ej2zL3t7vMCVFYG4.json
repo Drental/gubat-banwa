@@ -1,0 +1,27 @@
+{
+  "name": "Rolling Thunder",
+  "type": "technique",
+  "_id": "ej2zL3t7vMCVFYG4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You leap down and strike back an attack, but this ends up with you rolling to the side.<br>“Yeahhhhhhhhhh Never Give In! When Something Fails, Make It Succeed!” - Sipa Master Hanahayan.</p><p>“Why do you kick, Karipal?”<br>“For the same reason as you, Banas. To become the lightning.”<br>“You will not find it in the arena, you know this.”<br>“No. But every time I look at you… I find I am able to seize heaven’s thunderclaps.”</p></blockquote><p><strong>Prereq:</strong> Giant Scaring Boast</p><p><strong>Spend 1 Beats</strong> to <strong>rush SPD</strong>, and then gain a <strong>Rolling Thunder Token</strong>. Discard the Token when a ranged attack’s line of effect goes through your spaces or any space adjacent to you, Deflect the attack, targeting a space or fighter in range 3. Then rush 2.</p><p><strong>Burning Star Vanquish: +1 Beat</strong> to give yourself <strong>SPD Up (2)</strong> and <strong>BRV Up (2)</strong> before you Rush.</p><p><strong>Crashing Scintilla:</strong> Upgrade the Token to a Crashing Scintilla Token. As with Rolling Thunder, but while you have a Crashing Scintilla, whenever an enemy starts their Fulmination, Rush 1. You lose Crashing Scintilla at the start of your next Fulmination.</p>",
+    "discipline": "C5vdUrcwXKyVTgFG"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685147922140,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!ej2zL3t7vMCVFYG4"
+}

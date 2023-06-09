@@ -1,0 +1,27 @@
+{
+  "name": "Impale God Stance",
+  "type": "technique",
+  "_id": "LBFXSqSepshpDiKg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The creator of the Baril Witch art was a blacksmith named Pire, who traveled the length of the Sword Isles and collected knowledge about the art of piercing. He learned a particular gun technique that lets him infuse his bullets with god-killing strength while upon a stand.</p></blockquote><p><strong>Prereq:</strong> Bullet Spirit Art</p><p><strong>Spend 1 Beat</strong> to take on the <strong>Impale God Stance</strong>, wherein you put your gun on a stand. You suffer Stop while in this stance, but you have +2 range to any attacks with range and all ranged attacks convert <strong>1 Hit</strong> into a <strong>True Hit</strong>. When an enemy moves into adjacency of you, you may immediately remove this Stance and Rush 2.</p><p><strong>Piercing Devil: +1 Beat</strong> when you take upon the stance to make your attacks <strong>Skewering</strong>.</p>",
+    "discipline": "Bd3zoOLRYX0RNwLS"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685135411316,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!LBFXSqSepshpDiKg"
+}

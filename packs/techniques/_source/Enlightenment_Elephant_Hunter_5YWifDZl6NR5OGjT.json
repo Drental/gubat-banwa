@@ -1,0 +1,27 @@
+{
+  "name": "Enlightenment Elephant Hunter",
+  "type": "technique",
+  "_id": "5YWifDZl6NR5OGjT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The great Maharaja Indrajaya, one of the most well known ancient datu under the Sultanate, once went on a hunting journey with Jaris Akai himself in Jamiyun Kulisa’s Arrows. There they found large elephants, and decided that these behemoths are the greatest hunting targets. They went and killed many, but were faced with Sri Ganesh, the Elephant God. With the help of Baginda (who gave them a blessed moonsilver needle that destroyed Sri Ganesh’s god nature) they defeated Sri Ganesh, who told them that they could continue hunting elephants, but must only do so as a powerful ritual offering to gods. With this agreement, Jaris Akai introduced elephants to Siga upon great war junks. Maharaja Indrajaya became known as the great Hunter King, and many Akai hunters invoke his soul when going out on hunting expeditions.</p></blockquote><p>At the start of your Fulmination, you may give 1 enemy in range 4 that you can see <strong>1 Hunt</strong>. Only 1 fighter can have Hunt in the battlefield at any given time--if you give a different fighter the Hunt, transfer all current Hunt to that fighter. A fighter can have up to 5 Hunts. Whenever a fighter with Hunt is the target of an attack, the attacker may spend any number of Hunts to add that many Attack Teeth to the Violence Cast.</p><p><strong>Spend 2 Beats at Strike 3+</strong> to throw a Moonsilver needle at up to 3 fighters in the battlefield. They have the needle for the rest of Violence. While they have the needle, they suffer <strong>1 true hit</strong> every time they leave a square.</p>",
+    "discipline": "6MkcKsvxDnyw8JNQ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685049343169,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!5YWifDZl6NR5OGjT"
+}

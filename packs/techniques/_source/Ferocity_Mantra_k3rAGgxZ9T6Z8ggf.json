@@ -1,0 +1,27 @@
+{
+  "name": "Ferocity Mantra",
+  "type": "technique",
+  "_id": "k3rAGgxZ9T6Z8ggf",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>“Master this utterance and inflict doubt upon the victims of your scorn. This is how you will transcend violence.” You utter Ba·La·Sik: the surat inscribed upon the air, you weaken your target.</p></blockquote><p><strong>Prereq:</strong> Fey Buddha Glossolalia</p><p><strong>Spend 1 Beat</strong> to weaken a fighter: Inflict <strong>1 Hit</strong> and <strong>BRV Down (2)</strong> or <strong>FTH Down (2)</strong> to a fighter in range 4.</p><p><strong>Vicious Mantra: +1 Beat</strong> to inflict <strong>BRV Down (2)</strong> + <strong>FTH Down (2)</strong> instead.</p><p><strong>Flensing Mantra: +1 Beat</strong>: Inflict <strong>Sunder (2)</strong> on the target as well.</p>",
+    "discipline": "Kfpk3SdUlwPTexYT"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685021499399,
+    "modifiedTime": 1685023449026,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!k3rAGgxZ9T6Z8ggf"
+}

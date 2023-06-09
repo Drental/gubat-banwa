@@ -1,0 +1,27 @@
+{
+  "name": "Crimson Steel Rain",
+  "type": "technique",
+  "_id": "zNct9aGdv7Qxw25F",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Flash up, and then spin, dance about, send shots in every direction possible. Nothing can escape your path. Guns were invented in the ancient of days by a god, who was killed by the Sage of Spears, who had perfected the art of piercing. “With this implement piercing shall become a lesser art!” The Sage of Spears hath said. Therefore thou must keep in mind the art of piercing. It is no frail, baser art. It is, in fact, the most perfect art, a forgotten art. The Art of Cutting reminds one of dichotomy. The Art of Piercing shows you that all things can become one.</p></blockquote><p><strong>Prereq:</strong> Impale God Stance</p><p><strong>Spend 1 Beat</strong> to leap over your targets: <strong>Rush SPD</strong>, Fly for the duration of the movement, and then inflict <strong>Fray 1</strong> on a single enemy that you move through.</p><p><strong>Scarlet Sundance: +1 Beat</strong> to make the following attack at any point during the movement: Area Metal Faith Attack vs all chosen fighters in burst 1.</p><p><strong>Witchpowder Wreath: +1 Beat</strong> to gain <strong>Stealth (2)</strong> after the Rush.</p>",
+    "discipline": "Bd3zoOLRYX0RNwLS"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685135570283,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!zNct9aGdv7Qxw25F"
+}

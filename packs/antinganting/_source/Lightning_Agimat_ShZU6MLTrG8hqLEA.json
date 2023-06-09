@@ -1,0 +1,26 @@
+{
+  "name": "Lightning Agimat",
+  "type": "antingAnting",
+  "_id": "ShZU6MLTrG8hqLEA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>A piece of wood scorched by lightning, turned into a protective amulet.</em></p><p><strong>Effect:</strong> Gain <strong>air conditioning</strong> but suffer <strong>earth vulnerability</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685225781987,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!ShZU6MLTrG8hqLEA"
+}

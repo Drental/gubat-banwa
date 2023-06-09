@@ -1,0 +1,27 @@
+{
+  "name": "Storm Surge Style",
+  "type": "technique",
+  "_id": "OkiN6e47INsmspNs",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The waterfall cascades and flows. You rush up it, and send the haze of the falls upon you. Perfected by a later student of the Coral Knight Art, Abuy, who kept trying to climb up a waterfall.</p></blockquote><p><strong>Prereq:</strong> Moon Princess Style</p><p><strong>Spend 1 Beat</strong> to rush 3. Make every square you move through into <strong>water terrain</strong>.</p><p><strong>Overflow: +1 Beat</strong> to make the water terrain <strong>overflow</strong>: inflict <strong>1 Hit</strong> on every enemy adjacent to the water terrain you just put down.</p><p><strong>Sea Naga Whip: +1 Beat</strong> to make the following attack after the Rush: Area Water Faith Attack vs all fighters in path 7, then inflict <strong>SPD Down (1)</strong>.</p>",
+    "discipline": "uolp52dOs2ud4Jha"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685060081008,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!OkiN6e47INsmspNs"
+}

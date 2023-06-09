@@ -1,0 +1,27 @@
+{
+  "name": "Tempest Garuda Lance",
+  "type": "technique",
+  "_id": "pZk5lp4skPgcdOLQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Gather all that you know and summon a lithe and little hurricane to rend through the battlefield. A technique taught by Kartike themself, who arrived before ancient warriors in the Footsteps of the Gods before Akai was even established and taught them the divinity of the sarimanok, and their omen being.</p></blockquote><p><strong>Spend 1 Beat</strong> to send a flurrious blade across the battlefield: Melee Air Bravery Attack vs an adjacent fighter, and then inflict <strong>Air Vulnerability (1)</strong>.</p><p><strong>Sky-Scouring Spear: +1 Beat</strong> to change the attack into Area Air Bravery Attack vs all enemies in line 6, and every square becomes <strong>Air Terrain</strong>.</p><p><strong>Beffudling Wind: +1</strong> Beat to inflict <strong>Provoke (1)</strong> on all targets.</p>",
+    "discipline": "qPTH32ZzDaLuCFyt"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685052816970,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!pZk5lp4skPgcdOLQ"
+}

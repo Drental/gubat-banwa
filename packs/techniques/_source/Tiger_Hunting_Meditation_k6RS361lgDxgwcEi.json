@@ -1,0 +1,27 @@
+{
+  "name": "Tiger Hunting Meditation",
+  "type": "technique",
+  "_id": "k6RS361lgDxgwcEi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Godbeast Hunter Jinrud Aceh Pakali could not capture a legendary tiger whose fur was whiter than lunarblooms. Therefore, in the midst of the night, when the Moon was full, he removed the balatik from its fixture on the ground and hunted down the Tiger God. The Tiger God was so impressed at Jinrud's tenacity that they fought Jinrud on his own terms, until Jinrud slew them. In thanks, Jinrud cut off the deer's antlers and gave it back to the forest. Jinrud has since then began teaching advanced Beast Hunters the art of wielding the Skewering Spear.</p></blockquote><p><strong>Spend 1 Beat</strong> to take on the <strong>Tiger Hunting Stance</strong> until you are forcibly moved. Inflict <strong>Eviscerate (2)</strong> on a single fighter in range 3 when you take on the Stance. While in this Stance, you and all your summons and pets ignore difficult terrain.</p><p><strong>God Hunting: +1 Beat</strong> to enhance the Tiger Hunting Stance into the God Hunting Stance: while in this stance, on top of the benefits of the Tiger Hunting Stance, you can <strong>teleport 1</strong> before making an attack.</p>",
+    "discipline": "6MkcKsvxDnyw8JNQ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685048508814,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!k6RS361lgDxgwcEi"
+}

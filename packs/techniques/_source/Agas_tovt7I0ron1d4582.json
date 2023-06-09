@@ -1,0 +1,27 @@
+{
+  "name": "Agas",
+  "type": "technique",
+  "_id": "tovt7I0ron1d4582",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You utter healing mantra of Agas, heal, spoken and sung during healing rituals. Healing Mantras heal The Vigor Soul first, before diving into the intricacies of an ailment. It is the Vigor that keeps us from death, that keeps The Immortal imprisoned within our bodies.</p></blockquote><p><strong>Spend 1 Beat</strong> to heal 2 an ally in range 5.</p><p><strong>Kusgagas: +1 Beat</strong> to also <strong>cleanse all Fray</strong> from the chosen target.</p><p><strong>Devagas: +1 Beat</strong> to Heal 4 all allies in burst 2.</p>",
+    "discipline": "pH22B4aJoizufwpZ"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685146411104,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!tovt7I0ron1d4582"
+}

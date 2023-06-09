@@ -1,0 +1,27 @@
+{
+  "name": "Bullet Spirit Art",
+  "type": "technique",
+  "_id": "1V58UnBtnYXLVWpk",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>You spin, unleashing bullets, and then utter the mentala for the passing of days. Contort it with your spirituality. Time stops for the bullets, and at the end of it all, reckoning.</p></blockquote><p><strong>Prereq:</strong> Kalabit Diablo</p><p><strong>Spend 1 Beat</strong> to summon <strong>2 Bullets</strong> in any free squares in range 3. Any fighter that collides with the bullet suffers 1 Hit, then the bullet vanishes. At the end of any Fulmination, you may slide 2 any number of your Bullets in the field.</p><p><strong>Bullet Parasol: +1 Beat</strong> to choose a Range 3 Path 3 and place a bullet in each free square in the Path.</p>",
+    "discipline": "Bd3zoOLRYX0RNwLS"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685135274605,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!1V58UnBtnYXLVWpk"
+}

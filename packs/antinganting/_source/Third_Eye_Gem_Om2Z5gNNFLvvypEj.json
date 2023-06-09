@@ -1,0 +1,26 @@
+{
+  "name": "Third Eye Gem",
+  "type": "antingAnting",
+  "_id": "Om2Z5gNNFLvvypEj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>You have a precious stone embedded upon your brow, and it gleams with a burning fire.</em></p><p><strong>Effect:</strong> At Strike 3+, the First Hit on all your Faith Attacks becomes a <strong>True Hit</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685228007380,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!Om2Z5gNNFLvvypEj"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Eagle Eye Bracelet",
+  "type": "antingAnting",
+  "_id": "BpCiaOMuwW8TuXP7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>You have a bracelet made of gold beads, with the center being an eagle eye. It burns bright when you aim.</em></p><p><strong>Effect:</strong> When you end your Fulmination with unspent Beats, your next ranged attack gains <strong>Sharpness</strong> and <strong>+1 Attack Tooth</strong>.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685226534685,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!BpCiaOMuwW8TuXP7"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Senapati",
+  "type": "discipline",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "style": "medium",
+    "techniques": [],
+    "hp": 16,
+    "description": "<p><strong>Disciples of the Conquering King, Peerless Tacticians, Practitioner of the Martial Art of Commandment and Strategy, Ministers of the Battlefield</strong></p><p>Be who you must be, Warlord. Senapati are born from blood spilled and shed on the battlefield, that wretched hive of violence. With formidable tactics and peerless knowledge of the field, they guide their allies to victory.</p><p>Senapati is the common term for commander-at-arms of a Datu, someone who is the Datu's right hand man, who handles the statistics of armies and war bands and makes sure morale is high. They know the skills of their allies, and they make sure that their warband is optimized, ensuring victory in raids. They hire singers that will sing epics and songs to their armies, securing triumph and the favor of both the umalagad and the epics. In the battlefield, they master supreme tactics and inspiring speeches to ensure victory.</p><p>The first Senapati is said to be the great first Conquering King, Rajaraya Pintas, who blew open the sky-gates and spoke with the Sky God Si Gurang Tungko, the elder Sky God, son of the Ancient Formless Sky (who is crowned in majesty but is overwhelmingly humbled as he seeks his wife who has left him). Rajaraya Pintas was an ancient demigiant who accomplished the feat of Heaven-Conquest due to his peerless leading skill. His headwrap, the Batara Pudong, burns with the ancient knowledges of compassion and benevolence, as despite being a Conquering King, he was only able to conquer the sky with the strength of his allies.</p><p>To become a Senapati, one does not exactly need to be the right hand of the Datu. Senapati are trained and honed in the battlefield: anyone who gains an intuitive ability to inspire their allies, pull off impressive tactical displays, and learn the strengths and weaknesses of their comrades are viable to become Senapati. Of course, there are various masters of the 180 Strikes of the Conquering King can and will help: entire settlements have been built around the mastery of that grand martial art, wherein each Strike is less an attack and more of a tactical move.</p><p>Senapati are common across the isles now, even though they as a formal tradition arose during the Lakan Conspiracy, when they needed to rally warriors and to marshal tactics required to bring down the Pale King Hegemony. Senapati have always existed even before then: the title is an ancient one, belonging to the oldest of oldest of kingdoms, written and passed down in unweatherable copperplate.</p><p>Senapati are warlords of warbands, but Panglima are commanders of warrior armies. Laksamana, a name shared by an ancient monkey god-king that killed Maharajah Lawana in Banjarmasir, is the term for admiral of a sea warband. With the rise of sky barges, the term Galura, a term for the spawn of the great Eagle God Garuda, has become used as a term for sky admirals.</p><p>However, with the arrival of the Issohappans, the many Senapati stole a great number of techniques from the Issohappans and incorporated them into the 180 Strikes. From the Issohappans they took the idea of military academies, creating burgeoning warriors and warlords that can change the world.</p><p>If you become a Senapati, ask yourself why you lead your allies into inevitable violence. Your skills are fine tuned for the bloodshed caused in combat. Do you revel in the melee? Do you see yourself as a god of the battlefield? Why? Why have you chosen to be a creature of battle, a master of war yet beholden by it?</p>",
+    "violences": "<p><strong>Blow The Horns [1]:</strong> <em>Make some noise as violence begins!</em> Melee Metal Bravery Attack vs an adjacent fighter, then 1 ally that you can see may rush 1.</p><p><strong>Burning Hearts Assault [1]:</strong> <em>Strike and lead your allies to victory!</em> Ranged Fire Bravery Attack vs 1 fighter in range 3. The next attack against that target gains +1 Attack Tooth.</p><p><strong>Rajaraya Palm [1]:</strong> <em>Strike with a palm.</em> Push 1 a fighter in range 3. If they collide with an ally, the ally doesn't suffer Hits.</p>",
+    "traits": "<h3>Conquering King's Teachings</h3><p><em>The Conquering King Art was said to have been codified by Rajaraya Pintas, the First Lord, after he returned to the earth and traveled it even as the Cycles of Violence flowed. He gave it to those that would have the Bloody Want strong enough to conquer heaven once again, and find a means to end the Cycle of Violence. Each Strike is at the same time a proclamation, a Technique, and a commandment. Yet Rajaraya Pintas learned one thing as he conquered heaven: that he could not do it alone.</em></p><p>At the beginning of Violence, gain 2 Commands. Spend 1 Beat to gain 1 Command. You can only have up to 5 Command at a time.</p><p>At any point, you can immediately spend any number of Command to do the following, with X being the number of Command spent:</p><ul><li><p><strong>General's Crown:</strong> Heal one ally in range 2 equal to X+1.</p></li><li><p><strong>Bravura's Sword:</strong> Give 1 ally in range 3 +X to their BRV on their next attack.</p></li><li><p><strong>Maverick's Shield:</strong> Give 1 ally in range 3 +X to their POS against the next attack.</p></li><li><p><strong>Charging Lancer:</strong> Let 1 ally in range 3 Rush X.</p></li></ul><h3>Sound The Gongs of War!</h3><p><em>Your mastery of the battlefield is apparent and well known. However, the most important thing is actually your mastery of your allies. With the proper maneuvers and training, you command the battlefield through the strength of your bonds.</em></p><p>Spend 1 Beat to make an ally in range 3 <strong>inflict violence</strong>.</p>",
+    "weapon": "Bodyong, chopping swords, straight swords, bolo, gunong, barong, sundang",
+    "armor": "Baroti (cotton), baroti (bamboo), elephant hide pakil, cuirass, paruka, bahag, tampi, sarong, headwrap"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.298",
+    "createdTime": 1684929797640,
+    "modifiedTime": 1684931277109,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "_id": "Ua3X3o73UjtDHMet",
+  "sort": 0,
+  "_key": "!items!Ua3X3o73UjtDHMet"
+}

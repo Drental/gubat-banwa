@@ -1,0 +1,27 @@
+{
+  "name": "Sky Cloak Pamaagi",
+  "type": "technique",
+  "_id": "ghUcyrezm2hgPmHF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>The Sarimanok, holy omen birds, ascend into the sky and burst into the winds, and you become one with them. Sarimanok Knights are known for being one of the quickest warriors in the lands, able to fight and hunt down skyships.<br>An ancient story about the Sarimanok is about how the Elder Rajah Indarapatra, King of Mournful Compassion, fell in love with a certain Moon Spirit, said to have been later an incarnation of Baginda Sumongsuklay herself. When the Moon Spirit, named Bayi Bulan, ascended to the moon, Indarapatra wept, until a sarimanok that was his umalagad for so long offered to take him to the moon, where Indarapatra is said to now live in eternal happiness.</p></blockquote><p><strong>Prereq:</strong> Manaul Stone Raid</p><p><strong>Spend 1 Beat</strong> to take on the <strong>Sky Cloak Stance</strong>. While in this stance, you ignore all terrain when moving, and you ignore cover.</p><p><strong>Lightning-Struck Cultivation: +1 Beat</strong> when you take on this stance to immediately Rush 5, and then your next <strong>Metal Attack</strong> gains +1 Attack Tooth.</p><p><strong>Whirlwind Riding Mantle: +1 Beat</strong> to make it so that you <strong>Fly</strong> whenever you move while in the Stance.</p>",
+    "discipline": "qPTH32ZzDaLuCFyt"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685053230714,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!ghUcyrezm2hgPmHF"
+}

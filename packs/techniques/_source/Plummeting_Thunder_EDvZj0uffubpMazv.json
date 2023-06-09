@@ -1,0 +1,27 @@
+{
+  "name": "Plummeting Thunder",
+  "type": "technique",
+  "_id": "EDvZj0uffubpMazv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Thundering will overcome you: you will never be overcome. Jamiyun Kulisa is the Brother Thunderbolt, husband to Indira Suga, the Mother Sun. In the ancient of days, the Sky Brother stepped upon the seven heavens and reached the highest point of the sky. There he saw the stars in the void, and realized that nothingness is part of the supreme soul. With this enlightenment, he descended into the earth, and thus thunder resounded for the first time.</p></blockquote><p><strong>Prereq:</strong> Pinamaskan Pamaagi</p><p><strong>Spend 1 Beat</strong> to become like thunder: push 5 an adjacent fighter. If they collide, teleport to a square adjacent to the target and then make a <strong>Melee Air Bravery Attack</strong> against that target, as they bounce from the collision.</p><p><strong>Crashing Vajra: +1 Beat</strong> to inflict <strong>Stun (1)</strong> on the target after making the attack.</p><p><strong>Crushing Weight of Perfection: +1 Beat</strong> to push the target 3 after the attack.</p>",
+    "discipline": "IHuYAz4gU9u25fFi"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685145761428,
+    "modifiedTime": 1685149926876,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!EDvZj0uffubpMazv"
+}

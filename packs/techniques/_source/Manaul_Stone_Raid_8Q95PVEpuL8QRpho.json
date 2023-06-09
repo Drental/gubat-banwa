@@ -1,0 +1,27 @@
+{
+  "name": "Manaul Stone Raid",
+  "type": "technique",
+  "_id": "8Q95PVEpuL8QRpho",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Manaul, The King of Raptors and Fireflies, was once a king of the earthless seasky. He had owl counselors and fireflies to light his path. However he was never satiated, and tired of flying all the time, he tricked the sky and sea kings to fight each other, to create land.</p></blockquote><p><strong>Prereq:</strong> Tempest Garuda Lance</p><p><strong>Spend 1 Beat</strong> to pull up any square adjacent to you, turning it into difficult terrain, and you are now considered holding a <strong>chunk of earth (which you can only hold up to 2 of)</strong>. While holding the chunk of earth, you have cover. When you are attacked while you have a chunk of earth, roll a Chance Die after the attack. On a 5-, the rock shatters away.</p><p><strong>Throw Rock: For 1 Beat</strong> while you have a chunk of earth, you can throw it at any square in range 4, putting down a Size 1 Boulder on the square, and inflicting Push 1 on all fighters adjacent to the square (including any target on the chosen square).</p>",
+    "discipline": "qPTH32ZzDaLuCFyt"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685053009407,
+    "modifiedTime": 1685060534261,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!8Q95PVEpuL8QRpho"
+}

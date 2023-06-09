@@ -1,0 +1,27 @@
+{
+  "name": "Panglima Palms",
+  "type": "technique",
+  "_id": "FdrFbI8KvcQ66ygW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<blockquote><p>Strike fast and strike through. Only if you can break your foes can your allies see victory. This is the Conquering King's primary attack: 7 Panglima Palms that create a burning sigil upon the enemy forces, crafted and passed down by others that would learn his ancient art.</p></blockquote><p><strong>Prereq:</strong> Laksaman Whetstone</p><p><strong>Spend 1 Beat</strong> to perform the Panglima Palms: inflict <strong>Push 3</strong> on an adjacent fighter and the next attack against that fighter gains <strong>Overwhelming</strong>.</p><p><strong>Hell-Rending Heaven Palm: +1 Beat</strong> to give it the following effect: if the target collides with an ally, they suffer <strong>Stun (1)</strong>.</p>",
+    "discipline": "Ua3X3o73UjtDHMet"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685140157280,
+    "modifiedTime": 1685143513631,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!FdrFbI8KvcQ66ygW"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Dukha Paruka",
+  "type": "antingAnting",
+  "_id": "9JA1nB3E3kID2cay",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em>“Beggar’s Sandals.” Wooden sandals with a simple abaca fiber fit over it to keep the foot in place. It is raised on two rectangular platforms. It is not very notable otherwise. Beggar sandals are what Makinaadmanon wear to travel the lands, wandering mendicants, who have nothing to ride on but their feet.</em></p><p><strong>Effect:</strong> You ignore dangerous terrain when you <strong>Stride</strong>.</p><p><strong>Path of Concordance Set (1/3):</strong> When you spend <strong>2-3 Beats</strong> on a single Technique, gain <strong>Overwhelming</strong> on your next Attack.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "gubat-banwa",
+    "systemVersion": "This is auto replaced",
+    "coreVersion": "11.299",
+    "createdTime": 1685227831527,
+    "modifiedTime": 1685229437632,
+    "lastModifiedBy": "PiJcekoEVEHRgz7O"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiJcekoEVEHRgz7O": 3
+  },
+  "_key": "!items!9JA1nB3E3kID2cay"
+}
